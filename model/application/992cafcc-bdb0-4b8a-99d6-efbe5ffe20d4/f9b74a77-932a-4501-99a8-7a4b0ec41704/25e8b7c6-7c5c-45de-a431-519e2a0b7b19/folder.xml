@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6.2 Authentication and Authorization Services"
+    id="25e8b7c6-7c5c-45de-a431-519e2a0b7b19"
+    documentation="Services related to identifying users and managing their privilegies.">
+  <properties
+      key="Scope:NCOA"
+      value="TRUE"/>
+</archimate:Folder>

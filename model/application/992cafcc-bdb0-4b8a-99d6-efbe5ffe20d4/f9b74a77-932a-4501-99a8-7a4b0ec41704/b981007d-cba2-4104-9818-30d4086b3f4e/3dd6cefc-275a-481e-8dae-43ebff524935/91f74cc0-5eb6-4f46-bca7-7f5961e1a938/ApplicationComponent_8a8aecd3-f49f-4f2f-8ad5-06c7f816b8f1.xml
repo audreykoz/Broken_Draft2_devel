@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA ITSEC]  NCSA Logfile Collector and Other Security Applications  (Application Component) (copy)"
+    id="8a8aecd3-f49f-4f2f-8ad5-06c7f816b8f1"
+    documentation="Process that stores and forwards security logs from the base when connected to the Central Information Security Services."/>

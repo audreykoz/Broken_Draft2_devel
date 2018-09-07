@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logical IT Service Architecture Management"
+    id="0003ebf7-2907-4579-91ff-aaf23e35ba6c"
+    documentation="Define and manage the logical model of IT services and service elements. The model is the basis for a service catalog, financial analysis, computer security, project planning and management.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:BusinessService>

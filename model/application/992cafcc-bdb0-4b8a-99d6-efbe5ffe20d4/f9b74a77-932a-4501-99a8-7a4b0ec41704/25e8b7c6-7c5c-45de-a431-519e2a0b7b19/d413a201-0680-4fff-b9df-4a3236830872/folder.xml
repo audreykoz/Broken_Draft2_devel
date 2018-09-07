@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6.2.2 Distributed Authentication Endpoint Services"
+    id="d413a201-0680-4fff-b9df-4a3236830872"
+    documentation="Set of authentication endpoints used at each site.&#xA;&#xA;Each endpoint caches information from the Central Identity Management Services in order to provide service if it becomes unavailable.">
+  <properties
+      key="Scope:NCOA"
+      value="TRUE"/>
+</archimate:Folder>

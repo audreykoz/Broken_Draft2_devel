@@ -1,0 +1,53 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 Complete Test"
+    id="459fea8e-6b28-46ff-a1d9-0182d33cf9f2"
+    connectionRouterType="2">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="2073eeff-1efd-411b-839e-081a31147acd"
+      name="LDF interfacing Systems"
+      textAlignment="1">
+    <bounds
+        x="24"
+        y="720"
+        width="889"
+        height="241"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="1bf1cc4a-8e38-4a70-85e3-0d6dfc9dfe19"
+      name="&quot;Guest systems&quot; Systems "
+      textAlignment="1">
+    <bounds
+        x="18"
+        y="48"
+        width="901"
+        height="655"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4d5dc07e-10ef-44b2-97cb-c86ccf85fe78">
+      <bounds
+          x="840"
+          y="90"
+          width="37"
+          height="511"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_c71c9e4f-831d-4265-a92b-c291cf2687eb.xml#c71c9e4f-831d-4265-a92b-c291cf2687eb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="19e6dec6-efb1-4ff8-9e2f-1b7183a5ab9d">
+      <bounds
+          x="204"
+          y="558"
+          width="120"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_b5a8052b-273d-4921-8029-d39b9aedae31.xml#b5a8052b-273d-4921-8029-d39b9aedae31"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

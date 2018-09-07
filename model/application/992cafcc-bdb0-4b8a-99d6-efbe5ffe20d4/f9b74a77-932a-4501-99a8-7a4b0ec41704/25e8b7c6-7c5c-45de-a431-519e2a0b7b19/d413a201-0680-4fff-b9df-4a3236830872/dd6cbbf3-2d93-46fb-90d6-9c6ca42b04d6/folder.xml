@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6.2.2.4 HQ AA"
+    id="dd6cbbf3-2d93-46fb-90d6-9c6ca42b04d6"
+    documentation="Authentication Interfaces and their functions used at the HQ facility. &#xA;&#xA;CURRENTLY, NO SERVICES ARE SPECIFIED.">
+  <properties
+      key="Scope:NCOA"
+      value="TRUE"/>
+</archimate:Folder>

@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6.1.2 Distributed Information Security Services"
+    id="3dd6cefc-275a-481e-8dae-43ebff524935"
+    documentation="Set of security elements used at each site.">
+  <properties
+      key="Scope:NCOA"
+      value="TRUE"/>
+</archimate:Folder>

@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IT Financial Management"
+    id="a58b1679-ef01-43db-93dc-ba793b904052"
+    documentation="Defining processes for accounting, budgeting, and charging for IT services. Includes, but not limited to:&#xA;Defining value of services by taking into account all costs.&#xA;acquiring total cost information, &#xA;relating to Logical architecture, &#xA;comparision to trends and prior estmates,  &#xA;deciding what has overheads and how overheads are allocated to a cost structure.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.6.1.2.2 Base Information Security Services"
+    id="ccca8ac3-89d6-4a77-b898-e1f92572e7d6"
+    documentation="Set of services intended to log activity, assess security, and apply defensive access policies to network devices within the Base network.">
+  <properties
+      key="Scope:NCOA"
+      value="TRUE"/>
+</archimate:Folder>

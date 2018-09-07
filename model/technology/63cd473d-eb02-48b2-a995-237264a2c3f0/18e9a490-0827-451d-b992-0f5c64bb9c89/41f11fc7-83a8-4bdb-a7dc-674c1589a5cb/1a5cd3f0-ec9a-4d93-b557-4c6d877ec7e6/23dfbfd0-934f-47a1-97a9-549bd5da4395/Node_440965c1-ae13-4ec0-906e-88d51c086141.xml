@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Site FS] PDAC User Home And App Software File System (Logical Node)"
+    id="440965c1-ae13-4ec0-906e-88d51c086141"
+    documentation="Holds per user field contents tor PDAC users and any other-containerize  high levle application software need for PDAC operations.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>
