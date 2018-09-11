@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.2.2 Managed Consolidated Database Services"
-    id="c142c3f8-fafa-43bb-8775-e8664defb5e9">
+    id="c142c3f8-fafa-43bb-8775-e8664defb5e9"
+    documentation="Services providing access to and management of relational databases where a separate specialized implementation is not warranted. &#xA;&#xA;The services are based on Oracle Real Application Clusters (RAC). The service includes deployment of production, development, and test databases using resources of the RAC.&#xA;&#xA;TODO: model dependencies to disaster recovery, monitoring and authorization and hardware provisioning service.">
   <properties
       key="Scope:NCOA"/>
 </archimate:Folder>

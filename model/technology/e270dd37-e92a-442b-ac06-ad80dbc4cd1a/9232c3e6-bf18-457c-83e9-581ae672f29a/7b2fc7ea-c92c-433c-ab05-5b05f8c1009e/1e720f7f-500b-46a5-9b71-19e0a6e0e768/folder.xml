@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5.2.1.2 Services at Base"
+    id="1e720f7f-500b-46a5-9b71-19e0a6e0e768"
+    documentation="Management of database services based on QSERV relational technology.&#xA;&#xA;Note: Instances at the base support production only."/>

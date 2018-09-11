@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.2 Managed Database Services"
-    id="9232c3e6-bf18-457c-83e9-581ae672f29a">
+    id="9232c3e6-bf18-457c-83e9-581ae672f29a"
+    documentation="Services related to management of data in database format.">
   <properties
       key="Scope:NCOA"/>
 </archimate:Folder>

@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5.3.3.4 Special Database Instances for Production at the Base"
-    id="614440e5-b00f-4284-a32c-8bb037d5f702"/>
+    name="5.3.3.2 Services at Base"
+    id="614440e5-b00f-4284-a32c-8bb037d5f702"
+    documentation="Management of database services based on the the specific non-relational database technologies at Base.&#xA;&#xA;Note: Instances at the base support production only."/>

@@ -1,6 +1,7 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.2.1 Qserv and Companion Database Services"
-    id="7b2fc7ea-c92c-433c-ab05-5b05f8c1009e">
+    id="7b2fc7ea-c92c-433c-ab05-5b05f8c1009e"
+    documentation="Services providing access to and management of relational databases implemented with the QSERV package. &#xA;&#xA;The service includes deployment of production, development, and test databases using resources available to the database administrator.&#xA;&#xA;TODO: model dependencies to disaster recovery, monitoring and authorization and hardware provisioning service.">
   <properties/>
 </archimate:Folder>

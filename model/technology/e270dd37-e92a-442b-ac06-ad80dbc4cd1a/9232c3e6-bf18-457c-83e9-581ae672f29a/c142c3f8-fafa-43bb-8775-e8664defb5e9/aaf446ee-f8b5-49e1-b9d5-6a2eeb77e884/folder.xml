@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.2.2.2 Platform at Base"
-    id="aaf446ee-f8b5-49e1-b9d5-6a2eeb77e884"/>
+    id="aaf446ee-f8b5-49e1-b9d5-6a2eeb77e884"
+    documentation="Management of database services based on the Oracle Real Application Clusters (RAC) at Base.&#xA;&#xA;Note: Instances at the base support production only."/>
