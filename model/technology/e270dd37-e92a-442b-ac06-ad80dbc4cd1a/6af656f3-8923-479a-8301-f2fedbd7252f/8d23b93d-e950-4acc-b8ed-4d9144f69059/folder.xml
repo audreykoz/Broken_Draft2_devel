@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.3.1 Backup Services"
-    id="8d23b93d-e950-4acc-b8ed-4d9144f69059"/>
+    id="8d23b93d-e950-4acc-b8ed-4d9144f69059"
+    documentation="Short-term easy-access file-level data and metadata archiving service aimed at storing designated file system content. Includes needed capacity calculation and integrity check functionality. "/>

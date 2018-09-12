@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.3 Backup and Disaster Recovery Services "
-    id="6af656f3-8923-479a-8301-f2fedbd7252f">
+    id="6af656f3-8923-479a-8301-f2fedbd7252f"
+    documentation="Services related to prevention of loss of data relevant to LSST.">
   <properties
       key="Scope:NCOA"/>
 </archimate:Folder>
