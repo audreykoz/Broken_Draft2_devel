@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Base Service Elements"
-    id="a1b741b2-c088-4274-89fe-d9156031487f"/>
+    id="a1b741b2-c088-4274-89fe-d9156031487f"
+    documentation="Elements relating to disk-based Disaster Recovery Services located at Base."/>

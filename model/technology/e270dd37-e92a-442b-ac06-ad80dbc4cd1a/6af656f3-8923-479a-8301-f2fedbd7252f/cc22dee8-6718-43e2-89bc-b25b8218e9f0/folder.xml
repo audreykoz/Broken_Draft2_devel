@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.3.2 Disaster Recovery Services"
     id="cc22dee8-6718-43e2-89bc-b25b8218e9f0"
-    documentation="Long-term magnetic tape-based special-request filesystem-level data and metadata archiving service primarily aimed at storing raw scientific data."/>
+    documentation="Long-term special-request filesystem-level data and metadata archiving service primarily aimed at storing raw scientific data and filesystem snapshots."/>
