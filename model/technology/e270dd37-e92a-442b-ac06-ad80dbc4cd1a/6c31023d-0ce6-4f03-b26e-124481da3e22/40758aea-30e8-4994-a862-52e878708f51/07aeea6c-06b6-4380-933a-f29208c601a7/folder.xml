@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.4.1.4 NCSA Batch or the US DAC"
-    id="07aeea6c-06b6-4380-933a-f29208c601a7"/>
+    id="07aeea6c-06b6-4380-933a-f29208c601a7"
+    documentation="Batch Computing and Data Staging Environment Services as configured for the US-based Data Access Center and NCSA."/>

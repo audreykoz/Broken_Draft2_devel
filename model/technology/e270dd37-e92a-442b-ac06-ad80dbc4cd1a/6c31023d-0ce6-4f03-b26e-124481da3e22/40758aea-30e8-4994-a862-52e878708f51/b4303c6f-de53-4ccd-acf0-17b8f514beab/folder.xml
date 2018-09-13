@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.4.1.1 NCSA Batch for Developers"
-    id="b4303c6f-de53-4ccd-acf0-17b8f514beab"/>
+    id="b4303c6f-de53-4ccd-acf0-17b8f514beab"
+    documentation="Batch Computing and Data Staging Environment Services as configured for Developers and NCSA."/>
