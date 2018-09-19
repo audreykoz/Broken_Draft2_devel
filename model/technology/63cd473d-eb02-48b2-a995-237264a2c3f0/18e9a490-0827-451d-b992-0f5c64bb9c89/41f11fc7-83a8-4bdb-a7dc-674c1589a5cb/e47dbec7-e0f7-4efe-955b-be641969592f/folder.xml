@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.06 NSCA Miscellaneous DB ITC"
-    id="e47dbec7-e0f7-4efe-955b-be641969592f">
+    id="e47dbec7-e0f7-4efe-955b-be641969592f"
+    documentation="Services providing storage and servers for databases other than the consolidated database, Qserv, and User Database Workspace located at NCSA">
   <properties
       key="LDM-129"/>
   <properties

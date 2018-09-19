@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.05 NCSA Disk-Based Disaster Recovery Store"
     id="381715dc-282e-49d3-9875-ecd22b7e840a"
-    documentation="The disaster recovery storage system has an implementation that is independent of the file systems it supports.">
+    documentation="The disaster recovery storage system has an implementation that is independent of the file systems it supports.&#xA;&#xA;Disk storage backup for Disaster Recovery stores located at NCSA.">
   <properties
       key="LDM-129"/>
   <properties

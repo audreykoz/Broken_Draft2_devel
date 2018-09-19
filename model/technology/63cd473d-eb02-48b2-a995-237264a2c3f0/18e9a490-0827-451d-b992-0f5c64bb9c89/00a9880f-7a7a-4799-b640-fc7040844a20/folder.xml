@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.3 Summit Master Provisioning Enclave"
     id="00a9880f-7a7a-4799-b640-fc7040844a20"
-    documentation="This enclave hosts all LDF adminstered equipment at the summit.">
+    documentation="This enclave hosts all LDF adminstered equipment at the summit.&#xA;&#xA;Master Provisioning services located at the Summit. ">
   <properties
       key="LDM-129"/>
   <properties

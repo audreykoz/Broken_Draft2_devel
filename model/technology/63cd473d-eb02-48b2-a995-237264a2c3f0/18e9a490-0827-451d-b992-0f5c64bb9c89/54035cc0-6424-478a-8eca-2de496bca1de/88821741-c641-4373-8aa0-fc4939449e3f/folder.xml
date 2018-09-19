@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1.05 Base Disk-Based Disaster Recovery Store"
     id="88821741-c641-4373-8aa0-fc4939449e3f"
-    documentation="The disaster recovery storage system has an implementation that is independent of the file systems it supports.">
+    documentation="The disaster recovery storage system has an implementation that is independent of the file systems it supports.&#xA;&#xA;Disk storage backup for Disaster Recovery stores located at the Base.">
   <properties
       key="LDM-129"/>
   <properties
