@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.07 NCSA NPCF LSST Bespoken VMWare "
     id="edb66cff-2934-4925-95d7-9d8899398ffe"
-    documentation="Production quality virtualization supporting robust services for LSST.&#xA;&#xA;Elements pertaining to core funtionality of VMware.">
+    documentation="Components proving administrative and protective funtionality for Virtual Machines located at the National Petascale Computing Facility.">
   <properties
       key="LDM-129"/>
   <properties

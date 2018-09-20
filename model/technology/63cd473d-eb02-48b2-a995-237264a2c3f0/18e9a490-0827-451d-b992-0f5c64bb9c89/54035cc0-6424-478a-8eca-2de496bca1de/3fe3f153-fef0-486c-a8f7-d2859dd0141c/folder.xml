@@ -1,8 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.1.07 Base VMWare Admin and IT Security and AA"
+    name="7.2.1.07 Base VMWare Administration and Information Security Infrastructure"
     id="3fe3f153-fef0-486c-a8f7-d2859dd0141c"
-    documentation="For the Base this is a VMWare installation, which supports system adminsitration functions, the Computer Security effort. TBD Other  logical items cna be assignged to the corresponding physical node when logical to physicial mapping is done.  This category also includes &#x9;networking equipment to tap the border routers and convey the information to the information security provisioning enumerated here.  &#xA;&#xA;Security components proving administrative, protective and authenticational funtionality for VMware installations located at the Base.">
+    documentation="Components proving administrative and protective funtionality for Virtual Machines located at the Base.&#xA;&#xA;For the Base this is a VMWare installation, which supports system adminsitration functions, the Computer Security effort. TBD Other  logical items cna be assignged to the corresponding physical node when logical to physicial mapping is done.  This category also includes &#x9;networking equipment to tap the border routers and convey the information to the information security provisioning enumerated here. &#xA;&#xA;">
   <properties
       key="LDM-129"/>
   <properties

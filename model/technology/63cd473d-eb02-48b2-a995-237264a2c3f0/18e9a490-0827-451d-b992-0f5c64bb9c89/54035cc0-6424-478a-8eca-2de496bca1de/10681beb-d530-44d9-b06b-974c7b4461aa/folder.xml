@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1.06 Base Miscellaneous DB ITC"
     id="10681beb-d530-44d9-b06b-974c7b4461aa"
-    documentation="Provisioning for databases other than QSERV or hosted from the consolidated database.&#xA;&#xA;Services providing storage and servers for databases other than the consolidated database, Qserv, and User Database Workspace located at the Base.">
+    documentation="Services providing storage and servers for databases other than the consolidated database, Qserv, and User Database Workspace located at the Base.">
   <properties
       key="LDM-129"/>
   <properties

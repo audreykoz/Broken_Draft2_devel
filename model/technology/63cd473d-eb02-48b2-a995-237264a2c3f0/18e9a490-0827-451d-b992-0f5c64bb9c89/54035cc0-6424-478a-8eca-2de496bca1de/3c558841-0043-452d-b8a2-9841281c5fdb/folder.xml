@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1.01 Base Batch Cluster Core ITC"
     id="3c558841-0043-452d-b8a2-9841281c5fdb"
-    documentation="This is a collection of batch nodes that are dispensed for use in the Production, Development and DAC enclaves. During the process of dispensing the nodes, the nodes are configured to the management and information security requirements of each enclave.&#xA;&#xA;Cluster of reassignable computational resources located at the Base.">
+    documentation="Cluster of reassignable batch computational resources located at the Base used for Production, Development and Data Access Centers.&#xA;&#xA;During the process of dispensing the nodes, the nodes are configured to the management and information security requirements of each enclave.">
   <properties
       key="LDM-129"/>
   <properties
