@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.2.09 NCSA LSST Specific Admin Methodology Development ITC"
-    id="71dc6c43-f268-4d07-9551-cd90a146e5d5">
+    name="7.3.5 NCSA LSST Specific Admin Methodology Development ITC"
+    id="71dc6c43-f268-4d07-9551-cd90a146e5d5"
+    documentation="Standalone systems supporting general development for system administrators.">
   <properties
       key="LDM-129"/>
   <properties

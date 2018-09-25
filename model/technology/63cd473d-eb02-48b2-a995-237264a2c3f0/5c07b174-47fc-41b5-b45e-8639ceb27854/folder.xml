@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3 NCSA Development and Integration Enclave "
     id="5c07b174-47fc-41b5-b45e-8639ceb27854"
-    documentation="Systems used for the development and testing of LSST software and institations.">
+    documentation="Systems used for the development and testing of LSST services before deployment into production.">
   <properties
       key="LDM-129"/>
   <properties

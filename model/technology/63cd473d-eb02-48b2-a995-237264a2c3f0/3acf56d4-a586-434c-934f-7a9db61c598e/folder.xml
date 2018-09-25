@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.4 NCSA Production Enclave"
     id="3acf56d4-a586-434c-934f-7a9db61c598e"
-    documentation="Live NCSA processing enclave.">
+    documentation="Live NCSA processing enclave.&#xA;&#xA;Shielded from filesystems containing non-formal data.">
   <properties
       key="LDM-129"/>
   <properties

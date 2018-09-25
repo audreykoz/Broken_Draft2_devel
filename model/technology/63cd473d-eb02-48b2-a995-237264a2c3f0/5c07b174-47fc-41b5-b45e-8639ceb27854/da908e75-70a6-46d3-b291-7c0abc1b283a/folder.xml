@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3.4 LSST DEV and Misc"
     id="da908e75-70a6-46d3-b291-7c0abc1b283a"
-    documentation="Miscellanious development elements that do not fit into any toher group.">
+    documentation="Standalone systems supporting general development for LSST staff and selected outside collaborators.&#xA;&#xA;These resources are augmented with resources from the master provisioning enclave for batch procesing, storage, and containerized application management.">
   <properties
       key="LDM-129"/>
   <properties
