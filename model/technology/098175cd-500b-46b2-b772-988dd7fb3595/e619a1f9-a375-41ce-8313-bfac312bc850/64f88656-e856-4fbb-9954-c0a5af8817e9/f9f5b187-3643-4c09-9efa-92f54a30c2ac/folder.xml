@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Links to Chicago POPS"
     id="f9f5b187-3643-4c09-9efa-92f54a30c2ac"
-    documentation="NCSA's dedicated fibre channels to Chicago.">
+    documentation="NCSA's dedicated channels on Fiber connecting National Petascale Computing Facility to network points of presence Chicago.">
   <properties
       key="LOC:Illinois"/>
   <properties

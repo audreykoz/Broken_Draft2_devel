@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5.5.1.1 Core Kubernetes"
+    name="5.5.1.5 Core Kubernetes"
     id="f03e540d-24a4-4f69-b92a-5e178b394373"
-    documentation="Elements pertaining to the Kubernetes application conterizing system located at NCSA."/>
+    documentation="Elements pertaining to the Kubernetes container orchestration system located at NCSA set up for reallocating unused nodes with a configuration appropriate for US-based Data Access Center, Developers, Production, or Integration."/>

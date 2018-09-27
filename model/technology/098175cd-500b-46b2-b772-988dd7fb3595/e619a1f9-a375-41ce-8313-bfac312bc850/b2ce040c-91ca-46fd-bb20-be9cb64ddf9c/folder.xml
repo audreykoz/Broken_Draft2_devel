@@ -1,8 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Room 3003 VMware"
+    name="Room 3003 Equipment"
     id="b2ce040c-91ca-46fd-bb20-be9cb64ddf9c"
-    documentation="VMware components colated at the NCSA 3003 lab. ">
+    documentation="Various components located at NCSA's 3003 computing room.">
   <properties
       key="LDM-129"/>
   <properties

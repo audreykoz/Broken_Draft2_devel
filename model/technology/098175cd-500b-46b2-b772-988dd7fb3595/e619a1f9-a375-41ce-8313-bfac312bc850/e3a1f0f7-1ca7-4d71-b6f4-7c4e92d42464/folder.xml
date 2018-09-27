@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NCSA Mass Store Technology Services"
     id="e3a1f0f7-1ca7-4d71-b6f4-7c4e92d42464"
-    documentation="Components relating to NCSA's tape-based Mass Storage.">
+    documentation="Components relating to NCSA's tape and disk based Mass Storage.">
   <properties
       key="LDM-129"/>
   <properties

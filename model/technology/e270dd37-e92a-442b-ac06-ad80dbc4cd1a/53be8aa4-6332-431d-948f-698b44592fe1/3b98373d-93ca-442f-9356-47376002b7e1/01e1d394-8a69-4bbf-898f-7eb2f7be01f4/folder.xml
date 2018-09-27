@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5.5.2.1 Core Kubernetes"
+    name="5.5.2.3 Core Kubernetes"
     id="01e1d394-8a69-4bbf-898f-7eb2f7be01f4"
-    documentation="Elements pertaining to the Kubernetes application conterizing system located at the Base."/>
+    documentation="Kubernetes container orchestration system set up for reallocating unused nodes with a configuration appropriate for Chilean Data Access Center or Comissioning Cluster located at the base."/>
