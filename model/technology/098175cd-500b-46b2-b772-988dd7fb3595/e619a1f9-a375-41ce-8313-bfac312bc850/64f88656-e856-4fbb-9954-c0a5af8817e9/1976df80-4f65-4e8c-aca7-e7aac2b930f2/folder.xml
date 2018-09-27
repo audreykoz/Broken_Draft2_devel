@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NPCF Common Networking"
-    id="1976df80-4f65-4e8c-aca7-e7aac2b930f2">
+    id="1976df80-4f65-4e8c-aca7-e7aac2b930f2"
+    documentation="Networking needs of National Petascale Computing Facility.">
   <properties
       key="loc:NPCF"/>
   <properties

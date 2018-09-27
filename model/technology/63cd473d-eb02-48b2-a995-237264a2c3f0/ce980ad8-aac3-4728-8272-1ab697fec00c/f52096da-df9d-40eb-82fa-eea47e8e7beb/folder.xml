@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.2 NCSA L1 ITC"
-    id="f52096da-df9d-40eb-82fa-eea47e8e7beb">
+    id="f52096da-df9d-40eb-82fa-eea47e8e7beb"
+    documentation="Production Information Technology and Communications located at NCSA directly relating to the operation of the survey instruments.">
   <properties
       key="LDM-129"/>
   <properties

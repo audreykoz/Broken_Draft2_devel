@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5.5 Containerized Application Management Services"
-    id="53be8aa4-6332-431d-948f-698b44592fe1">
+    id="53be8aa4-6332-431d-948f-698b44592fe1"
+    documentation="All Services related to the systems managing application contenerizing.">
   <properties
       key="Scope:NCOA"/>
 </archimate:Folder>

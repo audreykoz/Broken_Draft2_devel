@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7 NCSA, Base, Tucson L1 ITC and Tucson Test Stands (Excludes Site File Systems)"
-    id="ce980ad8-aac3-4728-8272-1ab697fec00c">
+    id="ce980ad8-aac3-4728-8272-1ab697fec00c"
+    documentation="Components related to ITC components related to to the operation of the survey instruments.">
   <properties
       key="LDM-129"/>
   <properties

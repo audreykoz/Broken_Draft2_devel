@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NCSA Openstack Technology Services"
-    id="52732b79-0cd6-41c0-93b0-806651efadb9">
+    id="52732b79-0cd6-41c0-93b0-806651efadb9"
+    documentation="Services related to OPenstack cloud computing infrastructure.&#xA;//sign">
   <properties
       key="LDM-129"/>
   <properties

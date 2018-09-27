@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.1.2 Comcam Bundle ITC"
-    id="ec1fa269-d587-4755-84be-b026d462b293">
+    id="ec1fa269-d587-4755-84be-b026d462b293"
+    documentation="Information Technology and Communications elements pertaining to the ComCam (comissioning camera) located in Tucson.">
   <properties
       key="LDM-129"/>
   <properties

@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.3.1 Spectrograph Test Stand ITC"
-    id="69be3e1d-11db-4165-a0a2-a8cedc6f3f49">
+    id="69be3e1d-11db-4165-a0a2-a8cedc6f3f49"
+    documentation="Information Technology and Communications of the Spectorograph Test stand -  a multi-component emulation and testing environment.">
   <properties
       key="LDM-129"/>
   <properties

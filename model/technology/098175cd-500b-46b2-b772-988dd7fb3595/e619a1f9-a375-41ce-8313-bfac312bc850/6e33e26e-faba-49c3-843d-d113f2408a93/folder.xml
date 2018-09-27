@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NCSA Network Security Technology Services"
-    id="6e33e26e-faba-49c3-843d-d113f2408a93">
+    id="6e33e26e-faba-49c3-843d-d113f2408a93"
+    documentation="NCSA's own security components.">
   <properties
       key="LDM-129"/>
   <properties

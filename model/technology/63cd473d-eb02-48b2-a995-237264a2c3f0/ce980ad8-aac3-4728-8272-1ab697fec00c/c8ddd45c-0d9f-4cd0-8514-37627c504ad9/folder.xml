@@ -1,7 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.1 Base L1 ITC"
-    id="c8ddd45c-0d9f-4cd0-8514-37627c504ad9">
+    id="c8ddd45c-0d9f-4cd0-8514-37627c504ad9"
+    documentation="Production Information Technology and Communications located at the Base directly relating to the operation of the survey instruments.">
   <properties
       key="LDM-129"/>
   <properties
