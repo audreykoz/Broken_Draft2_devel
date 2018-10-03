@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chilean DAC"
-    id="a77b2167-6482-4d48-95c7-a1915faeb4bd"/>
+    id="a77b2167-6482-4d48-95c7-a1915faeb4bd"
+    documentation="Services managing and providing Scientists access to data located at the Chilean Data Access Center."/>
