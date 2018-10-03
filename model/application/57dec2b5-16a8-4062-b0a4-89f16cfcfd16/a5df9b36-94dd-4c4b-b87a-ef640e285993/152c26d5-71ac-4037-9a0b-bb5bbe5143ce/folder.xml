@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.1.05 LSSTCam Prompt Processing for Feedback to Ops"
+    name="3.1.3 LSSTCam Prompt Processing for Feedback to Ops"
     id="152c26d5-71ac-4037-9a0b-bb5bbe5143ce"
     documentation="Services related to image quality evaluation, alerts, image parameter return, and populating the Prompt Products Database for Operations."/>

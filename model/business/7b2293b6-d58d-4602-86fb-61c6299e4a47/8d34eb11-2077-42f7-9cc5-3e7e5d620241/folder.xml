@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Desk"
+    id="8d34eb11-2077-42f7-9cc5-3e7e5d620241"
+    documentation="Services providing 24/7 point of contact and support for scientists and users of services.&#xA;&#xA;Duties include things like filing tickets, initiation resonse, and filling standard requests, as well as maintaining records and statistics about reported problems and incidents.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:Folder>

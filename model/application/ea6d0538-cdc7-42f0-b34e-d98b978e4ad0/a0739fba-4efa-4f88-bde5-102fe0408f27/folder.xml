@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.1 Reusable Prompt Processing Service"
-    id="a0739fba-4efa-4f88-bde5-102fe0408f27"/>
+    id="a0739fba-4efa-4f88-bde5-102fe0408f27"
+    documentation="Service providing large-scale real-time exposures taken by LSST.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:Folder>
