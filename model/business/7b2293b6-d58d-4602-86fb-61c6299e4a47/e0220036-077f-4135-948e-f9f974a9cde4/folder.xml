@@ -1,4 +1,9 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0.1 User Rights Management"
-    id="e0220036-077f-4135-948e-f9f974a9cde4"/>
+    id="e0220036-077f-4135-948e-f9f974a9cde4"
+    documentation="Processes pertaining to management of staff and user rights within the LSST Data facility.&#xA;&#xA;The overall responsibility to assure that the rights given to users are consistent with supervising policies that come from high-level LSST management.&#xA;&#xA;The system of processes that implements rights management are effective.&#xA;&#xA;&#xA;">
+  <properties
+      key="Todo:Description"
+      value="Discuss scope and condense."/>
+</archimate:Folder>

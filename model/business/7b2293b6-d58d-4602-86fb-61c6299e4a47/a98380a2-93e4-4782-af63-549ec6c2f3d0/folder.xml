@@ -1,4 +1,9 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0.2 Ultimate Care of Data"
-    id="a98380a2-93e4-4782-af63-549ec6c2f3d0"/>
+    id="a98380a2-93e4-4782-af63-549ec6c2f3d0"
+    documentation="Processes pertaining to management of file and relational data within the LSST Data facility.&#xA;&#xA;Processes assure that every data element is covered by a lifecycle policy (retention, generl purpose, semantic info retention, what users do to data). ">
+  <properties
+      key="Todo:Move"
+      value="Translate to adult english"/>
+</archimate:Folder>
