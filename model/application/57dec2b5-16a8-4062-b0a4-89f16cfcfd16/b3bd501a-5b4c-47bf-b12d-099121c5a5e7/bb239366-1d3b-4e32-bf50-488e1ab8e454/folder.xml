@@ -1,5 +1,4 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.3.2 Facility-to-Scientist Data Interchange"
-    id="bb239366-1d3b-4e32-bf50-488e1ab8e454"
-    documentation="Services managing and providing Scientists access to data."/>
+    name="3.3.1 User Data Access Services"
+    id="bb239366-1d3b-4e32-bf50-488e1ab8e454"/>

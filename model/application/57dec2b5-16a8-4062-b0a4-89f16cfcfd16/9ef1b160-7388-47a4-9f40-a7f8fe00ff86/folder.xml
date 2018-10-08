@@ -1,8 +1,4 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.2 Services for Designated Campaign Processing "
-    id="9ef1b160-7388-47a4-9f40-a7f8fe00ff86"
-    documentation="Processing acquired data based on data arrival and availability events, as well as set in the processing schedule.">
-  <properties
-      key="Scope:NCOA"/>
-</archimate:Folder>
+    name="3.2 Services for Designated Offline Campaign Processing "
+    id="9ef1b160-7388-47a4-9f40-a7f8fe00ff86"/>

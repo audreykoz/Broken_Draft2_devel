@@ -1,8 +1,4 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.4 Master Batch Job Scheduling Service"
-    id="c7cd0b4d-b783-4daf-91bd-2e100be7b23d"
-    documentation="Services satisfies processing needs of the experiement according to the experiment's priority and the optimal use of resources.">
-  <properties
-      key="Scope:NCOA"/>
-</archimate:Folder>
+    id="c7cd0b4d-b783-4daf-91bd-2e100be7b23d"/>

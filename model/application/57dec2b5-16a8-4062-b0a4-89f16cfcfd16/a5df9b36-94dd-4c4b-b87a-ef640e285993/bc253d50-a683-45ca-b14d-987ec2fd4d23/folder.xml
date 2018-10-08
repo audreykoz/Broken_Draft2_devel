@@ -1,8 +1,0 @@
-<archimate:Folder
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.1.2 Instrument Acquisiton and Archiving Services"
-    id="bc253d50-a683-45ca-b14d-987ec2fd4d23"
-    documentation="Services which acquire digitized raw data from instruments, making the data immediately availalbe to the observatory, and archive the resulting files into a data store.">
-  <properties
-      key="Scope:NCOA"/>
-</archimate:Folder>
