@@ -1,4 +1,7 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="0 Managment Functions "
-    id="7b2293b6-d58d-4602-86fb-61c6299e4a47"/>
+    id="7b2293b6-d58d-4602-86fb-61c6299e4a47">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:Folder>
