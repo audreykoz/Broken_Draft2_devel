@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Pipeline] L1 PSF and Background Characterization (Application Process)"
-    id="d197becd-4809-4b23-ad00-8d0e18df23e8"/>
+    id="d197becd-4809-4b23-ad00-8d0e18df23e8"
+    documentation="A fully processed image with uncalibrated sources detected and PSF characterized "/>

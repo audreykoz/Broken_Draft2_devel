@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pipeline Configuration Change Inserted into Production System (Business Event)"
-    id="4e678286-4169-4b78-9ba6-693f4729cfea"/>
+    id="4e678286-4169-4b78-9ba6-693f4729cfea"
+    documentation="Introduce new software/hardware/parameter changes goverened by Science Operations &#xA;"/>

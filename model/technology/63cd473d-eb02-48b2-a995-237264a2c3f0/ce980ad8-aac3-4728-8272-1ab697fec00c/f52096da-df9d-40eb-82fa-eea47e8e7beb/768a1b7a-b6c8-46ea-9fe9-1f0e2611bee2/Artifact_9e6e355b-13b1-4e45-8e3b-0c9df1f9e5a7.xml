@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached CCD Component of L1 IC Exposure (Artifact)"
-    id="9e6e355b-13b1-4e45-8e3b-0c9df1f9e5a7"/>
+    id="9e6e355b-13b1-4e45-8e3b-0c9df1f9e5a7"
+    documentation="Copy of the fully processed background subtracted exposure "/>
