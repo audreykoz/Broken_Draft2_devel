@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Risk Management"
-    id="e22bac7c-74af-449a-a84b-09a8ec8ab0cd"/>
+    id="e22bac7c-74af-449a-a84b-09a8ec8ab0cd"
+    documentation="Process of identifying identifying, assessing and controlling risks."/>
