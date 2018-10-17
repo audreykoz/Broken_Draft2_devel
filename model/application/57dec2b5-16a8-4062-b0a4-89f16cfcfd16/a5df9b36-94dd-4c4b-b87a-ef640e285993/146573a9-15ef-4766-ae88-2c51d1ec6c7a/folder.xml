@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1.04 LSSTCam Archiving"
     id="146573a9-15ef-4766-ae88-2c51d1ec6c7a"
-    documentation="Services related to the archival of designated raw data acquired from the main LSST camera."/>
+    documentation="Services related to the archival of raw data acquired from the main LSST camera."/>
