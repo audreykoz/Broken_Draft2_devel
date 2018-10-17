@@ -1,4 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="B.3 Service Transition"
-    id="1365dc64-45b2-46a3-b23d-5ff63e461ae6"/>
+    id="1365dc64-45b2-46a3-b23d-5ff63e461ae6"
+    documentation="Processes pertaining to the creation and deployment of IT services.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:Folder>
