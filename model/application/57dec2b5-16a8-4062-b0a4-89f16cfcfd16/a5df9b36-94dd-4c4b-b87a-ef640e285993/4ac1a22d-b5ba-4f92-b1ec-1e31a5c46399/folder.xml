@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spectrograph Header Service"
-    id="4ac1a22d-b5ba-4f92-b1ec-1e31a5c46399"/>
+    name="3.1.11 Spectrograph Header Service"
+    id="4ac1a22d-b5ba-4f92-b1ec-1e31a5c46399"
+    documentation="Compiles the metadata needed to document a spectrograph exposure. "/>
