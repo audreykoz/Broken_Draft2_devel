@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="B.1 Service Strategy"
     id="4c8bdd12-d8bc-4e6f-8380-30c5821979a6"
-    documentation="Various processes pertaining to decisions regarding the strategy on serving the client."/>
+    documentation="Various processes pertaining to decisions regarding the strategy on serving the client.">
+  <properties
+      key="Scope:NCOA"/>
+</archimate:Folder>
