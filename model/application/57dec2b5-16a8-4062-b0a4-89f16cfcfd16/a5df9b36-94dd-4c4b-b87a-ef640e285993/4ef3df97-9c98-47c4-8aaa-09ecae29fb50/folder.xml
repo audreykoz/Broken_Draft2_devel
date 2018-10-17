@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1.03 Comcam Archiving"
     id="4ef3df97-9c98-47c4-8aaa-09ecae29fb50"
-    documentation="Services related to archival of raw data from the comissioning camera.&#xA;&#xA;The comissioning camera is a prototype, nine Charge-couple device made of one &quot;raft&quot; of the type that will be used in the main LSST camera."/>
+    documentation="Services related to archival of raw data from the comissioning camera."/>

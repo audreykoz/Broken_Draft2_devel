@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Nightly Prep (Business Event)"
-    id="20fbfc16-b488-4caa-861a-fd546368e271"/>
+    name="L1 LDF Nightly Prep (Business Event)"
+    id="20fbfc16-b488-4caa-861a-fd546368e271"
+    documentation="The beginning of activities that occur late in the day and muist conclude by the beginning of observing "/>

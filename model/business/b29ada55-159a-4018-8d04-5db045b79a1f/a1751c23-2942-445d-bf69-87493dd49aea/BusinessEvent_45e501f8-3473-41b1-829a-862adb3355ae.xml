@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Morning Ops (Business Event)"
-    id="45e501f8-3473-41b1-829a-862adb3355ae"/>
+    name="LDF Morning Ops (Business Event)"
+    id="45e501f8-3473-41b1-829a-862adb3355ae"
+    documentation="Confirming previous night's data is processed and registered "/>

@@ -1,5 +1,4 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1.08 Offline L1 Processing "
-    id="125d4bc1-3314-4ba0-9deb-076e6f062cdc"
-    documentation="Services providing the ability to perform computations normally done online within the L1 System in the offline batch environement."/>
+    id="125d4bc1-3314-4ba0-9deb-076e6f062cdc"/>

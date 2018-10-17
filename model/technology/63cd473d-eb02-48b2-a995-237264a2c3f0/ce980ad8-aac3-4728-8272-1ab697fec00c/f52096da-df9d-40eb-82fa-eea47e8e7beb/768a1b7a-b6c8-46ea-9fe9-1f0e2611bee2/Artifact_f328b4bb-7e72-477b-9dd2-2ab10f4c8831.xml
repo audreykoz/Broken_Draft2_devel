@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached CCD Component of Crosstalk Corrected Exposure (Artifact)"
-    id="f328b4bb-7e72-477b-9dd2-2ab10f4c8831"/>
+    id="f328b4bb-7e72-477b-9dd2-2ab10f4c8831"
+    documentation="A copy of the crosstalk corrected image retained "/>
