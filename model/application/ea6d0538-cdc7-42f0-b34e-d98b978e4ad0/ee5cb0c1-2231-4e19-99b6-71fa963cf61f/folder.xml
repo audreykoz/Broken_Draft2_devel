@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.7 Management of Staff and End-User Data Rights"
     id="ee5cb0c1-2231-4e19-99b6-71fa963cf61f"
-    documentation="Services related to settin permissions and rights for non-automated user rights management.&#xA;&#xA;This assumes that user rights management for national rights is substantially automated by use of InCommon.">
+    documentation="Services related to settin permissions and rights for non-automated user rights management.&#xA;&#xA;This assumes that user rights management for national rights is substantially automated by use of InCommon (auth).">
   <properties
       key="Scope:NCOA"/>
   <properties

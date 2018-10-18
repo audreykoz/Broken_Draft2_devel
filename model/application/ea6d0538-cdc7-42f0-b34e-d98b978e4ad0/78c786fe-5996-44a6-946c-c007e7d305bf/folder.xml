@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.6 Implementation of File Management Policies and High Level Workflows"
-    id="78c786fe-5996-44a6-946c-c007e7d305bf"/>
+    id="78c786fe-5996-44a6-946c-c007e7d305bf"
+    documentation="services maintaining the integritym, lifecycle, and lcation of LSST data. where data is and how long it sticks around."/>

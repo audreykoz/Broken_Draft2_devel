@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.4 Master Batch Job Scheduling Service"
-    id="c7cd0b4d-b783-4daf-91bd-2e100be7b23d"/>
+    id="c7cd0b4d-b783-4daf-91bd-2e100be7b23d"
+    documentation="service that supports all processing campaigns and utilizes resources and utilizes batch resources accourding to the batche's priority. what's importaant?"/>

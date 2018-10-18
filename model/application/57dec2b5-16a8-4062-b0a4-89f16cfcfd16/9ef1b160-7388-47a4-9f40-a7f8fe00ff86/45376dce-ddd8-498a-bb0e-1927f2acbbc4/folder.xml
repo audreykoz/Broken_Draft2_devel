@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="1 HSC and Other Cameras"
-    id="45376dce-ddd8-498a-bb0e-1927f2acbbc4"/>
+    id="45376dce-ddd8-498a-bb0e-1927f2acbbc4"
+    documentation="Processing data from precursor cameras before processing can eb forcused on lSST cameras."/>

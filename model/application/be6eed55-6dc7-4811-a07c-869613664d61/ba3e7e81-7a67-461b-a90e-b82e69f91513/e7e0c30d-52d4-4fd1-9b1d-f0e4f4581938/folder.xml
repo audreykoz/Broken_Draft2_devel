@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Engineering and Facilities Database"
-    id="e7e0c30d-52d4-4fd1-9b1d-f0e4f4581938"/>
+    id="e7e0c30d-52d4-4fd1-9b1d-f0e4f4581938"
+    documentation="database of telescope site and camera operation information (what was wind, where was dome)."/>
