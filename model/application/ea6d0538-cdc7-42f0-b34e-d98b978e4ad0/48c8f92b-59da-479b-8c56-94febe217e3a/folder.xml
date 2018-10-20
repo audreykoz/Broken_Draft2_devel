@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="4.3 Telemetry Gatewaying Service"
     id="48c8f92b-59da-479b-8c56-94febe217e3a"
-    documentation="service allowing information originating outside the critical operations (physical impact) enclave to enter to critical operations enclave (special door) in chil;e"/>
+    documentation="Services allowing information originating outside the critical (possible physical impact) operations  enclave to enter to critical operations enclave in chile."/>

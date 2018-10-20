@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1.12 Comcam Header Service"
     id="6d9e4514-5afd-4e04-8877-d70ebf7ba1d5"
-    documentation="Just describe">
+    documentation="Services compiling the metadata needed to document a comissioning camera exposure. ">
   <properties
       key="Todo:Description"/>
 </archimate:Folder>

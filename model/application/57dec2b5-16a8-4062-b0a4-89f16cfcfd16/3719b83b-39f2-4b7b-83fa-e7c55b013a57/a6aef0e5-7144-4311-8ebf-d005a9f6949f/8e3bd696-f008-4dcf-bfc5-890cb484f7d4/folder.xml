@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.4.2.3 LSST Developer Database Service"
     id="8e3bd696-f008-4dcf-bfc5-890cb484f7d4"
-    documentation="instance of a database which is connected to the authentication and authorization services and is abcked up, but otherwise is unmanaged."/>
+    documentation="Instance of a database which is connected to the authentication and authorization services and is backed up, but is otherwise unmanaged."/>

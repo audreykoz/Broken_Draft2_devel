@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.1.10 QA and Base Computing Task Endpoint"
     id="0513457b-a120-428e-b5e1-3233e032f55c"
-    documentation="Instance of LSST science platform at the base for use by project staff.&#xA;Quality Assurance">
+    documentation="Instance of LSST science platform at the base for use by project staff for computing and Quality Assurance needs.&#xA;Quality Assurance">
   <properties
       key="Todo:Title"/>
 </archimate:Folder>

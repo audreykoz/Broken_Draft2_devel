@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3.3.3 Bulk Export"
     id="b39021c0-3c88-4297-ba90-1d9373a0500f"
-    documentation="provision of large amounts of file-based data to entities trusted to handle proprietary lsst data."/>
+    documentation="Services providing large amounts of file-based data to entities trusted to handle proprietary LSST data."/>
