@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manage L1 Realtime Database Table Content (Application Process)"
-    id="446a5c2a-851e-4150-8652-82671c2ac762"/>
+    id="446a5c2a-851e-4150-8652-82671c2ac762"
+    documentation="Purge DIA objects and SSObjects from cache according to policy"/>

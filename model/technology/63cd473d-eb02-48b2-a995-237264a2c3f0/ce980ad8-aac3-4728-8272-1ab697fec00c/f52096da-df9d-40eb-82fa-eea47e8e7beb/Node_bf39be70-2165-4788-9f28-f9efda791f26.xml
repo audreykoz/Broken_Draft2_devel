@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="L1 Real Time Database (Node) **NEED TO MERGE**"
-    id="bf39be70-2165-4788-9f28-f9efda791f26"/>
+    id="bf39be70-2165-4788-9f28-f9efda791f26"
+    documentation="A relatioonal database with availability and capacity consistent with L1 processing needs. It contains DIA sources, DIA objects, and SSObjects"/>

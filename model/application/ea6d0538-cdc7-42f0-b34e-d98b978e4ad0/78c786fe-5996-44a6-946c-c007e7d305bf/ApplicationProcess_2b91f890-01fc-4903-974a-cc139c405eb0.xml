@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Replace or update templates (Application Process)"
-    id="2b91f890-01fc-4903-974a-cc139c405eb0"/>
+    name="Replace or Update Templates (Application Process)"
+    id="2b91f890-01fc-4903-974a-cc139c405eb0"
+    documentation="Move template according to policy, purge stale data according to cache **REQUIRES MORE THOUGHT**"/>

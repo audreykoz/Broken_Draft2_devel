@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Retained Diff Templates (Artifact)"
-    id="0451d47c-bb4c-449c-99d2-b94c256440d8"/>
+    id="0451d47c-bb4c-449c-99d2-b94c256440d8"
+    documentation="COADD image produced yearly in each ugrizY bands for multiple air masses "/>

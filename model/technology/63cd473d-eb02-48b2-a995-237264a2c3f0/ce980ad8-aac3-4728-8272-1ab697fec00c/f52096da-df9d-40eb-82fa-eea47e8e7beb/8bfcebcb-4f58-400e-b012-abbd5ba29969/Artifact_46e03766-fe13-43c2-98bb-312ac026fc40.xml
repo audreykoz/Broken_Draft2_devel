@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="L1 DIA Sources (Artifact)"
-    id="46e03766-fe13-43c2-98bb-312ac026fc40"/>
+    id="46e03766-fe13-43c2-98bb-312ac026fc40"
+    documentation="Cached version of individual detections (sources) in the difference image for migration to data backbone"/>

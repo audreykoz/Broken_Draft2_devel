@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manage L1 Input Output Cache File Content (Application Process)"
     id="9e20deef-5324-4a69-b5ac-df37010c4caa"
-    documentation="Purge contents according to policy "/>
+    documentation="Purge DIA image and QA content according to policy, purge stale data according to cache"/>
