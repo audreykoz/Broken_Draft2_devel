@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="2 L1 Alert Detection Retained Data Lifecycle Management"
+    name="2 L1 Source Detection and Association Retained Data Lifecycle Management"
     id="3fa05190-38da-457a-922a-19706929a6ef">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
