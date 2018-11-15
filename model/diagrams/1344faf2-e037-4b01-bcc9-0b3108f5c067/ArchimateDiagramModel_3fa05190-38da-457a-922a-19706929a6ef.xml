@@ -307,7 +307,7 @@
         x="35"
         y="621"
         width="151"
-        height="85"/>
+        height="100"/>
     <archimateElement
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_2b91f890-01fc-4903-974a-cc139c405eb0.xml#2b91f890-01fc-4903-974a-cc139c405eb0"/>
@@ -801,7 +801,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="02c02297-7ee2-4dc3-9b48-b2295e96c169"
-      targetConnections="c924142e-c8a6-4358-9ff5-cf5cdea71c7c a24b9d16-336e-4653-956a-fd7b031bfc16">
+      targetConnections="c924142e-c8a6-4358-9ff5-cf5cdea71c7c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="55854a23-e4f1-4875-ac95-cf573ca4b66e"
@@ -844,7 +844,7 @@
         x="446"
         y="621"
         width="149"
-        height="85"/>
+        height="100"/>
     <archimateElement
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_9e20deef-5324-4a69-b5ac-df37010c4caa.xml#9e20deef-5324-4a69-b5ac-df37010c4caa"/>
@@ -873,15 +873,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d452e9a4-6cc6-479e-8a0e-6cb8b8c252ba">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a24b9d16-336e-4653-956a-fd7b031bfc16"
-        source="d452e9a4-6cc6-479e-8a0e-6cb8b8c252ba"
-        target="02c02297-7ee2-4dc3-9b48-b2295e96c169">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_138e2a2c-48e7-45fd-ad5d-796b880fc592.xml#138e2a2c-48e7-45fd-ad5d-796b880fc592"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9d073e0a-0b2f-407d-a85d-c9a359bd3667"
@@ -913,7 +904,7 @@
           href="AssociationRelationship_1799c3bd-4ae2-490c-924d-abb813bb11a6.xml#1799c3bd-4ae2-490c-924d-abb813bb11a6"/>
     </sourceConnections>
     <bounds
-        x="209"
+        x="228"
         y="780"
         width="120"
         height="97"/>
