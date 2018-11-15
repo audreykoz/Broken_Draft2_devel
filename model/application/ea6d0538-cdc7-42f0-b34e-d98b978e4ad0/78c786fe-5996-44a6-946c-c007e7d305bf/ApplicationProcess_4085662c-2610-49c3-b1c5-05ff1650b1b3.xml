@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Purge retained L1 front-end pipeline data products (Application Process)"
+    name="Purge Retained L1 Front-End Pipeline Data Products (Application Process)"
     id="4085662c-2610-49c3-b1c5-05ff1650b1b3"
     documentation="Purging intemediate product from the data backbone that have been retained from pipeline operations according to Retention of L1 Files within the Data Backbone Policy"/>

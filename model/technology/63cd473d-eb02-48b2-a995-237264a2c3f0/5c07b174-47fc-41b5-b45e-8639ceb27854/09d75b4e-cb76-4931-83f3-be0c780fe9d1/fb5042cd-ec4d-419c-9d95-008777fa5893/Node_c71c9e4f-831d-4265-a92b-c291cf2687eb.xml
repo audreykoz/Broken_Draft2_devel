@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 CTS] Configurable Servers"
+    name="[L1 CTS] Configurable Servers (Node)"
     id="c71c9e4f-831d-4265-a92b-c291cf2687eb"
     documentation="The collection of hardawaser servers is reconfigurable into devleopment, test, and integration configurations.">
   <properties

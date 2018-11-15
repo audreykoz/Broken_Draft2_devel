@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA LDF 2nd Level Support"
+    name="NCSA LDF 2nd Level Support (Business Process)"
     id="0d36175d-4f0c-46b1-b670-54240bf87fbb"
     documentation="Process of providing suport and relief for incidents within NCSA's LSST Data Facility not resolved by the first layer of support."/>

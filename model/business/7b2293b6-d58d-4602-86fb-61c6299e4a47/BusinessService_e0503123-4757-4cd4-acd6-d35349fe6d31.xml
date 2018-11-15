@@ -1,8 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Chief Information Security Officer"
+    name="Chief Information Security Officer (Business Service)"
     id="e0503123-4757-4cd4-acd6-d35349fe6d31"
-    documentation="Establish the master information security program plan. Supervise the network-based security services.&#xA;Many functions of the information security plan are integrated into line management functions, where line managers will control security aspects relevant to their responsibilities, e.g., software managers will ensure good practices integrated into the security architecture, system adminsitrators will assure processes to patch and integrated into the security architecture are enforced. The CISO monitors the compliance of all aspects of information security technology with respect to the master plan and causes the plan, policies and procedures to be revised over time.">
+    documentation="Establish the master information security program plan. Supervises the network-based security services.&#xA;Many functions of the information security plan are integrated into line management functions, where line managers will control security aspects relevant to their responsibilities, e.g., software managers will ensure good practices integrated into the security architecture, system adminsitrators will assure processes to patch and integrated into the security architecture are enforced. The CISO monitors the compliance of all aspects of information security technology with respect to the master plan and causes the plan, policies and procedures to be revised over time.">
   <properties
       key="Scope:NCOA"/>
 </archimate:BusinessService>

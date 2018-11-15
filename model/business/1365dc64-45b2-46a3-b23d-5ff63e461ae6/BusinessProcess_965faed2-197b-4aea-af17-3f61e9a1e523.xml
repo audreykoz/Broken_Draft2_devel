@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Release Management"
+    name="Release Management (Business Process)"
     id="965faed2-197b-4aea-af17-3f61e9a1e523"
     documentation="Process of deciding what is considered a &quot;ready&quot; or &quot;intermediate&quot; product and whenever it is ready for release. "/>
