@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.3.5 Hosting Feeds for Community Brokers"
+    name="3.3.5 Hosting Feeds for External Event Brokers"
     id="f11728ab-66fe-4e33-aa10-e8c5c09a3754"
     documentation="Services providing streaming alerts from the online and offline distribution sources to the community-provided brokers which the project has a Memorandum of Understanding with (a non-legally binding agreement).&#xA;&#xA;Full brokers, unlike minibrokers, manage coordination of picture mapping and not just alert characterization and comparison of detection vs physics."/>

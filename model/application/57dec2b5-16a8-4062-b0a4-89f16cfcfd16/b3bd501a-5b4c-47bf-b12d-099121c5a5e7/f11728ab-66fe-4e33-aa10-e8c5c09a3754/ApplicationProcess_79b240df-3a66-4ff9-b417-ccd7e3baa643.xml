@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Instance of L1 Feed to Community Brokers (Application Process)"
-    id="79b240df-3a66-4ff9-b417-ccd7e3baa643"/>
+    name="Instance of L1 Feed to External Event Brokers (Application Process)"
+    id="79b240df-3a66-4ff9-b417-ccd7e3baa643"
+    documentation="The distribution to each external event broker. &#xA;&#xA;There are as many instances of this as there are feeds to external event brokers. Note that there may be concurrent feeds to brokers when brokers are upgraded. &#xA;"/>

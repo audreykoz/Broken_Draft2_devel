@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Internal Alert Queueing and Forwarding (Application Process)"
-    id="c839334e-fa05-4821-a940-842a3b8ea0b2"/>
+    id="c839334e-fa05-4821-a940-842a3b8ea0b2"
+    documentation="A distribution network provides appriopriate alert packets to the endpoints involved in distributing events to the community and recording events within the offline system "/>

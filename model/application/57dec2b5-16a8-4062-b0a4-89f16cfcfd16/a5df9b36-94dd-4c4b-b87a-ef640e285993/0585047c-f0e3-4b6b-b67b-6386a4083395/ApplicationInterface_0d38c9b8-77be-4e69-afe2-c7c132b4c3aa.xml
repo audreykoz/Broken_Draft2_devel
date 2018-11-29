@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overall Health and Status of the Distribution System (Application Interface)"
+    id="0d38c9b8-77be-4e69-afe2-c7c132b4c3aa"
+    documentation="Provide Overall Health and Status of the Distribution System&#xA;&#xA;Provides information about whether the L1 system is capable of providing alerts and the health and status of each external event broker. It also provides health and status of the mini broker and the feed to the  offline database system. "/>

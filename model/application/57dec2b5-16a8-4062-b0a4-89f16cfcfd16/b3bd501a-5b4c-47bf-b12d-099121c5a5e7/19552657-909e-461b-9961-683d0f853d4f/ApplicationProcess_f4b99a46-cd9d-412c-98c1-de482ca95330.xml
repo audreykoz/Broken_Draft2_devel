@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Instance of L1 Feed to LSST Mini Broker (Application Process)"
-    id="f4b99a46-cd9d-412c-98c1-de482ca95330"/>
+    id="f4b99a46-cd9d-412c-98c1-de482ca95330"
+    documentation="The delivery of alert packets to LSST mini brokers"/>

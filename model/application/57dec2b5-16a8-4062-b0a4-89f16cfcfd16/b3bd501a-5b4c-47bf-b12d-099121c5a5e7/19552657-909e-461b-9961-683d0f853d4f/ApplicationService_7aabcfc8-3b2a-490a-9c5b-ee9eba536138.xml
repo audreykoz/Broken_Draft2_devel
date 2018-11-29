@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Feed to User (Application Service)"
-    id="7aabcfc8-3b2a-490a-9c5b-ee9eba536138"/>
+    id="7aabcfc8-3b2a-490a-9c5b-ee9eba536138"
+    documentation="Provides user with alert packets matching their filter. "/>

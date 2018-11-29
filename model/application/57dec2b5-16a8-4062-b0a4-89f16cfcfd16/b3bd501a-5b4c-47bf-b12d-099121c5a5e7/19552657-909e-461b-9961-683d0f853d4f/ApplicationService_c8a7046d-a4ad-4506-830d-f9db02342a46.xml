@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overall Health and Status of an Individual Mini Broker Feed Service (Application Service)"
+    id="c8a7046d-a4ad-4506-830d-f9db02342a46"
+    documentation="Provide Overall Health and Status of the Distribution System&#xA;&#xA;Provides information about whether this filter is recieveing alerts, transmitting the alerts to the user, and displays information about the filter and its performance. Tells user if filter is disabled"/>

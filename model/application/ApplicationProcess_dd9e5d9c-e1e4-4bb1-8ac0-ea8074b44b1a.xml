@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="L1 Ingest to Offline Database (Application Process)"
-    id="dd9e5d9c-e1e4-4bb1-8ac0-ea8074b44b1a"/>
+    id="dd9e5d9c-e1e4-4bb1-8ac0-ea8074b44b1a"
+    documentation="This process records the events into the L1 offline database"/>
