@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3 L1 Alert Distribution Retained Data Lifecycle Management"
-    id="cf5a0ad6-12a7-43e2-88c7-2e6a78eb93ad">
+    id="cf5a0ad6-12a7-43e2-88c7-2e6a78eb93ad"
+    documentation="Discuss with Margaret how much operational logging we want ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="44a1b205-b7dc-4754-a26b-c8b02c29b989">
