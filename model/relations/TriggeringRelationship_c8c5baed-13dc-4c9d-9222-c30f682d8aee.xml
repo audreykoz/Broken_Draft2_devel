@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ends"
+    id="c8c5baed-13dc-4c9d-9222-c30f682d8aee">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_bf64d813-3fd6-4e5b-9ed6-0b412f16d6b9.xml#bf64d813-3fd6-4e5b-9ed6-0b412f16d6b9"/>
+  <target
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_dc7c9a85-c8a1-4649-8aec-c4e115a7b87a.xml#dc7c9a85-c8a1-4649-8aec-c4e115a7b87a"/>
+</archimate:TriggeringRelationship>

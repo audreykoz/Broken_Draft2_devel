@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begins"
+    id="452ea2a1-fb18-4d5b-826b-8d30a4b5c287">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_d92175c5-b79c-4ced-ae90-e65c7e0acb0d.xml#d92175c5-b79c-4ced-ae90-e65c7e0acb0d"/>
+  <target
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_572ab5ed-09c1-4fbe-bd59-edea0acf86fa.xml#572ab5ed-09c1-4fbe-bd59-edea0acf86fa"/>
+</archimate:TriggeringRelationship>

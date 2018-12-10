@@ -288,7 +288,7 @@
         x="60"
         y="525"
         width="120"
-        height="91"/>
+        height="124"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_aea666dc-d775-41c7-acb9-004b7a0cec1f.xml#aea666dc-d775-41c7-acb9-004b7a0cec1f"/>
@@ -314,7 +314,7 @@
         x="60"
         y="672"
         width="120"
-        height="91"/>
+        height="109"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_6a193d96-ba76-42c1-ab33-b5d1d12509df.xml#6a193d96-ba76-42c1-ab33-b5d1d12509df"/>
@@ -386,7 +386,7 @@
     <bounds
         x="228"
         y="516"
-        width="120"
+        width="145"
         height="105"/>
     <archimateElement
         xsi:type="archimate:Plateau"
@@ -408,7 +408,7 @@
         x="228"
         y="669"
         width="120"
-        height="94"/>
+        height="124"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_dfa1fd7e-d9a2-42e8-aea9-7288425a370f.xml#dfa1fd7e-d9a2-42e8-aea9-7288425a370f"/>
