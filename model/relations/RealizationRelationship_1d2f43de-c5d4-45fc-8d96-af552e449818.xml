@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uncompressed"
+    id="1d2f43de-c5d4-45fc-8d96-af552e449818">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_9e6e355b-13b1-4e45-8e3b-0c9df1f9e5a7.xml#9e6e355b-13b1-4e45-8e3b-0c9df1f9e5a7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_e83d7f2e-d014-4497-9334-760e35bca961.xml#e83d7f2e-d014-4497-9334-760e35bca961"/>
+</archimate:RealizationRelationship>

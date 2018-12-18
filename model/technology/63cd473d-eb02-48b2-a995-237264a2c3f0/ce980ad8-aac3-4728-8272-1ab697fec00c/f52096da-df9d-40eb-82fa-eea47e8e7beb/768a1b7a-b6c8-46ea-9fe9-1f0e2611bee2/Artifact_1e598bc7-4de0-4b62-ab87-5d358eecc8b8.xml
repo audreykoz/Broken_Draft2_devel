@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached L1 Source (Artifact)"
     id="1e598bc7-4de0-4b62-ab87-5d358eecc8b8"
-    documentation="Catalog of calibrated detected objects"/>
+    documentation="Catalog of calibrated detected objects">
+  <properties
+      key="Req:NumOfFiles"
+      value="1"/>
+  <properties
+      key="Req:Filesize"
+      value="2"/>
+  <properties
+      key="Req:Frequency"
+      value="3"/>
+  <properties
+      key="Time:Down"
+      value="4"/>
+  <properties
+      key="Time:Reuse"
+      value="5"/>
+  <properties
+      key="Time:Debug"
+      value="6"/>
+</archimate:Artifact>

@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached CCD Component of CalExp Exposure (Artifact)"
     id="cdb3d964-7575-4c33-8422-a379837d34ae"
-    documentation="Copy of the fully processed background subtracted exposure with calibration information added"/>
+    documentation="Copy of the fully processed background subtracted exposure with calibration information added">
+  <properties
+      key="Req:NumOfFiles"
+      value="1"/>
+  <properties
+      key="Req:Filesize"
+      value="2"/>
+  <properties
+      key="Req:Frequency"
+      value="3"/>
+  <properties
+      key="Time:Down"
+      value="4"/>
+  <properties
+      key="Time:Reuse"
+      value="5"/>
+  <properties
+      key="Time:Debug"
+      value="6"/>
+</archimate:Artifact>

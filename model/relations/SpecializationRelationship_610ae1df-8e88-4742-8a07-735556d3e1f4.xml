@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bit-for-bit"
+    id="610ae1df-8e88-4742-8a07-735556d3e1f4">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_6da9747f-0181-426d-af48-ff1b5d16dc06.xml#6da9747f-0181-426d-af48-ff1b5d16dc06"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_33c7c942-9952-4898-9857-67a2e9b3c467.xml#33c7c942-9952-4898-9857-67a2e9b3c467"/>
+</archimate:SpecializationRelationship>

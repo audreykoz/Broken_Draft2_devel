@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached CCD Component of L1 IC Exposure (Artifact)"
     id="9e6e355b-13b1-4e45-8e3b-0c9df1f9e5a7"
-    documentation="Copy of the fully processed background subtracted exposure "/>
+    documentation="Copy of the fully processed background subtracted exposure ">
+  <properties
+      key="Req:NumOfFiles"
+      value="2"/>
+  <properties
+      key="Req:Filesize"
+      value="64000"/>
+  <properties
+      key="Req:Frequency"
+      value="120"/>
+  <properties
+      key="Time:Down"
+      value="86400"/>
+  <properties
+      key="Time:Reuse"
+      value="2592000"/>
+  <properties
+      key="Time:Debug"
+      value="259200"/>
+</archimate:Artifact>

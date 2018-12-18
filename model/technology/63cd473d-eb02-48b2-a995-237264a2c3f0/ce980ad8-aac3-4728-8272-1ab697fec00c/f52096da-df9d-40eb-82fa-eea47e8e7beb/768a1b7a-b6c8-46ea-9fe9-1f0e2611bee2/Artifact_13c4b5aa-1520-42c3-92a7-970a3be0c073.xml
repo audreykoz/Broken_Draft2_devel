@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached Calibration Catalogs (Artifact)"
     id="13c4b5aa-1520-42c3-92a7-970a3be0c073"
-    documentation="Calibrated input catalog from external dataset for astrometric and photometric crossmatching"/>
+    documentation="Calibrated input catalog from external dataset for astrometric and photometric crossmatching">
+  <properties
+      key="Req:NumOfFiles"
+      value="1"/>
+  <properties
+      key="Req:Filesize"
+      value="2"/>
+  <properties
+      key="Req:Frequency"
+      value="3"/>
+  <properties
+      key="Time:Down"
+      value="4"/>
+  <properties
+      key="Time:Reuse"
+      value="5"/>
+  <properties
+      key="Time:Debug"
+      value="6"/>
+</archimate:Artifact>

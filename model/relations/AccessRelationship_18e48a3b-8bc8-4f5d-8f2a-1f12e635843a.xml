@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Establish"
+    id="18e48a3b-8bc8-4f5d-8f2a-1f12e635843a">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_d197becd-4809-4b23-ad00-8d0e18df23e8.xml#d197becd-4809-4b23-ad00-8d0e18df23e8"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_e83d7f2e-d014-4497-9334-760e35bca961.xml#e83d7f2e-d014-4497-9334-760e35bca961"/>
+</archimate:AccessRelationship>

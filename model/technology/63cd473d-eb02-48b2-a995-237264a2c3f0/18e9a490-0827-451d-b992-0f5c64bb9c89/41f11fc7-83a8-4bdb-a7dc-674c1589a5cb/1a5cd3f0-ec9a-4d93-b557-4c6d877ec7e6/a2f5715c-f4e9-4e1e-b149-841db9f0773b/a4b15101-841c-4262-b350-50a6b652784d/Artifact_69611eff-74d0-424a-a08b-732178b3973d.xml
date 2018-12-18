@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Retained Calibration Catalogs (Artifact)"
     id="69611eff-74d0-424a-a08b-732178b3973d"
-    documentation="Reference catalogs used for astrometric and photometric calibration."/>
+    documentation="Reference catalogs used for astrometric and photometric calibration.">
+  <properties
+      key="Req:NumOfFiles"
+      value="1"/>
+  <properties
+      key="Req:Filesize"
+      value="2"/>
+  <properties
+      key="Req:Frequency"
+      value="3"/>
+  <properties
+      key="Time:Down"
+      value="4"/>
+  <properties
+      key="Time:Reuse"
+      value="5"/>
+  <properties
+      key="Time:Debug"
+      value="6"/>
+</archimate:Artifact>

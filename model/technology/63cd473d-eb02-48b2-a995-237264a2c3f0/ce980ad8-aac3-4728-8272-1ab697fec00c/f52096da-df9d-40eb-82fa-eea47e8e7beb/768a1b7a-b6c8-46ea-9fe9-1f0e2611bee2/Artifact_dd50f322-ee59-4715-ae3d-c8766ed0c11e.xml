@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached L1 Snap Difference (Artifact)"
     id="dd50f322-ee59-4715-ae3d-c8766ed0c11e"
-    documentation="Difference image between two exposures from visit used to detect cosmic rays and fast transients "/>
+    documentation="Difference image between two exposures from visit used to detect cosmic rays and fast transients ">
+  <properties
+      key="Req:NumOfFiles"
+      value="1"/>
+  <properties
+      key="Req:Filesize"
+      value="192000"/>
+  <properties
+      key="Req:Frequency"
+      value="60"/>
+  <properties
+      key="Time:Down"
+      value="86400"/>
+  <properties
+      key="Time:Reuse"
+      value="2592000"/>
+  <properties
+      key="Time:Debug"
+      value="259200"/>
+</archimate:Artifact>

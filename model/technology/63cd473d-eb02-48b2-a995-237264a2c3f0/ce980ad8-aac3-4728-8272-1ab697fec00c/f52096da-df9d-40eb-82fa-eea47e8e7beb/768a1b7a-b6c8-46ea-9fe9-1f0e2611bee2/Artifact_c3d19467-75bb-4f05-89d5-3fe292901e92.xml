@@ -1,5 +1,24 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cached L1 IC Source (Artifact)"
+    name="Cached L1 IC Source Catalogs (Artifact)"
     id="c3d19467-75bb-4f05-89d5-3fe292901e92"
-    documentation="Catalog of uncalibrated detected objects"/>
+    documentation="Catalog of uncalibrated detected objects">
+  <properties
+      key="Req:NumOfFiles"
+      value="3"/>
+  <properties
+      key="Req:Filesize"
+      value="384000"/>
+  <properties
+      key="Req:Frequency"
+      value="30"/>
+  <properties
+      key="Time:Down"
+      value="86400"/>
+  <properties
+      key="Time:Reuse"
+      value="2592000"/>
+  <properties
+      key="Time:Debug"
+      value="259200"/>
+</archimate:Artifact>
