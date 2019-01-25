@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Real Time Database (Node) **NEED TO MERGE**"
+    name="L1 Real Time Database (Node)"
     id="bf39be70-2165-4788-9f28-f9efda791f26"
-    documentation="A relatioonal database with availability and capacity consistent with L1 processing needs. It contains DIA sources, DIA objects, and SSObjects"/>
+    documentation="A relational database with availability and capacity consistent with L1 processing needs. It contains DIA sources, DIA objects, and SSObjects&#xA;&#xA;The rationale for a Real Time L1 database  having separate implementation is to accomodate the L1 avaiabity requirements, (and in particular to decouple maintenance of the L1 system from the Gerneral system) and for performance isolation.  "/>
