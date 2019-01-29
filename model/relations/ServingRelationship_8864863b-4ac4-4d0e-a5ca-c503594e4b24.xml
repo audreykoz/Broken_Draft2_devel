@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forward Telemetry to OCS"
+    id="8864863b-4ac4-4d0e-a5ca-c503594e4b24">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_844538a6-7959-11e7-abe0-6c400893992c.xml#844538a6-7959-11e7-abe0-6c400893992c"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_fccbfb5c-23bb-4bea-9e3f-59e95ca5928f.xml#fccbfb5c-23bb-4bea-9e3f-59e95ca5928f"/>
+</archimate:ServingRelationship>

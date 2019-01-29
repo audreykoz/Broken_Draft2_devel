@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt Access"
+    id="f0e603bf-aa10-4f40-8a38-41ff630c2cd6">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_844524e1-7959-11e7-97d7-6c400893992c.xml#844524e1-7959-11e7-97d7-6c400893992c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a9e1c2a9-6c62-4853-946e-f375999dbf92.xml#a9e1c2a9-6c62-4853-946e-f375999dbf92"/>
+</archimate:ServingRelationship>

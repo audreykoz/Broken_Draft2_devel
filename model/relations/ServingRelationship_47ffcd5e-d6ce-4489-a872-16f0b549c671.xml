@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permanant Storage"
+    id="47ffcd5e-d6ce-4489-a872-16f0b549c671">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_acccd71f-95a4-41f5-8db6-062cfc3961a3.xml#acccd71f-95a4-41f5-8db6-062cfc3961a3"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_086f658e-1a0b-4873-aa75-d70cbde23235.xml#086f658e-1a0b-4873-aa75-d70cbde23235"/>
+</archimate:ServingRelationship>

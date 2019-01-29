@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[L1 NCSA] Compute Worker Nodes (Logical Node)"
     id="fccbfb5c-23bb-4bea-9e3f-59e95ca5928f"
-    documentation="The set of nodes drawn have uniform charateristics, to support relatiely constant run times for prompt processing codes.  Nominally these nodes can be thought of as organized into &quot;strings&quot;, where there is a node per CCD. Nominally two &quot;strings&quot; pus ready spares are provided. When not in use, these Nodes are places into the  general offline pool. ">
+    documentation="The set of nodes drawn have uniform charateristics, to support relatiely constant run times for prompt processing codes.  Nominally these nodes can be thought of as organized into &quot;strings&quot;, where there is a node per CCD. Nominally two &quot;strings&quot; pus ready spares are provided. When not in use, these Nodes are places into the general offline pool. ">
   <properties
       key="Unit:FLOPS"/>
 </archimate:Node>

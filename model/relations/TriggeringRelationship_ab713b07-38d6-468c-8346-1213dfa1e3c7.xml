@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rendezvous"
+    id="ab713b07-38d6-468c-8346-1213dfa1e3c7">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_6416442f-ba54-4888-8796-910f2ceb18dc.xml#6416442f-ba54-4888-8796-910f2ceb18dc"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_fccbfb5c-23bb-4bea-9e3f-59e95ca5928f.xml#fccbfb5c-23bb-4bea-9e3f-59e95ca5928f"/>
+</archimate:TriggeringRelationship>

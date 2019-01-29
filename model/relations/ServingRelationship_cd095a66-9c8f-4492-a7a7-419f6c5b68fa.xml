@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raft Pairing"
+    id="cd095a66-9c8f-4492-a7a7-419f6c5b68fa">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_06087f0b-65dd-4fce-8205-ec1c39e8c57c.xml#06087f0b-65dd-4fce-8205-ec1c39e8c57c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a887bb93-7609-4c1e-bbb2-09f6c2568a64.xml#a887bb93-7609-4c1e-bbb2-09f6c2568a64"/>
+</archimate:ServingRelationship>

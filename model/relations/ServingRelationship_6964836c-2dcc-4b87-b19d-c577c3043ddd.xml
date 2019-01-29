@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buffers Data for Observatory Access"
+    id="6964836c-2dcc-4b87-b19d-c577c3043ddd">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_844524e1-7959-11e7-97d7-6c400893992c.xml#844524e1-7959-11e7-97d7-6c400893992c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_844511d1-7959-11e7-9d25-6c400893992c.xml#844511d1-7959-11e7-9d25-6c400893992c"/>
+</archimate:ServingRelationship>
