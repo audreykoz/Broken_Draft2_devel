@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Snap Difference Schema"
+    name="L1 Snap Difference Schema (Data Object)"
     id="db07347c-1f24-4352-85a0-ed1cbad7b1e1"
     documentation="An abstract idea of the difference image between two exposures from visit used to detect cosmic rays and fast transients "/>
