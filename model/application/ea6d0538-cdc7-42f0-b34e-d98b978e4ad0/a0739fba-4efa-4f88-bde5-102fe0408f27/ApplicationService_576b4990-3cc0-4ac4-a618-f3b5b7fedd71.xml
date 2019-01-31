@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 NCSA] NCSA Distributors ITC Service (Application Service)"
+    name="[L1 NCSA] NCSA Distributor Service (Application Service)"
     id="576b4990-3cc0-4ac4-a618-f3b5b7fedd71"
     documentation="The distributor service recieves data from the forwarder and provides an individual CCD to a running pipeline instance. "/>
