@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Batch Services for Prompt Production (Technology Service)"
-    id="6416442f-ba54-4888-8796-910f2ceb18dc"/>
+    id="6416442f-ba54-4888-8796-910f2ceb18dc"
+    documentation="Batch scheduler that is invoked for every visit to supply worker nodes needed to process the visit. &#xA;&#xA;Note that the compute pipeline execution service is started via a batch activation. "/>

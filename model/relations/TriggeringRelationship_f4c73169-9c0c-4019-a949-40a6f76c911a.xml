@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instantiates"
+    id="f4c73169-9c0c-4019-a949-40a6f76c911a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_43773dfd-5283-4812-a1dc-86113fac889c.xml#43773dfd-5283-4812-a1dc-86113fac889c"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_12b9b5d6-34b8-4c75-888a-1405426d6fa0.xml#12b9b5d6-34b8-4c75-888a-1405426d6fa0"/>
+</archimate:TriggeringRelationship>

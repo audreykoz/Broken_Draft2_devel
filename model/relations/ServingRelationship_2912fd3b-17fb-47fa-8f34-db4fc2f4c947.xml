@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign a CCD to a Worker"
+    id="2912fd3b-17fb-47fa-8f34-db4fc2f4c947">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3f29ccc5-e0ed-4211-b817-45617fb9d76d.xml#3f29ccc5-e0ed-4211-b817-45617fb9d76d"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3bf7eb8e-493c-456c-8b7f-092afee2c4ab.xml#3bf7eb8e-493c-456c-8b7f-092afee2c4ab"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inter-Offline Campaign Orchestration Service (Application Service)"
+    id="43773dfd-5283-4812-a1dc-86113fac889c"
+    documentation="Given a workload for batch dispatch batch jobs optimally considering physical resources and project priorities. &#xA;"/>

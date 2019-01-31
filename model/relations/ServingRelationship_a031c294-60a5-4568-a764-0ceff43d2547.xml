@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide Compute Resources"
+    id="a031c294-60a5-4568-a764-0ceff43d2547">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_3eedbfcc-2326-41b2-b4db-52c3d43621a7.xml#3eedbfcc-2326-41b2-b4db-52c3d43621a7"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ceb3cb08-68f8-4c82-936d-605fbc5e6a84.xml#ceb3cb08-68f8-4c82-936d-605fbc5e6a84"/>
+</archimate:ServingRelationship>

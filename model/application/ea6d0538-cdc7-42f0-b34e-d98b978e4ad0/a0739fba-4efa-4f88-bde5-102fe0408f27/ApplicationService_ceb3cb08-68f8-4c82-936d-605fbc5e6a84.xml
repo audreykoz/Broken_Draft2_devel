@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prompt Data Flow Orchestration Service (Application Service)"
-    id="3bf7eb8e-493c-456c-8b7f-092afee2c4ab"
+    name="Offline Batch Orchestration Service (Application Service)"
+    id="ceb3cb08-68f8-4c82-936d-605fbc5e6a84"
     documentation="For each visit this service matches a distributor with a compute pipeline that processes 1 CCD. &#xA;&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Worker Nodes"
+    id="f7e15e74-2a85-43dc-b7c4-3114b88c2c99">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_6416442f-ba54-4888-8796-910f2ceb18dc.xml#6416442f-ba54-4888-8796-910f2ceb18dc"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3bf7eb8e-493c-456c-8b7f-092afee2c4ab.xml#3bf7eb8e-493c-456c-8b7f-092afee2c4ab"/>
+</archimate:ServingRelationship>

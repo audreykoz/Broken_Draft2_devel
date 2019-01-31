@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stages Inputs"
+    id="3baaa794-7b95-4563-b2b8-f1e7ade518a4">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_937b4be9-687b-416e-8450-5efe52a34370.xml#937b4be9-687b-416e-8450-5efe52a34370"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_79c0d520-69d1-4655-8e52-fe6dffe6e584.xml#79c0d520-69d1-4655-8e52-fe6dffe6e584"/>
+</archimate:ServingRelationship>

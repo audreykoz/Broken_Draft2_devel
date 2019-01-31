@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Forwarder Service (Application Service)"
+    id="5d246624-c23c-4b20-b3f0-1d7635c3f944"
+    documentation="This service reads out data corresponding with a number of CCDs, nominally a raft, and forwards this data to a distributor at NCSA. "/>

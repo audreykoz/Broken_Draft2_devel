@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execute 1 Pipeline Instance"
+    id="9559c259-57c5-441e-aff8-e48efbeebe4a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_79c0d520-69d1-4655-8e52-fe6dffe6e584.xml#79c0d520-69d1-4655-8e52-fe6dffe6e584"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ceb3cb08-68f8-4c82-936d-605fbc5e6a84.xml#ceb3cb08-68f8-4c82-936d-605fbc5e6a84"/>
+</archimate:ServingRelationship>

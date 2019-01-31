@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compute Pipeline Offline Instance (Application Service)"
+    id="79c0d520-69d1-4655-8e52-fe6dffe6e584"
+    documentation="The compute pipeline processes data from 1 CCD, provides feedback as telemetry to the observatory, and when running difference imaging provides alerts to the alert distrubution system. "/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Acquisition View (View)"
+    name="Data Archiving View (View)"
     id="aab88f1a-7e23-4768-8a3d-f54c09bc4f93">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

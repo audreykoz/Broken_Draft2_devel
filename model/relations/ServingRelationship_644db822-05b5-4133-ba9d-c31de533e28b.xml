@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide a Workload for a Campaign"
+    id="644db822-05b5-4133-ba9d-c31de533e28b">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_12b9b5d6-34b8-4c75-888a-1405426d6fa0.xml#12b9b5d6-34b8-4c75-888a-1405426d6fa0"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_ceb3cb08-68f8-4c82-936d-605fbc5e6a84.xml#ceb3cb08-68f8-4c82-936d-605fbc5e6a84"/>
+</archimate:ServingRelationship>
