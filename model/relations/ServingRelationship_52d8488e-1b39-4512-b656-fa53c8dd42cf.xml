@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Supply Alerts"
-    id="e4edc7b8-0989-4ffa-b661-8f7ed1c139c1">
+    id="52d8488e-1b39-4512-b656-fa53c8dd42cf">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_844537fa-7959-11e7-bc8f-6c400893992c.xml#844537fa-7959-11e7-bc8f-6c400893992c"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_3f29ccc5-e0ed-4211-b817-45617fb9d76d.xml#3f29ccc5-e0ed-4211-b817-45617fb9d76d"/>
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_ee0e9221-cebc-4da1-b359-29519e5ca7f3.xml#ee0e9221-cebc-4da1-b359-29519e5ca7f3"/>
 </archimate:ServingRelationship>

@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pixel Readout Orchestration Service (Application Service)"
+    name="Prompt Processing Service (Application Service)"
     id="06087f0b-65dd-4fce-8205-ec1c39e8c57c"
     documentation="This service matches CCD reupstreams with a forwarder. "/>

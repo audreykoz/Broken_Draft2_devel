@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Forwarder Process (Application Process)"
+    id="f8f52bea-37cf-4cda-89bc-2164ef1778b9"
+    documentation="This process reads out data corresponding with a number of CCDs, nominally a raft, and forwards this data to a distributor at NCSA. "/>

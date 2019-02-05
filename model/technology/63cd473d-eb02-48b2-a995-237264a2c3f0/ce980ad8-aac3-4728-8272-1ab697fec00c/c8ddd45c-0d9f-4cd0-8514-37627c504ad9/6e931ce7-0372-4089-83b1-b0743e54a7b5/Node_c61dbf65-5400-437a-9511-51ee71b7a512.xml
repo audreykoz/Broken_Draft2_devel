@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] L1 Maintaince Login VM (Logical Node)"
+    id="c61dbf65-5400-437a-9511-51ee71b7a512"
+    documentation="Hosts interactive  and maintance services needed to run the system. "/>

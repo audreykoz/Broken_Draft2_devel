@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign a Raft Distributor Pair"
+    id="49dbb66f-5626-446f-b0d5-c3c4d7dafb34">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_fc8be94f-4519-4c6c-b00a-7c3e809b33ba.xml#fc8be94f-4519-4c6c-b00a-7c3e809b33ba"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_a887bb93-7609-4c1e-bbb2-09f6c2568a64.xml#a887bb93-7609-4c1e-bbb2-09f6c2568a64"/>
+</archimate:RealizationRelationship>

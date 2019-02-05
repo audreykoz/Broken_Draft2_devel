@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Input Output Cache (Node)"
+    name="[L1 NCSA] L1 Input Output Cache (Logical Node)"
     id="7e76d9e3-7e92-411d-8844-220f7307af0e"
     documentation="The Input Output Cache is sufficiently large to sustain processing over the longest period of data backbone downtime. The cache is not backed up. In case of failure of the cache, any needed state to resume operations can be reingested from the data backbone.&#xA;The Input Output Cache  holds file state needed for prompt processing. (exclusive of the large template Cache). The availabilty of this cache is as for the L1 enclave. The Implementation is seperate and distinct from Offline files systems, in order to separate operational concerns.&#xA;&#xA;"/>

@@ -1,5 +1,5 @@
-<archimate:ApplicationService
+<archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 NCSA] Compute Pipeline Instance (Application Service)"
-    id="3f29ccc5-e0ed-4211-b817-45617fb9d76d"
+    name="[L1 NCSA] Compute Pipeline Instance (Application Process)"
+    id="ee0e9221-cebc-4da1-b359-29519e5ca7f3"
     documentation="The compute pipeline processes data from 1 CCD, provides feedback as telemetry to the observatory, and when running difference imaging provides alerts to the alert distrubution system. "/>

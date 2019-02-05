@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Provide Feedback to Observatory"
-    id="cd2e8d75-5da1-4b65-9b01-132f69a91d83">
+    id="85bd553d-00b1-46fe-b8da-b830c69edfea">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_844538a6-7959-11e7-abe0-6c400893992c.xml#844538a6-7959-11e7-abe0-6c400893992c"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_3f29ccc5-e0ed-4211-b817-45617fb9d76d.xml#3f29ccc5-e0ed-4211-b817-45617fb9d76d"/>
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_ee0e9221-cebc-4da1-b359-29519e5ca7f3.xml#ee0e9221-cebc-4da1-b359-29519e5ca7f3"/>
 </archimate:ServingRelationship>

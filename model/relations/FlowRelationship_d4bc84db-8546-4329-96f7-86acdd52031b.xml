@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CCD Data"
+    id="d4bc84db-8546-4329-96f7-86acdd52031b">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_fc8be94f-4519-4c6c-b00a-7c3e809b33ba.xml#fc8be94f-4519-4c6c-b00a-7c3e809b33ba"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_ee0e9221-cebc-4da1-b359-29519e5ca7f3.xml#ee0e9221-cebc-4da1-b359-29519e5ca7f3"/>
+</archimate:FlowRelationship>

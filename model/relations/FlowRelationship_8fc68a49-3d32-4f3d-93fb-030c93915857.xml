@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raw Data"
+    id="8fc68a49-3d32-4f3d-93fb-030c93915857">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_f8f52bea-37cf-4cda-89bc-2164ef1778b9.xml#f8f52bea-37cf-4cda-89bc-2164ef1778b9"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_fc8be94f-4519-4c6c-b00a-7c3e809b33ba.xml#fc8be94f-4519-4c6c-b00a-7c3e809b33ba"/>
+</archimate:FlowRelationship>
