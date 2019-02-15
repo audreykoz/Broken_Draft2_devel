@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[OOS] Observatory Operations Data Ingest Service (Application Service) (copy)"
+    name="[OOS] Observatory Operations Data Ingest Service (Application Service)"
     id="ed1a5d2f-e25b-40f2-846b-4e2bff7a3ef7">
   <properties
       key="UseCaseSatisfactionServices"/>

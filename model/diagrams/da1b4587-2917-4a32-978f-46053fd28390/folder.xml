@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Backup and DR mappings"
-    id="da1b4587-2917-4a32-978f-46053fd28390"/>
+    name="Backup and DR Mappings"
+    id="da1b4587-2917-4a32-978f-46053fd28390"
+    documentation="These views map the active file storage and data artifacts like database backups to disaster recovery provisioning at both the base site and NCSA. This will be useful when determining capacity of the disaster recovery stores. "/>

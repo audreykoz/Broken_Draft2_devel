@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Views"
-    id="0c35bd18-48d4-442b-b4ab-0833282b4916"/>
+    id="0c35bd18-48d4-442b-b4ab-0833282b4916"
+    documentation="These views show relationships of services and possibly relationship of services to their provisioning. TBD: Whether the  function decomposition of services should be modeled in seperate views. "/>

@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DR for non-data Backbone  File systems  at Both Base and NCSA"
-    id="0591458d-0392-4aa1-a503-10c70852f1a6">
+    name="Disk Based DR for Non-Data Backbone File systems at Both Base and NCSA"
+    id="0591458d-0392-4aa1-a503-10c70852f1a6"
+    documentation="Cleaning Update: This view maps the site file systems and data artifacts like database backups to disk based disaster recovery provisioning at both the base site and NCSA. This will be useful when determining capacity of the disaster recovery stores. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7fdc9618-76a2-4a25-848f-65a94e842a53"

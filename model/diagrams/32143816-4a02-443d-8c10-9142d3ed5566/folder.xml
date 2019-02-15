@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service to Provisioning Maps"
-    id="32143816-4a02-443d-8c10-9142d3ed5566"/>
+    id="32143816-4a02-443d-8c10-9142d3ed5566"
+    documentation="These views map business, application, and technology services to logical provisioning elements. "/>
