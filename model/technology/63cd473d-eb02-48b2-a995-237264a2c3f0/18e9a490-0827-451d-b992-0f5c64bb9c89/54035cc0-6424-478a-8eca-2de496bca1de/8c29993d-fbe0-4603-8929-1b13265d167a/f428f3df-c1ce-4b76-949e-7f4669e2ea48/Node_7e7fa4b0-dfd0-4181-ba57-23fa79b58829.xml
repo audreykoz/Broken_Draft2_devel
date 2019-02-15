@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base Site FS] Base Datasets File System (Logical Node)"
+    name="[Base Site FS] Base Datasets Site File System (Logical Node)"
     id="7e7fa4b0-dfd0-4181-ba57-23fa79b58829"
     documentation="Holds read-only (but possibly incrementally extended) datasets needed by developers.&#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
   <properties

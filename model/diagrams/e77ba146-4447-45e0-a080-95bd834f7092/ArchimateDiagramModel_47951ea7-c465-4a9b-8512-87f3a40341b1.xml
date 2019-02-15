@@ -17,10 +17,10 @@
           href="CompositionRelationship_b3f3cd58-1f26-4bec-b975-a3119923297b.xml#b3f3cd58-1f26-4bec-b975-a3119923297b"/>
     </sourceConnections>
     <bounds
-        x="316"
-        y="72"
+        x="198"
+        y="64"
         width="120"
-        height="134"/>
+        height="153"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_7e1d9319-a5cb-4e3f-8d5b-81452d036b57.xml#7e1d9319-a5cb-4e3f-8d5b-81452d036b57"/>
@@ -252,9 +252,9 @@
     </sourceConnections>
     <bounds
         x="191"
-        y="288"
+        y="274"
         width="133"
-        height="553"/>
+        height="674"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_12b42c90-12fb-4c84-ad68-05d17ca24b00.xml#12b42c90-12fb-4c84-ad68-05d17ca24b00"/>
@@ -406,8 +406,8 @@
       id="a69db68e-9280-4fca-beea-8cc6852c4a5d"
       targetConnections="c35026d0-7d2e-457e-8840-0684d604f085">
     <bounds
-        x="132"
-        y="76"
+        x="14"
+        y="78"
         width="120"
         height="125"/>
     <archimateElement
@@ -524,7 +524,7 @@
       targetConnections="28c72473-3612-4d34-a2fa-331dca16f256">
     <bounds
         x="377"
-        y="507"
+        y="495"
         width="175"
         height="91"/>
     <archimateElement
