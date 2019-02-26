@@ -1,5 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] Staged Spectrograph Raw Calibrations (Artifact)"
+    name="[BPS] Staged Spectrograph Raw Calibrations (Artifact)"
     id="827f7b5b-2240-4819-842e-dc55f292e6a2"
     documentation="Raw bias, flat, and wavelength calibration exposures from the spectrograph.&#xA;&#xA;Staged out of the data backbone and available to the software."/>
