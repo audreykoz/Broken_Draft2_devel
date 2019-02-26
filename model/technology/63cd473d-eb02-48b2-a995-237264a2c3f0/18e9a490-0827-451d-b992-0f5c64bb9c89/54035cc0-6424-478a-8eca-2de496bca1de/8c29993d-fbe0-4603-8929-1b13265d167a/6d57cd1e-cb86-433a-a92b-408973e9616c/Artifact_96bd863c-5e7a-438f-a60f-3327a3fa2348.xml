@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone] Retained Spectrograph Raw Calibrations (Artifact)"
+    id="96bd863c-5e7a-438f-a60f-3327a3fa2348"
+    documentation="Raw bias, flat, and wavelength calibration exposures from the spectrograph.&#xA;&#xA;"/>
