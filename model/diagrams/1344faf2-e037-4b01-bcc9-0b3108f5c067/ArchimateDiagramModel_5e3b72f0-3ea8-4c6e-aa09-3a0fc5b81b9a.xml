@@ -5,7 +5,8 @@
     id="5e3b72f0-3ea8-4c6e-aa09-3a0fc5b81b9a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="61460449-83a2-4044-bc1b-7e3d60ec7f76">
+      id="61460449-83a2-4044-bc1b-7e3d60ec7f76"
+      targetConnections="23982680-c5f6-4798-a03d-ae0b51b0ad88">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1fb5afab-0aed-4119-9cac-e0425f357484"
@@ -25,7 +26,7 @@
           href="AccessRelationship_ffb8a0d7-9650-4a0d-bc6b-d0891765db26.xml#ffb8a0d7-9650-4a0d-bc6b-d0891765db26"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="516"
         y="144"
         width="229"
         height="93"/>
@@ -69,7 +70,7 @@
           href="AccessRelationship_78fa9212-acf5-4ad0-9f48-6796fcc42e6a.xml#78fa9212-acf5-4ad0-9f48-6796fcc42e6a"/>
     </sourceConnections>
     <bounds
-        x="864"
+        x="900"
         y="144"
         width="241"
         height="93"/>
@@ -82,7 +83,7 @@
       id="b2086f6a-ecba-4b58-a2fe-afcc457d457b"
       targetConnections="1fb5afab-0aed-4119-9cac-e0425f357484 afeb5513-20d5-4372-b1d5-f66f1894c615 cd3aed06-8532-4921-9b76-e6f2827ad6c8 83900010-9107-47fc-8291-0fd29afcf158">
     <bounds
-        x="624"
+        x="660"
         y="348"
         width="145"
         height="73"/>
@@ -95,7 +96,7 @@
       id="705f2a78-ca72-43d1-afeb-e74402f1fbd5"
       targetConnections="0920a37e-219e-4bad-910f-4bb7d8344771 bf7d872e-0bc9-4810-9a4f-7c891e10c110 f21d78b1-704c-4c61-9463-e890e2d86ed4">
     <bounds
-        x="431"
+        x="467"
         y="348"
         width="145"
         height="73"/>
@@ -108,7 +109,7 @@
       id="ed3a0707-8785-4df3-8132-7a0774fb494a"
       targetConnections="f1d1f847-a739-4eff-8253-a90811a912fa 5c318f04-380c-4d4c-91ba-51ac0f976b5a 766fb45e-2bee-4c36-a8db-c8c17c1cd2d0">
     <bounds
-        x="816"
+        x="852"
         y="348"
         width="145"
         height="73"/>
@@ -121,7 +122,7 @@
       id="c9d181ee-2c2c-4296-805d-f2f847a9fc4c"
       targetConnections="643580e4-efd9-4f6b-9b49-033192410b20 e593b8f2-a795-437b-819f-010fc481467c f25505b1-3e08-448c-b173-b208b65d0775">
     <bounds
-        x="1025"
+        x="1061"
         y="348"
         width="145"
         height="73"/>
@@ -189,7 +190,7 @@
           href="AssignmentRelationship_2a0d56fe-3e70-4756-b97c-1151a44b91da.xml#2a0d56fe-3e70-4756-b97c-1151a44b91da"/>
     </sourceConnections>
     <bounds
-        x="430"
+        x="466"
         y="492"
         width="735"
         height="73"/>
@@ -210,7 +211,7 @@
           href="AssignmentRelationship_bce99c4b-7a92-454f-a5a4-b50939c65209.xml#bce99c4b-7a92-454f-a5a4-b50939c65209"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="660"
         y="996"
         width="145"
         height="85"/>
@@ -231,7 +232,7 @@
           href="AssignmentRelationship_90a93568-8673-4f9b-91dd-aff0ca691e23.xml#90a93568-8673-4f9b-91dd-aff0ca691e23"/>
     </sourceConnections>
     <bounds
-        x="1020"
+        x="1056"
         y="996"
         width="145"
         height="85"/>
@@ -252,7 +253,7 @@
           href="AssignmentRelationship_360e76a2-6f5b-4153-995a-fb45b8f0468e.xml#360e76a2-6f5b-4153-995a-fb45b8f0468e"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="852"
         y="996"
         width="145"
         height="85"/>
@@ -273,7 +274,7 @@
           href="AssignmentRelationship_63a9b6e9-f22f-4568-bba3-d9b42698cc14.xml#63a9b6e9-f22f-4568-bba3-d9b42698cc14"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="468"
         y="996"
         width="145"
         height="85"/>
@@ -286,7 +287,7 @@
       id="29f33dc5-d627-42d4-ab3f-1349f40ca202"
       targetConnections="01606022-dfa1-4bd8-873e-fd3a30d851b3 52e83f40-8158-40fd-93f2-3d0a8cd2694c 561c5315-512d-4a09-a251-e3e20b87420f">
     <bounds
-        x="432"
+        x="468"
         y="864"
         width="145"
         height="73"/>
@@ -299,7 +300,7 @@
       id="9c8877f8-2254-48b3-8c3f-29aadc45cbbb"
       targetConnections="29ea2a32-6839-4199-bd23-a894b0edd70f 405f2493-0061-4864-8771-da0ce8fad2cd b7b510a3-a314-479f-9952-00adeb1bbf52">
     <bounds
-        x="816"
+        x="852"
         y="864"
         width="145"
         height="73"/>
@@ -312,7 +313,7 @@
       id="3628709c-1e7f-4107-90ca-d76d0f25d452"
       targetConnections="8568e670-bebd-4613-a67b-34766e584696 791884fc-a219-4f1d-bcc3-9d3bf43538c0 161788da-585d-4690-9f26-f54295644c4c">
     <bounds
-        x="1020"
+        x="1056"
         y="864"
         width="145"
         height="73"/>
@@ -325,7 +326,7 @@
       id="96818078-80ea-4379-98af-c850317e03d7"
       targetConnections="6c1683c3-b906-4237-836c-3a6268289569 31c9621b-e636-437f-81a1-e368195c8367 f94133cd-3727-4f61-aa18-63d3480416a3">
     <bounds
-        x="624"
+        x="660"
         y="864"
         width="145"
         height="73"/>
@@ -355,7 +356,7 @@
           href="ServingRelationship_9017bac0-efe0-4a09-970c-5cb63b547e2c.xml#9017bac0-efe0-4a09-970c-5cb63b547e2c"/>
     </sourceConnections>
     <bounds
-        x="624"
+        x="660"
         y="732"
         width="145"
         height="73"/>
@@ -385,7 +386,7 @@
           href="ServingRelationship_e279f51a-1a55-45fa-8ef8-2f778f8fcd7d.xml#e279f51a-1a55-45fa-8ef8-2f778f8fcd7d"/>
     </sourceConnections>
     <bounds
-        x="1020"
+        x="1056"
         y="732"
         width="145"
         height="73"/>
@@ -415,7 +416,7 @@
           href="ServingRelationship_6f441e04-ae1d-47fe-9d86-51c864d90448.xml#6f441e04-ae1d-47fe-9d86-51c864d90448"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="468"
         y="732"
         width="145"
         height="73"/>
@@ -445,7 +446,7 @@
           href="ServingRelationship_4fc81768-429a-4836-8895-0f98d3cf9cc7.xml#4fc81768-429a-4836-8895-0f98d3cf9cc7"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="852"
         y="732"
         width="145"
         height="73"/>
@@ -468,7 +469,7 @@
           href="AccessRelationship_132f4913-6ad8-4bdb-8abf-b786dbc55227.xml#132f4913-6ad8-4bdb-8abf-b786dbc55227"/>
     </sourceConnections>
     <bounds
-        x="628"
+        x="664"
         y="601"
         width="147"
         height="66"/>
@@ -491,7 +492,7 @@
           href="AccessRelationship_6ee4ebcc-a2a4-4a9b-9079-120a314af50d.xml#6ee4ebcc-a2a4-4a9b-9079-120a314af50d"/>
     </sourceConnections>
     <bounds
-        x="1024"
+        x="1060"
         y="601"
         width="147"
         height="66"/>
@@ -514,7 +515,7 @@
           href="AccessRelationship_893d3d4c-4a4d-4fa1-9bca-192bd068554d.xml#893d3d4c-4a4d-4fa1-9bca-192bd068554d"/>
     </sourceConnections>
     <bounds
-        x="430"
+        x="466"
         y="600"
         width="147"
         height="66"/>
@@ -537,7 +538,7 @@
           href="AccessRelationship_33db5a38-6864-4d90-a9e9-12610cf6bafe.xml#33db5a38-6864-4d90-a9e9-12610cf6bafe"/>
     </sourceConnections>
     <bounds
-        x="820"
+        x="856"
         y="601"
         width="147"
         height="66"/>
@@ -550,7 +551,7 @@
       id="1341f26f-b14c-4fba-bbc7-8e0c798017a8"
       targetConnections="52d534f6-392b-4055-8399-08a5a32dc31b">
     <bounds
-        x="1351"
+        x="1387"
         y="148"
         width="154"
         height="85"/>
@@ -572,7 +573,7 @@
           href="ServingRelationship_48dc5add-af44-4d08-8194-7ebf4fe10ec9.xml#48dc5add-af44-4d08-8194-7ebf4fe10ec9"/>
     </sourceConnections>
     <bounds
-        x="1352"
+        x="1388"
         y="480"
         width="181"
         height="73"/>
@@ -585,7 +586,7 @@
       id="24deef90-84cf-4284-b2d9-39a8f1d9c2c0"
       targetConnections="10c60d09-421c-4c4d-a1c1-53d7f437d9bf f54f77e6-19d4-442e-9820-24471f1d2d65">
     <bounds
-        x="1356"
+        x="1392"
         y="864"
         width="150"
         height="73"/>
@@ -615,7 +616,7 @@
           href="ServingRelationship_b307ef04-c670-48b3-91d4-be398188469b.xml#b307ef04-c670-48b3-91d4-be398188469b"/>
     </sourceConnections>
     <bounds
-        x="1349"
+        x="1385"
         y="732"
         width="157"
         height="85"/>
@@ -673,7 +674,7 @@
           href="RealizationRelationship_85f42bdd-9c83-49ba-8c35-75ab693b17ae.xml#85f42bdd-9c83-49ba-8c35-75ab693b17ae"/>
     </sourceConnections>
     <bounds
-        x="1352"
+        x="1388"
         y="601"
         width="151"
         height="72"/>
@@ -748,7 +749,7 @@
           href="ServingRelationship_bd7bad6a-bed7-451b-833b-5add06024807.xml#bd7bad6a-bed7-451b-833b-5add06024807"/>
     </sourceConnections>
     <bounds
-        x="144"
+        x="180"
         y="732"
         width="145"
         height="85"/>
@@ -761,7 +762,7 @@
       id="42a8507a-3b5f-4862-a6e7-85c3576dd2b1"
       targetConnections="ea308fd2-f197-4a24-b8d4-39a4ce529dcf 04612902-5edf-4067-8a8c-cf4c2c3b0f41">
     <bounds
-        x="36"
+        x="72"
         y="864"
         width="88"
         height="73"/>
@@ -774,7 +775,7 @@
       id="77319e5d-6106-477b-bcc9-9ab8de8dc949"
       targetConnections="0dd0e976-3380-4def-b02c-0780d3a0abdd 5ec3d6cc-c40a-47cf-9b31-322a4bf9363d">
     <bounds
-        x="176"
+        x="212"
         y="864"
         width="88"
         height="73"/>
@@ -787,7 +788,7 @@
       id="c6578c2f-42c7-4b9b-a987-948c35ad3abd"
       targetConnections="f5e544f5-fbe1-4470-a939-8726c8091307 256d6df7-b907-41ae-954d-77d88f994d8e">
     <bounds
-        x="320"
+        x="356"
         y="864"
         width="88"
         height="73"/>
@@ -826,7 +827,7 @@
           href="AssignmentRelationship_8b53187b-e637-42a6-95a3-309a1dedb946.xml#8b53187b-e637-42a6-95a3-309a1dedb946"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="48"
         y="996"
         width="396"
         height="85"/>
@@ -847,12 +848,33 @@
           href="AssignmentRelationship_732bf577-74c5-4c75-a439-c472cdf21c35.xml#732bf577-74c5-4c75-a439-c472cdf21c35"/>
     </sourceConnections>
     <bounds
-        x="1353"
+        x="1389"
         y="990"
         width="156"
         height="91"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_26a52f17-e2a5-4f57-b1a9-6a7eaf3778f2.xml#26a52f17-e2a5-4f57-b1a9-6a7eaf3778f2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b73f36c3-9638-4af8-9b49-31b43174a272">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="23982680-c5f6-4798-a03d-ae0b51b0ad88"
+        source="b73f36c3-9638-4af8-9b49-31b43174a272"
+        target="61460449-83a2-4044-bc1b-7e3d60ec7f76">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_b88744c8-e43c-4f53-870b-23b2457eaec0.xml#b88744c8-e43c-4f53-870b-23b2457eaec0"/>
+    </sourceConnections>
+    <bounds
+        x="228"
+        y="144"
+        width="157"
+        height="93"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_04ac8c8b-c2e3-4665-b16d-42f1d85ffdf1.xml#04ac8c8b-c2e3-4665-b16d-42f1d85ffdf1"/>
   </children>
 </archimate:ArchimateDiagramModel>
