@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spectrograph Offline Processing"
+    name="Spectrograph Offline Processing View"
     id="5e3b72f0-3ea8-4c6e-aa09-3a0fc5b81b9a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
