@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Master Batch Job Scheduling Service at NCSA (Application Service)"
-    id="844539ab-7959-11e7-9bd1-6c400893992c">
+    id="844539ab-7959-11e7-9bd1-6c400893992c"
+    documentation="Dispatches jobs in order of business priority, making optimal use of batch resources.">
   <properties
       key="ReusableServices"/>
 </archimate:ApplicationService>

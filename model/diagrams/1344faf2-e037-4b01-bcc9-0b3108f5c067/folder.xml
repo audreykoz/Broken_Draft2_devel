@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LSST Data Lifecycle Views"
     id="1344faf2-e037-4b01-bcc9-0b3108f5c067"
-    documentation="These views describe the management of data orginating from generating processes e.g. pipeline steps, and their interactions with data management functions. "/>
+    documentation="These views describe the management of data orginating from generating processes e.g. pipeline steps, their interactions with data management functions up to terminal points."/>
