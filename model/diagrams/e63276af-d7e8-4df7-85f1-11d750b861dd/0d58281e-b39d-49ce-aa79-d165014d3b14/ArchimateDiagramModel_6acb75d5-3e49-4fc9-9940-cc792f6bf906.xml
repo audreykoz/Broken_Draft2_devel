@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Data Backbone] NCSA External Stageout Service (WBS View)"
-    id="6acb75d5-3e49-4fc9-9940-cc792f6bf906">
+    id="6acb75d5-3e49-4fc9-9940-cc792f6bf906"
+    documentation="Staging out data to the workflow system">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="17054082-4a1f-4216-ab25-bc3924888a3d"

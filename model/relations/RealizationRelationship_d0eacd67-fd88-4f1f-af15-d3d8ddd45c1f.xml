@@ -1,11 +1,12 @@
-<archimate:AccessRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="72bb0fbb-c385-47d3-8168-4300e23c4909">
+    name="Realize"
+    id="d0eacd67-fd88-4f1f-af15-d3d8ddd45c1f">
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_6a5c2265-654e-44e0-9e9d-03f01b7b4f2b.xml#6a5c2265-654e-44e0-9e9d-03f01b7b4f2b"/>
   <target
-      xsi:type="archimate:Artifact"
-      href="Artifact_549372b5-500f-4e78-af75-7dbc230efa59.xml#549372b5-500f-4e78-af75-7dbc230efa59"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_b733f5ef-2f14-4c60-8ebf-aa8f688b23e0.xml#b733f5ef-2f14-4c60-8ebf-aa8f688b23e0"/>
+</archimate:RealizationRelationship>

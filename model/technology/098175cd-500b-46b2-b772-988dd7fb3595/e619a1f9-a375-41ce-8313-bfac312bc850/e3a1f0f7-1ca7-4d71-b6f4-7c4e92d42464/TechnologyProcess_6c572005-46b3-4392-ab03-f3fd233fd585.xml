@@ -1,0 +1,5 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] Write Ingested Data To Tape (Technology Process)"
+    id="6c572005-46b3-4392-ab03-f3fd233fd585"
+    documentation="Accomplished through a disk buffer or similar setup."/>
