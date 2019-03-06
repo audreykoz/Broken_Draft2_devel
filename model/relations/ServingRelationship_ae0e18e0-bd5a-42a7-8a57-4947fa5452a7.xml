@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record DIsaster Recovery"
+    id="ae0e18e0-bd5a-42a7-8a57-4947fa5452a7">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_4bb3ada4-3188-4e2b-baef-e02bed51fc4d.xml#4bb3ada4-3188-4e2b-baef-e02bed51fc4d"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_9f5cb85b-5180-456f-a4ed-52b736545656.xml#9f5cb85b-5180-456f-a4ed-52b736545656"/>
+</archimate:ServingRelationship>
