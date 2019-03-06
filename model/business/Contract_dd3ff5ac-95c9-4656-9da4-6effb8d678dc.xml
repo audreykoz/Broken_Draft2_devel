@@ -1,5 +1,5 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Policy] Butler V2 Cache Management Policy (Contract)"
-    id="fe6ddeab-1ffe-4e2e-b836-dbc04a16515b"
+    name="[Policy] Butler V3 Cache Management Policy (Contract)"
+    id="dd3ff5ac-95c9-4656-9da4-6effb8d678dc"
     documentation="exists as a config file&#xA;X number of copies must exist."/>

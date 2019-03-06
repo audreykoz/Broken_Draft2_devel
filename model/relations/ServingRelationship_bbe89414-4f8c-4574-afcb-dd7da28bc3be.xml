@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Remove FIles From Schema"
+    id="bbe89414-4f8c-4574-afcb-dd7da28bc3be">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_7653306d-599e-4c24-9e8d-0e4ecaa88fb8.xml#7653306d-599e-4c24-9e8d-0e4ecaa88fb8"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_194dd3ff-6da9-4346-8307-79151a461634.xml#194dd3ff-6da9-4346-8307-79151a461634"/>
+</archimate:ServingRelationship>

@@ -165,5 +165,17 @@
         xsi:type="archimate:Artifact"
         href="Artifact_7a47a687-9f6f-4192-9f40-163a6c94bce9.xml#7a47a687-9f6f-4192-9f40-163a6c94bce9"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b6035a62-0946-4d64-967a-fb02e8449d94">
+    <bounds
+        x="444"
+        y="90"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyInterface"
+        href="TechnologyInterface_7653306d-599e-4c24-9e8d-0e4ecaa88fb8.xml#7653306d-599e-4c24-9e8d-0e4ecaa88fb8"/>
+  </children>
   <properties/>
 </archimate:ArchimateDiagramModel>
