@@ -1,5 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.3.4 Hosting of Feeds to LSST Offered Mini Broker "
+    name="3.3.4.1 Hosting of Feeds to LSST Offered Mini Broker "
     id="19552657-909e-461b-9961-683d0f853d4f"
     documentation="Services providing streaming alerts from the online and offline distribution sources to the LSST minibroker.&#xA;&#xA;Minibrokers manage alert characterization and comparison of detection vs physics, and not coordinate mapping of pictures."/>

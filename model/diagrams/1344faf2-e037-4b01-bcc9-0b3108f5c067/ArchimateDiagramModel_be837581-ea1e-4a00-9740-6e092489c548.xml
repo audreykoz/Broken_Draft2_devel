@@ -709,4 +709,6 @@
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_5d79c7d7-7eb2-4ab0-9000-83bcc57b684b.xml#5d79c7d7-7eb2-4ab0-9000-83bcc57b684b"/>
   </children>
+  <properties
+      key="WBS:Spring2019"/>
 </archimate:ArchimateDiagramModel>
