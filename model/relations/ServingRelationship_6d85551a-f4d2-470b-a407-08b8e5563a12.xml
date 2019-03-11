@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Permanent Storage"
+    name="Permanent Storage of Raw Data"
     id="6d85551a-f4d2-470b-a407-08b8e5563a12">
   <source
       xsi:type="archimate:ApplicationInterface"

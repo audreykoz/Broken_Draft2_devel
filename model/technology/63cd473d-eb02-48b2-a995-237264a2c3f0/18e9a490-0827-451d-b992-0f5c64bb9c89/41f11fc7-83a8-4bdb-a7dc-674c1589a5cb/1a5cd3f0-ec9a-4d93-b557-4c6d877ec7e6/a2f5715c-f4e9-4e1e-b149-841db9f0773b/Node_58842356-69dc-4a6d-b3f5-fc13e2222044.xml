@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] Tape Ingest And Management Node (Node)"
-    id="58842356-69dc-4a6d-b3f5-fc13e2222044"/>
+    name="[Data Backbone] Internal Process Support Node (Node)"
+    id="58842356-69dc-4a6d-b3f5-fc13e2222044"
+    documentation="Provide the CPU power for activities such as:&#xA;* Tape Ingest And Management &#xA;* Integrity Checking&#xA;* Other activities not directly exposed as services"/>

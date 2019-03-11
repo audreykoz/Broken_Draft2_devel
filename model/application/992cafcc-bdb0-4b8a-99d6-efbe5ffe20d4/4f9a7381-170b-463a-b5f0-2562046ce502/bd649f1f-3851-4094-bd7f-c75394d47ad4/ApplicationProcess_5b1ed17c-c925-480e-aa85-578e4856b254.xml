@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[BPS] Stage-out (Application Process)"
-    id="5b1ed17c-c925-480e-aa85-578e4856b254"/>
+    id="5b1ed17c-c925-480e-aa85-578e4856b254"
+    documentation="Provides ultimate pathname information."/>

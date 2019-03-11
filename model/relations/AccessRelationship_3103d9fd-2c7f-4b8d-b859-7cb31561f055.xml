@@ -1,12 +1,13 @@
-<archimate:ServingRelationship
+<archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Serve"
-    id="a34e2251-af20-4382-97a1-57628292f9e7">
+    name="Read/Write"
+    id="3103d9fd-2c7f-4b8d-b859-7cb31561f055"
+    accessType="3">
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_b733f5ef-2f14-4c60-8ebf-aa8f688b23e0.xml#b733f5ef-2f14-4c60-8ebf-aa8f688b23e0"/>
   <target
-      xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_eed98739-864b-4bdd-9d36-9ca7b062f7c0.xml#eed98739-864b-4bdd-9d36-9ca7b062f7c0"/>
-</archimate:ServingRelationship>
+      xsi:type="archimate:Artifact"
+      href="Artifact_e3be0b10-4685-4e7d-bd35-7621e9469c57.xml#e3be0b10-4685-4e7d-bd35-7621e9469c57"/>
+</archimate:AccessRelationship>
