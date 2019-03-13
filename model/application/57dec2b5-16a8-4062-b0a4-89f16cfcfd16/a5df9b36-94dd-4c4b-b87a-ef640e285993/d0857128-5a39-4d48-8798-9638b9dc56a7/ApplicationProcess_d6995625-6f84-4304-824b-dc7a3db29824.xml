@@ -1,4 +1,7 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[OODS] Ingest Into Data Backbone (Application Process)"
-    id="d6995625-6f84-4304-824b-dc7a3db29824"/>
+    name="[L1 Data Backbone Buffer] Ingest Into Data Backbone (Application Process)"
+    id="d6995625-6f84-4304-824b-dc7a3db29824">
+  <properties
+      key="Enc:L1"/>
+</archimate:ApplicationProcess>

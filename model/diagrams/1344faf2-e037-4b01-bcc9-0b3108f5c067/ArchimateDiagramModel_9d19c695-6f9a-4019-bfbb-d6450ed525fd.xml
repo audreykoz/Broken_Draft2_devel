@@ -533,4 +533,26 @@
         xsi:type="archimate:Artifact"
         href="Artifact_eeb69f2c-b88c-4b5c-8236-11bae1b34907.xml#eeb69f2c-b88c-4b5c-8236-11bae1b34907"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="dc0cd23f-7f98-4b28-9012-fe1212a2e3b4"
+      textAlignment="1"
+      content="Draw interface here ====>&#xA;Location + metadata schema">
+    <bounds
+        x="624"
+        y="444"
+        width="169"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4268f551-1bf7-4e58-85b5-051bd7a79683"
+      textAlignment="1"
+      content="Further define this&#xA; ||&#xA; V">
+    <bounds
+        x="1404"
+        y="198"
+        width="217"
+        height="79"/>
+  </children>
 </archimate:ArchimateDiagramModel>
