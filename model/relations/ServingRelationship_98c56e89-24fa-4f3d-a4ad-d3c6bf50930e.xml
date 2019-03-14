@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify exposires residing in Data Backbone"
+    id="98c56e89-24fa-4f3d-a4ad-d3c6bf50930e">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_43d89938-76ca-4a94-8910-3da81e01fe18.xml#43d89938-76ca-4a94-8910-3da81e01fe18"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4e659ebe-b26d-4dd5-8eb8-f6d31a63adea.xml#4e659ebe-b26d-4dd5-8eb8-f6d31a63adea"/>
+</archimate:ServingRelationship>

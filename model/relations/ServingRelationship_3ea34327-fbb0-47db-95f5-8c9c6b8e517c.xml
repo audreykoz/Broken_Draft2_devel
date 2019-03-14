@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identify camera buffer exposures"
+    id="3ea34327-fbb0-47db-95f5-8c9c6b8e517c">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_985c123e-bd8f-46ce-b9ae-814db01d2232.xml#985c123e-bd8f-46ce-b9ae-814db01d2232"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_4e659ebe-b26d-4dd5-8eb8-f6d31a63adea.xml#4e659ebe-b26d-4dd5-8eb8-f6d31a63adea"/>
+</archimate:ServingRelationship>

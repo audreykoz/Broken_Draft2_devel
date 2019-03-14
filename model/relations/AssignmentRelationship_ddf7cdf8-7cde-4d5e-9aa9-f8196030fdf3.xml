@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assign"
     id="ddf7cdf8-7cde-4d5e-9aa9-f8196030fdf3">
   <source
       xsi:type="archimate:ApplicationComponent"
