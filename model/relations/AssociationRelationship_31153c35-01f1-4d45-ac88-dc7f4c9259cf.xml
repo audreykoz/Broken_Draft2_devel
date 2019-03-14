@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relates to"
     id="31153c35-01f1-4d45-ac88-dc7f4c9259cf">
   <source
       xsi:type="archimate:TechnologyProcess"
