@@ -5,4 +5,6 @@
     documentation="Holds login areas and application support files for the L1 Enclave applications at the Base.&#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
   <properties
       key="Unit:Useable TB"/>
+  <properties
+      key="Enc:NCSA"/>
 </archimate:Node>

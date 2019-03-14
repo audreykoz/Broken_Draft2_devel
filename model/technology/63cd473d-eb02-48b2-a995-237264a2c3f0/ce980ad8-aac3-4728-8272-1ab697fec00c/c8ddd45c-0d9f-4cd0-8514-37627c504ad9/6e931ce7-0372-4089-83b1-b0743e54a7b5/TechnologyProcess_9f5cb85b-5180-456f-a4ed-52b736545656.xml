@@ -1,4 +1,7 @@
 <archimate:TechnologyProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[L1 Base] L1 FIleset Disaster Recovery (Technology Process)"
-    id="9f5cb85b-5180-456f-a4ed-52b736545656"/>
+    id="9f5cb85b-5180-456f-a4ed-52b736545656">
+  <properties
+      key="Enc:L1"/>
+</archimate:TechnologyProcess>

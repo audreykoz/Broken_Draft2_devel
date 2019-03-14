@@ -1,4 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[L1 Base] L1 Database Journal (Artifact)"
-    id="4d16aaeb-3023-48e2-8bec-747d28bdd8d0"/>
+    id="4d16aaeb-3023-48e2-8bec-747d28bdd8d0">
+  <properties
+      key="Enc:L1"/>
+</archimate:Artifact>
