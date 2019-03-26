@@ -1,4 +1,8 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Data Backbone] Bundle Into a Unit of Data Management Copy To Tape (Application Process)"
-    id="e7acad65-2026-4f3a-bfcf-dea4dae3b900"/>
+    id="e7acad65-2026-4f3a-bfcf-dea4dae3b900"
+    documentation="Aggregate files into a data packet of size that's appropriate for tape.">
+  <properties
+      key="Enc:NCSADataBackbone"/>
+</archimate:ApplicationProcess>

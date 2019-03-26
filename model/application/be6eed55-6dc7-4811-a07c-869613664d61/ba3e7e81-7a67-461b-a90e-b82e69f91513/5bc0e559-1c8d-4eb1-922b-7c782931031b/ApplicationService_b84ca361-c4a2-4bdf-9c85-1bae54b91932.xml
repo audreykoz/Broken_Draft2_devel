@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Observatory Operations] Spectrograph Camera Data Service (Application Service)"
+    id="b84ca361-c4a2-4bdf-9c85-1bae54b91932"
+    documentation="Spectrograph Camera Data Service provides byte-interleaved pixels from the spectrograph camera.&#xA;">
+  <properties
+      key="Enc:CriticalObserving"/>
+</archimate:ApplicationService>

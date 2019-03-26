@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Observatory Operations] Observatory Control Service (Application Service)"
+    id="4bd7f28e-35bc-4432-aa27-03077dfcdb5f"
+    documentation="Observatory Control Service provides orchestration of all components related to observing.">
+  <properties
+      key="Enc:CriticalObserving"/>
+</archimate:ApplicationService>

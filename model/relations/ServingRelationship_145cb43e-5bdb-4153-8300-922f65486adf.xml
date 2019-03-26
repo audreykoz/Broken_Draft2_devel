@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide pixels for exposure"
+    id="145cb43e-5bdb-4153-8300-922f65486adf">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4bd7f28e-35bc-4432-aa27-03077dfcdb5f.xml#4bd7f28e-35bc-4432-aa27-03077dfcdb5f"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_188f8499-c85c-496f-93da-66c09e22a844.xml#188f8499-c85c-496f-93da-66c09e22a844"/>
+</archimate:ServingRelationship>

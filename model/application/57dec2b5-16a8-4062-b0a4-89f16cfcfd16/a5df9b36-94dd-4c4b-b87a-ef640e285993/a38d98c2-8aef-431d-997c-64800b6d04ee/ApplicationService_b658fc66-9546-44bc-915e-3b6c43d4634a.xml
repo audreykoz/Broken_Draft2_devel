@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Spectrograph Archiving] AT Catch-Up Archiver Service (Application Service)"
-    id="b658fc66-9546-44bc-915e-3b6c43d4634a"/>
+    id="b658fc66-9546-44bc-915e-3b6c43d4634a"
+    documentation="AT Archiver Service aquires pixel data in catch-up mode from the spectrograph buffer and feeds backend services.&#xA;&#xA;This is an OCS-commandable device. The service is driven by the externally provided list list of catch-up exposures stillr esiding in spectrograph buffer. It assembles pixels into a FITS file and forwards the data to othger services supplying a real-time view of the aquired data to ther observatory and providing for archiving of the raw data into the backbone. "/>

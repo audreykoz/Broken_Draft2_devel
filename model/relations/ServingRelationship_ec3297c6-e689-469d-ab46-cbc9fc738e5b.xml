@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestrate exposures"
+    id="ec3297c6-e689-469d-ab46-cbc9fc738e5b">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_64721097-db7f-4efe-9b0b-b2b2ed6c0535.xml#64721097-db7f-4efe-9b0b-b2b2ed6c0535"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7e533100-17fa-45a9-a303-e8d6cab08528.xml#7e533100-17fa-45a9-a303-e8d6cab08528"/>
+</archimate:ServingRelationship>

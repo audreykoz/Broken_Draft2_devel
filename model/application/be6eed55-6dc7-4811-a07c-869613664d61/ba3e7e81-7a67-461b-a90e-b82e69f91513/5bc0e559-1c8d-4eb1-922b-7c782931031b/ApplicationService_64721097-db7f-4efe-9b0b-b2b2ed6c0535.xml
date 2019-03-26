@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Observatory Operations] Spectrograph Camera Control System (Application Service)"
+    id="64721097-db7f-4efe-9b0b-b2b2ed6c0535"
+    documentation="Spectrograph Camera Control System provides overall supervisory control of the spectrograph camera.">
+  <properties
+      key="Enc:CriticalObserving"/>
+</archimate:ApplicationService>

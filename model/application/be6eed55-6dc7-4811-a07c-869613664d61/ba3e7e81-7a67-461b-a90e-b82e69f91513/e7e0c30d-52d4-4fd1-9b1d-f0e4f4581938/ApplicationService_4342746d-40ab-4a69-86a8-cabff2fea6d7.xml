@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Observatory Operations] Engineering and Facilities Database Service (Application Service)"
+    id="4342746d-40ab-4a69-86a8-cabff2fea6d7"
+    documentation="Engineering and Facilities Database Service  provides access to time series and files related to observatory operations.">
+  <properties
+      key="Enc:CriticalObserving"/>
+</archimate:ApplicationService>

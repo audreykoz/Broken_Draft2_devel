@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide header"
+    id="969b5418-de99-4dac-9957-bcad67ecc2b5">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4342746d-40ab-4a69-86a8-cabff2fea6d7.xml#4342746d-40ab-4a69-86a8-cabff2fea6d7"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_188f8499-c85c-496f-93da-66c09e22a844.xml#188f8499-c85c-496f-93da-66c09e22a844"/>
+</archimate:ServingRelationship>

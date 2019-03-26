@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide real-time log information"
+    id="343ec254-866b-48cd-8326-d0463c3513e0">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_42eac4f1-9777-425b-9068-293ebf4682d5.xml#42eac4f1-9777-425b-9068-293ebf4682d5"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_212dfcac-1e29-47a4-9041-2ce613b2f88f.xml#212dfcac-1e29-47a4-9041-2ce613b2f88f"/>
+</archimate:ServingRelationship>

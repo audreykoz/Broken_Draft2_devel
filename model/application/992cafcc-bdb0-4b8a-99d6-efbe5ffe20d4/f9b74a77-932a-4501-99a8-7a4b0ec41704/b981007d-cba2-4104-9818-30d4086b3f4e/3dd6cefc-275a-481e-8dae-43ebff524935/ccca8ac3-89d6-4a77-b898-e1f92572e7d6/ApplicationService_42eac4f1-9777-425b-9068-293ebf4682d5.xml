@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BASE ITSEC] Log File Forwarding (Application Service)"
+    id="42eac4f1-9777-425b-9068-293ebf4682d5"
+    documentation="Forward log files in real time to security analysis functions and processes."/>

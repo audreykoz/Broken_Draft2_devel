@@ -1,4 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Mass Store] Ingest Service (Technology Service)"
-    id="b5e3f362-a2ea-4d9e-828e-54c78e3c8566"/>
+    id="b5e3f362-a2ea-4d9e-828e-54c78e3c8566"
+    documentation="This is the service that accepts files for storage on tape.&#xA;&#xA;The service accepts files for eventual storage on tape. The files are first staged on disk and gathered for efficient tape operations. Therefore, data are not immmediately placed on tape synchronious with service requests.">
+  <properties
+      key="Enc:NCSA_COMMONS"/>
+</archimate:TechnologyService>

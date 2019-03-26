@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Spectrograph Archiving] AT Archiver Service (Application Service)"
-    id="844511d1-7959-11e7-9d25-6c400893992c">
+    id="844511d1-7959-11e7-9d25-6c400893992c"
+    documentation="AT Archiver Service aquires pixel data in real time from the spectrograph and feeds backend services.&#xA;&#xA;This is an OCS-commandable device. The service is driven by the arrival of the new exposure in the spectrograph camera. It assembles pixels into a FITS file and forwards the data to othger services supplying a real-time view of the aquired data to ther observatory and providing for archiving of the raw data into the backbone. ">
   <properties
       key="UseCaseSatisfactionServices"/>
   <properties

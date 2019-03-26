@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide files in storage disc cache"
     id="21eb1110-ae05-4187-a596-d4d6996d2351">
   <source
       xsi:type="archimate:TechnologyService"

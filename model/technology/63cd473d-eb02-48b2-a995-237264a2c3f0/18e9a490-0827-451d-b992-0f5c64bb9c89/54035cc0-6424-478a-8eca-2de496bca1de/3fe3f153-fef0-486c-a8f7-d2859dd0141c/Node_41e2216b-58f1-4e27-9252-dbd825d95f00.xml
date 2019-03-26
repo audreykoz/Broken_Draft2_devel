@@ -5,5 +5,5 @@
   <properties
       key="Unit:Logical Cores"/>
   <properties
-      key="Enc:L1"/>
+      key="Enc:BMP"/>
 </archimate:Node>

@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Master IM] Master Identity Management (Application Service)"
-    id="d3ae00fd-83ac-42a5-b5bd-016943e24b84"/>
+    id="d3ae00fd-83ac-42a5-b5bd-016943e24b84"
+    documentation="The source of truth for LSST staff and LSST users' identities and permissions.&#xA;&#xA;The Master Identity Management system contains comprehensive information relevant to LSST staff and users permissions and organizational context.&#xA;The Master Identity Management consists of a database holding this information and all the processes and procedures needed to maintain this information. The Master Identity Management also has applicaiton functions to update services that rely on it.">
+  <properties
+      key="Enc:NCSAGeneralProduction"/>
+</archimate:ApplicationService>

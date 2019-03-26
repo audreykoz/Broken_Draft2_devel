@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BRO Base Network Based IT Security **NEEDS CLEANUP**"
+    name="Base Intrusion Detection Service Realization View"
     id="8fca8b09-5453-4cf4-87e8-1a34dd7b792a"
-    documentation=" Bro Acquires data releaven to any traffic  traversing the Base Border infrstrucutre, LSST or not.   Only contols and Traffic relevant to LSST is sunject to intrustion detcetion and network controls. "
+    documentation=" Bro Acquires data relevant to any traffic  traversing the Base Border infrstrucutre, LSST or not.   Only contols and Traffic relevant to LSST is sunject to intrustion detcetion and network controls. "
     connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

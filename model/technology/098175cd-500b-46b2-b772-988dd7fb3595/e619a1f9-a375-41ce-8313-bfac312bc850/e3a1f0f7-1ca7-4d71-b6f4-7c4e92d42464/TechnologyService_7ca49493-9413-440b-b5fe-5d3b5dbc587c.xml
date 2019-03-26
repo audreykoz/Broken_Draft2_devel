@@ -1,4 +1,8 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Mass Store] Staging Service (Technology Service)"
-    id="7ca49493-9413-440b-b5fe-5d3b5dbc587c"/>
+    name="[NCSA Mass Store] Stageout Service (Technology Service)"
+    id="7ca49493-9413-440b-b5fe-5d3b5dbc587c"
+    documentation="This service places files on tape and makes them available for transfer from the disk buffer associated with the tape system">
+  <properties
+      key="Enc:NCSA_COMMONS"/>
+</archimate:TechnologyService>

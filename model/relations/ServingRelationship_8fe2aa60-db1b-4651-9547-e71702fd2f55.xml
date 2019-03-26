@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control state"
+    id="8fe2aa60-db1b-4651-9547-e71702fd2f55">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_4bd7f28e-35bc-4432-aa27-03077dfcdb5f.xml#4bd7f28e-35bc-4432-aa27-03077dfcdb5f"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_7e533100-17fa-45a9-a303-e8d6cab08528.xml#7e533100-17fa-45a9-a303-e8d6cab08528"/>
+</archimate:ServingRelationship>

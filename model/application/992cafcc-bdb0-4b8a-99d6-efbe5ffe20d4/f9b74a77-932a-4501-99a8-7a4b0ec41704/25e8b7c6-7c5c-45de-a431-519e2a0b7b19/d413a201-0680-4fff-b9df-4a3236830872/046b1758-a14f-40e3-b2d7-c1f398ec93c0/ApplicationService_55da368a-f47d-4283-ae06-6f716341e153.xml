@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Base AA] Authentication and Authorization (Application Service) "
-    id="55da368a-f47d-4283-ae06-6f716341e153"/>
+    id="55da368a-f47d-4283-ae06-6f716341e153"
+    documentation="This is the service that represents authentication and authorization policy decision point at the Base. &#xA;&#xA;This supplies the service as the local source of authentication and authrizationa th the Base. The service of authorization and authentication is updated from the Master Identity Management service. The Base service endpoint can operate should it be disconnected from the Master Identity Management service. The Authentication and Authentication service provides its services through the interfaces as indicated in the model.">
+  <properties
+      key="Enc:BMP"/>
+</archimate:ApplicationService>
