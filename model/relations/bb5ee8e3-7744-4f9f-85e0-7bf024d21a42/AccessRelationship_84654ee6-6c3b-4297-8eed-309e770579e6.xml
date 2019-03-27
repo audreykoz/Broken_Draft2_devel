@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update border controls"
     id="84654ee6-6c3b-4297-8eed-309e770579e6">
   <source
       xsi:type="archimate:BusinessFunction"

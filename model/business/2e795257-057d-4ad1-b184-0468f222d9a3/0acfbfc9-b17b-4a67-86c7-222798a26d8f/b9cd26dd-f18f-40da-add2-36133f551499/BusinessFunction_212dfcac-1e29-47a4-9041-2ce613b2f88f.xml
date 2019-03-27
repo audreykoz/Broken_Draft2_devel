@@ -1,7 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA OPSEC] Information Security Analysis (Business Function)"
-    id="212dfcac-1e29-47a4-9041-2ce613b2f88f">
+    id="212dfcac-1e29-47a4-9041-2ce613b2f88f"
+    documentation="Consider the Ensamble of security data and adjust border router controls.">
   <properties
       key="Enc:NCSA"/>
 </archimate:BusinessFunction>

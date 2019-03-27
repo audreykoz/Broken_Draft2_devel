@@ -1,7 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[BASE ITSEC] Forward to NCSA Analysis (Application Function)"
-    id="c10534e9-a59b-4fe2-ab02-1ab050f5ac11">
+    id="c10534e9-a59b-4fe2-ab02-1ab050f5ac11"
+    documentation="Forward the filtered results of intrusion detection and other border router analysis products to NCSA.">
   <properties
       key="Enc:BMP"/>
 </archimate:ApplicationFunction>
