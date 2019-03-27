@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spectrograph Archiving Service Data Management"
+    name="Spectrograph Archiving Service Data Management VIew"
     id="46938f97-5227-407c-9410-132c01e578bf">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
