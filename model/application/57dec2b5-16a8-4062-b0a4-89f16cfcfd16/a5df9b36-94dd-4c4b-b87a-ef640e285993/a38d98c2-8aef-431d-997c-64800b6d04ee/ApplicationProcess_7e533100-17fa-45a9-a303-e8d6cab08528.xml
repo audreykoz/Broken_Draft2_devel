@@ -1,4 +1,7 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Spectrograph Archiving] Gather Pixels and Header Information From CDS Buffer (Application Process)"
-    id="7e533100-17fa-45a9-a303-e8d6cab08528"/>
+    id="7e533100-17fa-45a9-a303-e8d6cab08528">
+  <properties
+      key="Enc:L1"/>
+</archimate:ApplicationProcess>
