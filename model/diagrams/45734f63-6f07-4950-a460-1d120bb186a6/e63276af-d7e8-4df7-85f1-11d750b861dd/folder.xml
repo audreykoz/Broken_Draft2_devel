@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Realization Viewpoint"
     id="e63276af-d7e8-4df7-85f1-11d750b861dd"
-    documentation="All elements native to the service depicted in the view."/>
+    documentation="All elements native to the service depicted in the view.&#xA;&#xA;These views are of interest those concerned with complete enumeration of logical functions, and requirements they are responsive to and their administrative enclave (such as architects)."/>

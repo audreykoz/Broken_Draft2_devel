@@ -1,5 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alert Stream for 1 User (Application Interface)"
-    id="f1f3bcb0-80b6-412a-a879-87bcb0c25910"
-    documentation="The stream of alerts consistent with the filter specification sent to the user"/>

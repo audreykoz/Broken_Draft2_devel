@@ -13,6 +13,27 @@
         y="696"
         width="1021"
         height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8b199ccc-37fc-44a9-b8e4-aebf7f2d33f5">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="36aaa261-9698-4d5e-ae9f-d1ad910b78e2"
+          source="8b199ccc-37fc-44a9-b8e4-aebf7f2d33f5"
+          target="1828b935-b9ca-4cf2-bf65-cb25222c4aa6">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_a3d37a35-ec9b-4fc4-9cdc-9cc4f3a36bcf.xml#a3d37a35-ec9b-4fc4-9cdc-9cc4f3a36bcf"/>
+      </sourceConnections>
+      <bounds
+          x="588"
+          y="36"
+          width="120"
+          height="109"/>
+      <archimateElement
+          xsi:type="archimate:TechnologyInterface"
+          href="TechnologyInterface_5d79c7d7-7eb2-4ab0-9000-83bcc57b684b.xml#5d79c7d7-7eb2-4ab0-9000-83bcc57b684b"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -138,27 +159,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_7ca49493-9413-440b-b5fe-5d3b5dbc587c.xml#7ca49493-9413-440b-b5fe-5d3b5dbc587c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="8b199ccc-37fc-44a9-b8e4-aebf7f2d33f5">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="36aaa261-9698-4d5e-ae9f-d1ad910b78e2"
-        source="8b199ccc-37fc-44a9-b8e4-aebf7f2d33f5"
-        target="1828b935-b9ca-4cf2-bf65-cb25222c4aa6">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_a3d37a35-ec9b-4fc4-9cdc-9cc4f3a36bcf.xml#a3d37a35-ec9b-4fc4-9cdc-9cc4f3a36bcf"/>
-    </sourceConnections>
-    <bounds
-        x="660"
-        y="732"
-        width="120"
-        height="109"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_5d79c7d7-7eb2-4ab0-9000-83bcc57b684b.xml#5d79c7d7-7eb2-4ab0-9000-83bcc57b684b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

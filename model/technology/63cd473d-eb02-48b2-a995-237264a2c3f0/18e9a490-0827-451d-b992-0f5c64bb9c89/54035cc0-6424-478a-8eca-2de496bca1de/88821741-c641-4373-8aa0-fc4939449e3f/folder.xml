@@ -1,6 +1,6 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.1.05 Base Disk-Based Disaster Recovery Store"
+    name="7.2.1.05 Base Disk-Based Disaster Recovery and Backup Stores"
     id="88821741-c641-4373-8aa0-fc4939449e3f"
     documentation="Disk storage backup for Disaster Recovery stores located at the Base.&#xA;&#xA;The disaster recovery storage system has an implementation that is independent of the file systems it supports.">
   <properties

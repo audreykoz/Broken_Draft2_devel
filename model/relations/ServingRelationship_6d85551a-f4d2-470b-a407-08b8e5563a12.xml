@@ -4,8 +4,8 @@
     name="Permanent Storage of Raw Data"
     id="6d85551a-f4d2-470b-a407-08b8e5563a12">
   <source
-      xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_eed98739-864b-4bdd-9d36-9ca7b062f7c0.xml#eed98739-864b-4bdd-9d36-9ca7b062f7c0"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_b733f5ef-2f14-4c60-8ebf-aa8f688b23e0.xml#b733f5ef-2f14-4c60-8ebf-aa8f688b23e0"/>
   <target
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_d6995625-6f84-4304-824b-dc7a3db29824.xml#d6995625-6f84-4304-824b-dc7a3db29824"/>

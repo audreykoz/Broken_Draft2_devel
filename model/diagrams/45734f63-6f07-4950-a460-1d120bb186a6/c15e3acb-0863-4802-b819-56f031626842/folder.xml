@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Data Management Viewpoint"
-    id="c15e3acb-0863-4802-b819-56f031626842"/>
+    id="c15e3acb-0863-4802-b819-56f031626842"
+    documentation="This viewpoint trace data flows primarily of interest to those concerned with how the underlying infrastructure operates.&#xA;&#xA;These views are of interest to administrators and those accountable for the operation of the facility (for example, what a manager would want to know about backups and disaster recovery)."/>

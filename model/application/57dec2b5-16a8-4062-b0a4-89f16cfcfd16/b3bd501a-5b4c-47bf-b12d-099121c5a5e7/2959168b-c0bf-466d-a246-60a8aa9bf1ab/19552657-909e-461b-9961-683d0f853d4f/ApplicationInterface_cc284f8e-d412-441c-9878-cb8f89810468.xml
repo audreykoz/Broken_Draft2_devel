@@ -1,5 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Filter Specification (Application Interface)"
-    id="cc284f8e-d412-441c-9878-cb8f89810468"
-    documentation="The user supplies and removes small filter script in order to recieve a relevant subset of the alerts (10 alerts per visit limit, per the terms of service). &#xA;&#xA;TBD: How do users  upload their filters? What happens if the filter capacity of the system seems saturated? Do we provide a TBD method to validate the filter?&#xA;Can users upload in offline mode only?"/>

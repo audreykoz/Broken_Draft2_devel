@@ -1,0 +1,7 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DR] Backup Retention Service (Technology Service)"
+    id="36d888ad-a1bb-494f-9c21-0f87fbbbaccc">
+  <properties
+      key="Enc:NCSA"/>
+</archimate:TechnologyService>

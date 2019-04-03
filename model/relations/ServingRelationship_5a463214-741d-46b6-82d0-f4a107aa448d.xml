@@ -4,8 +4,8 @@
     name="Record Saveset and Journal"
     id="5a463214-741d-46b6-82d0-f4a107aa448d">
   <source
-      xsi:type="archimate:TechnologyInterface"
-      href="TechnologyInterface_ffd38446-6b48-4b12-8aab-9e795b7f0317.xml#ffd38446-6b48-4b12-8aab-9e795b7f0317"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_36d888ad-a1bb-494f-9c21-0f87fbbbaccc.xml#36d888ad-a1bb-494f-9c21-0f87fbbbaccc"/>
   <target
       xsi:type="archimate:TechnologyProcess"
       href="TechnologyProcess_7f9b7157-551f-4f0c-b186-8dd388ed90d9.xml#7f9b7157-551f-4f0c-b186-8dd388ed90d9"/>

@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Enc] L1"
+    id="78f0f62b-5b38-4ec1-98f5-1ccd02d5dc54"
+    documentation="This is the L1 Enclave at the base.&#xA;&#xA;The services need to be available to suport observing and other telespoce-related activities at the base and the reliability of availability of these services is consistent with spporting those activities. Change control for these items is coordinated with the needs of observing telescope-related activities."/>
