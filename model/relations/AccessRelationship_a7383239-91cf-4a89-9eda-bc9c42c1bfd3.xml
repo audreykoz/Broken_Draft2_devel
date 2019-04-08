@@ -2,12 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Read"
-    id="ef3f4ba6-7b4a-442d-a446-7c4c6a7f9aa4"
+    id="a7383239-91cf-4a89-9eda-bc9c42c1bfd3"
     accessType="1">
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_cafca711-205e-459c-89c3-3978f5bef622.xml#cafca711-205e-459c-89c3-3978f5bef622"/>
+      href="ApplicationService_0ca5fcc8-d9ec-41c5-8c9f-54334c461265.xml#0ca5fcc8-d9ec-41c5-8c9f-54334c461265"/>
   <target
       xsi:type="archimate:Artifact"
-      href="Artifact_7a47a687-9f6f-4192-9f40-163a6c94bce9.xml#7a47a687-9f6f-4192-9f40-163a6c94bce9"/>
+      href="Artifact_6ed88fba-60c6-4d57-8e53-47ef1fa3f93a.xml#6ed88fba-60c6-4d57-8e53-47ef1fa3f93a"/>
 </archimate:AccessRelationship>
