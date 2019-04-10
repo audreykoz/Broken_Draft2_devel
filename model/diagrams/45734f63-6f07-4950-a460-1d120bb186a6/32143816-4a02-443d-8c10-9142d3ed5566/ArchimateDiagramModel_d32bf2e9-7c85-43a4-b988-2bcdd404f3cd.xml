@@ -986,8 +986,8 @@
       textAlignment="1"
       content="Attach to enclave ==>">
     <bounds
-        x="1080"
-        y="372"
+        x="1176"
+        y="717"
         width="185"
         height="80"/>
   </children>
