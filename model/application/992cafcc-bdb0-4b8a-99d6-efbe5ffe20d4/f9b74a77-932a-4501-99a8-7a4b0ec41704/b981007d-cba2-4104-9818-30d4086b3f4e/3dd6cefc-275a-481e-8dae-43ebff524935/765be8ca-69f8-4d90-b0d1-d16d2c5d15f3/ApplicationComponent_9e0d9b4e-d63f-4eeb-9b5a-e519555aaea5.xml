@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Summit ITSEC] Base Logfile Collector and Other Security Applications  (Application Component) (copy)"
+    id="9e0d9b4e-d63f-4eeb-9b5a-e519555aaea5"
+    documentation="Process that stores and forwards security logs from the base when connected to the Central Information Security Services."/>

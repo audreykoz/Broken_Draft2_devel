@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Summit ITSEC] Log File Collection Endpoint (Application Service) (copy)"
+    id="3eb4a03c-107d-4733-89cf-7858d06e1b14"
+    documentation="Log File Collection Endpoint colelcts log files in real time from supported platforms.&#xA;&#xA;Log File Collection service is available in real time and supportes ingest of streaming log files, such as ingest of SYSLOGD. Log files are forwarded to the information security system for a prompt analysis and to form a forensic record. "/>
