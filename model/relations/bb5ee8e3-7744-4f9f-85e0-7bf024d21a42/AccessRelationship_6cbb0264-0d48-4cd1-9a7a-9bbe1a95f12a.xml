@@ -8,6 +8,6 @@
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_c792d007-b741-45b9-a253-d1385073b015.xml#c792d007-b741-45b9-a253-d1385073b015"/>
   <target
-      xsi:type="archimate:Artifact"
-      href="Artifact_eeb69f2c-b88c-4b5c-8236-11bae1b34907.xml#eeb69f2c-b88c-4b5c-8236-11bae1b34907"/>
+      xsi:type="archimate:DataObject"
+      href="DataObject_203e7de5-7c7f-430f-a642-dcee9af9a7ee.xml#203e7de5-7c7f-430f-a642-dcee9af9a7ee"/>
 </archimate:AccessRelationship>
