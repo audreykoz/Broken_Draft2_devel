@@ -6,7 +6,8 @@
     documentation="This Database is in the L1 Enclave and is meant to serve as a resource for all LDF-supported relational database needs in the L1 Enclave">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b1a72957-4894-4a91-b80f-5dc4b1bf873b">
+      id="b1a72957-4894-4a91-b80f-5dc4b1bf873b"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a951ec4d-a04e-419e-ae09-681fa80da866"

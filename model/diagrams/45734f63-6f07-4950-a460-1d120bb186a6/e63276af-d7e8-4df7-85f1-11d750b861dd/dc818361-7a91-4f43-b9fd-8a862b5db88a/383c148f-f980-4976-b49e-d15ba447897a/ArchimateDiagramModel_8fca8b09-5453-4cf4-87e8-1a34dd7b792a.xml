@@ -6,7 +6,8 @@
     documentation=" Bro Acquires data relevant to any traffic  traversing the Base Border infrstrucutre, LSST or not.   Only contols and Traffic relevant to LSST is sunject to intrustion detcetion and network controls. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="650618b1-d5f3-4064-a722-4397d6bb95d5">
+      id="650618b1-d5f3-4064-a722-4397d6bb95d5"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5edd4875-c481-444c-a2da-a480d397dc72"
@@ -139,7 +140,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ba771766-92e0-472d-a4d8-521981027d95">
+      id="ba771766-92e0-472d-a4d8-521981027d95"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5e8ecc3c-ae9e-433d-bbd4-462e75d62f4c"

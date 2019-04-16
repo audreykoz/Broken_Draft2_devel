@@ -6,7 +6,8 @@
     documentation="2/8/19: We've reviewed this with J.D. but we haven't reviewed the application level elements with the software developers. The existance of a distinct L1 VSphere is still tentative. &#xA;2/12/19: The (T) indicates that there is a VM hosting  machine">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b4eaafcc-2e66-40b6-bd36-ce0918e8fc50">
+      id="b4eaafcc-2e66-40b6-bd36-ce0918e8fc50"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f7a0e0f5-15ee-4c94-931d-497d8dd73676"
@@ -142,7 +143,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b04e0b06-558d-4bfa-8045-15e26e74f09d">
+      id="b04e0b06-558d-4bfa-8045-15e26e74f09d"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="1825682e-4826-442f-b602-d73fd9b81e27"
@@ -873,7 +875,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="46147983-4bac-4333-bf37-9dfee3a892d9">
+      id="46147983-4bac-4333-bf37-9dfee3a892d9"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="99343b1f-c588-44f5-8c53-f5052c7feec1"
