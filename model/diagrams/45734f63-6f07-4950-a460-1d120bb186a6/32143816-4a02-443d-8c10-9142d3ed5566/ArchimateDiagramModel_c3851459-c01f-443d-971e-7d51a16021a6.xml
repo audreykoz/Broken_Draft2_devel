@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Master Batch Job Scheduling Application Behavior to Provisioning Map"
+    name="Master Batch Job Scheduling Application Behavior to Provisioning View"
     id="c3851459-c01f-443d-971e-7d51a16021a6"
     documentation="Other elemenets needed for production are not shown, as they are a part of the provisioning for the data backbone and the consolidated database, each of these entities has its own service to provisioning map.">
   <children

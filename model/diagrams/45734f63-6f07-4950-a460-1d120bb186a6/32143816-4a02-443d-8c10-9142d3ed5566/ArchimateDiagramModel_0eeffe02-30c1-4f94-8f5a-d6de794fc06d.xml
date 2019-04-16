@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Enclave NCSA View"
+    name="L1 Enclave NCSA Behavior to Provisioning View"
     id="0eeffe02-30c1-4f94-8f5a-d6de794fc06d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

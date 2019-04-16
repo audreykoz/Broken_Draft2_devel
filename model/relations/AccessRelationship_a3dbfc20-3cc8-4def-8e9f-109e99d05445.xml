@@ -4,8 +4,8 @@
     name="Write"
     id="a3dbfc20-3cc8-4def-8e9f-109e99d05445">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_c10534e9-a59b-4fe2-ab02-1ab050f5ac11.xml#c10534e9-a59b-4fe2-ab02-1ab050f5ac11"/>
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_62d9d014-f9c3-4c73-a04e-7948b10950f0.xml#62d9d014-f9c3-4c73-a04e-7948b10950f0"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_51ae13f8-6a0a-470a-8abf-1b96f437cf08.xml#51ae13f8-6a0a-470a-8abf-1b96f437cf08"/>

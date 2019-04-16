@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="L1 Enclave Base Application Behavior to Provisioning View for LLST Cam era"
+    name="L1 Enclave Base Application Behavior to Provisioning View for LSST Cam era"
     id="27bab8b3-634a-493a-949a-19e886ada63b"
     documentation="2/8/19: We've reviewed this with J.D. but we haven't reviewed the application level elements with the software developers. The existance of a distinct L1 VSphere is still tentative. &#xA;2/12/19: The (T) indicates that there is a VM hosting  machine">
   <children
