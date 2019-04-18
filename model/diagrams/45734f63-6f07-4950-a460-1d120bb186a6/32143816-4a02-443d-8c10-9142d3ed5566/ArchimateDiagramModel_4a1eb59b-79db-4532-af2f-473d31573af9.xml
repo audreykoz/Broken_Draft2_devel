@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Backbone Application Behavior to Provisioning View"
+    name="Data Backbone Application Behavior to Provisioning Map"
     id="4a1eb59b-79db-4532-af2f-473d31573af9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

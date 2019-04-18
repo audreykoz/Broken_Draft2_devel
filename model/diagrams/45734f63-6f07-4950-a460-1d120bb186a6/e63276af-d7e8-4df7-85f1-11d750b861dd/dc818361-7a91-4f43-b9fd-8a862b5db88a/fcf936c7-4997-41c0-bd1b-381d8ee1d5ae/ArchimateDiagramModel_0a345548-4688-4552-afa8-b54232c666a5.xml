@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spectrograph Catch-up Services"
+    name="Spectrograph Catch-up Services View"
     id="0a345548-4688-4552-afa8-b54232c666a5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

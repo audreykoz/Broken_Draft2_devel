@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Mass Store Ingest Service Realization view"
+    name="NCSA Mass Store Ingest Service Realization View"
     id="88fe0d24-2b6b-4ced-af70-3000bfc7d700">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

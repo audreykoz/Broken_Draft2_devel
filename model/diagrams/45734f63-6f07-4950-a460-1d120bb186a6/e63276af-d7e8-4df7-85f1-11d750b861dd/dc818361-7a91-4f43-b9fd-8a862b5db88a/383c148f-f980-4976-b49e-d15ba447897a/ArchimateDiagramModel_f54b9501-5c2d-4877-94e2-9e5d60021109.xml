@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spectrograph Forward to Data Backbone"
+    name="Spectrograph Forward to Data Backbone View"
     id="f54b9501-5c2d-4877-94e2-9e5d60021109">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -163,9 +163,9 @@
         id="d3ece539-69a4-4650-a38e-a319923fcf6c"
         targetConnections="f450622b-40d6-4705-92d9-8376f2c0952c 9f047acf-79ae-4d94-872a-80170b35df76">
       <bounds
-          x="588"
-          y="102"
-          width="169"
+          x="564"
+          y="96"
+          width="193"
           height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationProcess"
