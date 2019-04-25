@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LSST"
     id="80fb683b-9e14-426e-b074-e3169fffb08f"
-    purpose="This is a model that aspires to capture the NCSA LSST  construction project, which leads to the the Operations phase LSST Data Facility. &#xA;&#xA;The model supports NCSA internal Construction project Work Breakdown Strucutre, which captures NCSA's forseen activities. These activities are covered by many funding sources: DM construction, LSST Commissioning , and other LSST related funding sources.&#xA;&#xA;Get Archi 4.2.0 with all the plugins here: https://github.com/audreykoz/NCSA-Archi; &#xA;Get the LSST model here: https://github.com/audreykoz/LSST_Model"
+    purpose="This is a model that aspires to capture the NCSA LSST  construction project, which leads to the the Operations phase LSST Data Facility. &#xA;&#xA;The model supports NCSA internal Construction project Work Breakdown Strucutre, which captures NCSA's forseen activities. These activities are covered by many funding sources: DM construction, LSST Commissioning , and other LSST related funding sources.&#xA;&#xA;Get Archi 4.2.0 with all the plugins here: https://github.com/audreykoz/NCSA-Archi&#xA;Get the LSST model here: https://github.com/audreykoz/LSST_Model"
     version="4.0.0">
   <properties
       key="Report:Model:Hide:Business"
