@@ -1,6 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Write"
     id="51dc22aa-2b11-4cb6-8305-0a7e68423510">
   <source
       xsi:type="archimate:TechnologyProcess"
