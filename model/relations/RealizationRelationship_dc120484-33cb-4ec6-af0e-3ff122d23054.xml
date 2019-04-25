@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="B/C Health and Status must be up even if system is down"
     id="dc120484-33cb-4ec6-af0e-3ff122d23054">
   <source
       xsi:type="archimate:Node"
