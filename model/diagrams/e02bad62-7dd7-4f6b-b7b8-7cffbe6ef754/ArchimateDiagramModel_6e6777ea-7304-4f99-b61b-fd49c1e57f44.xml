@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Test"
+    id="6e6777ea-7304-4f99-b61b-fd49c1e57f44">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="05b9d2d2-6bd2-4965-aac9-374ae94c75c3"
+      targetConnections="defc0d31-f914-472a-9c75-c0952ea8913e">
+    <bounds
+        x="516"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_d4a93b40-5352-4a67-a212-6f1dadfddb6a.xml#d4a93b40-5352-4a67-a212-6f1dadfddb6a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b16bc065-1d1d-47a1-904e-e3b87801a141">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="defc0d31-f914-472a-9c75-c0952ea8913e"
+        source="b16bc065-1d1d-47a1-904e-e3b87801a141"
+        target="05b9d2d2-6bd2-4965-aac9-374ae94c75c3">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_7e4afc57-87ec-4825-bcb2-01c357363302.xml#7e4afc57-87ec-4825-bcb2-01c357363302"/>
+    </sourceConnections>
+    <bounds
+        x="516"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_081d5a88-c6d0-46e2-858f-98b1c516f0d1.xml#081d5a88-c6d0-46e2-858f-98b1c516f0d1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

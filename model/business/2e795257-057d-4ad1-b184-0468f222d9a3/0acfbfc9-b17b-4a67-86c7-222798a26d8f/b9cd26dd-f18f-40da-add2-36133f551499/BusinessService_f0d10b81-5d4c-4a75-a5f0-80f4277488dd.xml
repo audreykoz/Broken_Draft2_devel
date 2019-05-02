@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA OPSEC] Information Security Events Processing (Business Service)"
+    name="[NCSA OPSEC] Network Based Security (Business Service)"
     id="f0d10b81-5d4c-4a75-a5f0-80f4277488dd"
     documentation="This service is aware of information network security events and provides appropriate response.&#xA;&#xA;The service responds to a variety of events, including, but not limited to, intrusion detection, and vulnerabilities. The system reacts to the events with automated actions such as border router blocks, or can activate manual processes such as computer security incident response, or notification of vulnerable software to service staff or system administrators."/>
