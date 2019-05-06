@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spectrograph Offline Processing (Business Service)"
     id="52537d1b-23ad-4774-b27a-56d7ae55e325"
-    documentation="Includes maintaining pipeline configurations, validating software on production hardware and first-order quality assesment.&#xA;&#xA;NB: MODEL THE LATTER IN A VIEW"/>
+    documentation="Includes maintaining pipeline configurations, validating software on production hardware and first-order quality assesment.&#xA;&#xA;INcludes processing calibration exposures into calibrations and processing science to spectro and products such as transparency. &#xA;&#xA;NB: MODEL THE LATTER IN A VIEW"/>
