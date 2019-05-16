@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cached L1 Difference Image (Artifact)"
     id="1a2c0929-2a62-4113-924f-e0892b78b3e6"
-    documentation="Cached difference between a process single exposure and co-local template image for migration to data backbone "/>
+    documentation="Cached difference between a process single exposure and co-local template image for migration to data backbone ">
+  <properties
+      key="E1"
+      value="50"/>
+  <properties
+      key="E2"
+      value="150"/>
+</archimate:Artifact>

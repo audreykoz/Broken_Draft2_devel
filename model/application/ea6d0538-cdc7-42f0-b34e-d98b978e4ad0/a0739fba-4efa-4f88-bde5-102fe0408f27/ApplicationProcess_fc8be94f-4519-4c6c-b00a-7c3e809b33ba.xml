@@ -3,6 +3,5 @@
     name="[L1 NCSA] NCSA Distributor Process (Application Process)"
     id="fc8be94f-4519-4c6c-b00a-7c3e809b33ba"
     documentation="The distributor service recieves data from the forwarder and provides an individual CCD to a running pipeline instance. ">
-  <properties
-      key="Fire"/>
+  <properties/>
 </archimate:ApplicationProcess>
