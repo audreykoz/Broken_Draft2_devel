@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="L1 Cached Diff Templates (Artifact)"
     id="fe20c8c8-727c-4779-a0aa-84272c55bee1"
-    documentation="COADD image produced yearly in each ugrizY bands for multiple air masses "/>
+    documentation="COADD image produced yearly in each ugrizY bands for multiple air masses ">
+  <properties
+      key="E1"
+      value="100"/>
+  <properties
+      key="E2"
+      value="200"/>
+</archimate:Artifact>

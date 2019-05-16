@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Pipeline] Alert Generation (Application Process)"
     id="b1203647-c003-4707-b42e-1f204ffbaa4e"
-    documentation="This process takes the information content and formats the alert packet content.&#xA;At the moment, we assume cutouts are created in this function. "/>
+    documentation="This process takes the information content and formats the alert packet content.&#xA;At the moment, we assume cutouts are created in this function. ">
+  <properties
+      key="Era"
+      value="E1"/>
+  <properties
+      key="Era"
+      value="E2"/>
+</archimate:ApplicationProcess>
