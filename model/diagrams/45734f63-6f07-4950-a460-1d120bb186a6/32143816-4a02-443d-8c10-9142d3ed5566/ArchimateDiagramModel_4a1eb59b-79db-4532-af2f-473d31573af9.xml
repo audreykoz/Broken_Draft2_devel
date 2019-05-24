@@ -179,9 +179,9 @@
         source="7544db54-a662-480a-b90a-d6462d6d6e58"
         target="356b612d-db9a-4d9d-9c86-38ab9abf7907">
       <bendpoints
-          startX="1158"
+          startX="1050"
           startY="-4"
-          endX="186"
+          endX="258"
           endY="279"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -240,17 +240,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="356b612d-db9a-4d9d-9c86-38ab9abf7907"
       targetConnections="7546d845-ef8c-4793-96a1-55f4b0145f9b 1e08631b-bff0-4389-b742-7d347d850222 d6608e17-1680-42e0-9a18-773d931717a1 16a27ecd-9550-4ddd-884a-727069a1614c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d912a3f3-efab-4399-a685-b920420c5a90"
-        source="356b612d-db9a-4d9d-9c86-38ab9abf7907"
-        target="3dabcc66-7d7f-4b01-9844-620c015b9081">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_f9d7e893-6c82-477f-9ab1-b6a24a9102e5.xml#f9d7e893-6c82-477f-9ab1-b6a24a9102e5"/>
-    </sourceConnections>
     <bounds
-        x="1716"
+        x="1572"
         y="456"
         width="853"
         height="43"/>
@@ -383,19 +374,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3dabcc66-7d7f-4b01-9844-620c015b9081"
-      targetConnections="d912a3f3-efab-4399-a685-b920420c5a90">
-    <bounds
-        x="2100"
-        y="324"
-        width="457"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_6515f574-bbba-4595-86de-492aae820e6d.xml#6515f574-bbba-4595-86de-492aae820e6d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="c3ff7bd8-b4d2-4ff5-b057-22ac0845a083"
       targetConnections="de4f53d1-b12f-4119-855d-d483ca4a76e8">
     <bounds
@@ -419,5 +397,29 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_b733f5ef-2f14-4c60-8ebf-aa8f688b23e0.xml#b733f5ef-2f14-4c60-8ebf-aa8f688b23e0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6c6df324-7aa8-4894-b4f6-c4ff655ef688">
+    <bounds
+        x="1980"
+        y="123"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_0d6f00a3-a279-4709-9559-af889c422971.xml#0d6f00a3-a279-4709-9559-af889c422971"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c600ad0c-1341-4132-9948-76886bcf1dce"
+      textAlignment="1"
+      fillColor="#ff2600"
+      content="&lt;&lt;== Vlad please put the elements on this view inside this enclave">
+    <bounds
+        x="2448"
+        y="132"
+        width="313"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
