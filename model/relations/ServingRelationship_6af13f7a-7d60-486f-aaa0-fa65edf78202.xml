@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtain test stand data"
+    id="6af13f7a-7d60-486f-aaa0-fa65edf78202">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_9f6c89f3-ed9a-4fae-9865-302489f6d4ec.xml#9f6c89f3-ed9a-4fae-9865-302489f6d4ec"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_93b4198b-35d4-40d7-b4f0-8fc95b974b26.xml#93b4198b-35d4-40d7-b4f0-8fc95b974b26"/>
+</archimate:ServingRelationship>
