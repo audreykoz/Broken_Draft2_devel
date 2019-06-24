@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Obtain test stand data"
+    name="Obtain LSST test stand data"
     id="6af13f7a-7d60-486f-aaa0-fa65edf78202">
   <source
       xsi:type="archimate:ApplicationService"
