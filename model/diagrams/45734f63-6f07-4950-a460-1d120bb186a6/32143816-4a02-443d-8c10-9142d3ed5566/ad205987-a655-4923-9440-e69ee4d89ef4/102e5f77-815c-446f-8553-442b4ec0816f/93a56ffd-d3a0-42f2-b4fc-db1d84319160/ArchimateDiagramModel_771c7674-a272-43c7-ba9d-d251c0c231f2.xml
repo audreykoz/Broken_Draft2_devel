@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Development and Integration Enclave Service To Provisioning Map"
+    name="Development and Integration Enclave Behavior To Provisioning Map"
     id="771c7674-a272-43c7-ba9d-d251c0c231f2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

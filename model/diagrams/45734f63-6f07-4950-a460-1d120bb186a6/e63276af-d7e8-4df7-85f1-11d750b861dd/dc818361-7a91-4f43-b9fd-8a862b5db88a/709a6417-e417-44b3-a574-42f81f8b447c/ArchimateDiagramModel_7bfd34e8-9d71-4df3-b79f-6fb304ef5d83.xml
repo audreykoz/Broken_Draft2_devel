@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DESC Simulated Data Processing Service Realization View"
+    name="IMSIM Simulated Data Processing Service Realization View"
     id="7bfd34e8-9d71-4df3-b79f-6fb304ef5d83">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
