@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DRP Single-Visit Processing Data Management View"
+    name="1 DRP Single-Visit Processing Data Management View"
     id="3dd9bd0a-22ae-4aa9-a628-17291e721e9f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
