@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Govern"
+    id="858ba4e5-9588-4121-8413-326b0094d835"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_b88ae574-303b-4eac-8e53-4cc780c5103b.xml#b88ae574-303b-4eac-8e53-4cc780c5103b"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_6b149b79-9fa4-4269-a619-17eb265774d4.xml#6b149b79-9fa4-4269-a619-17eb265774d4"/>
+</archimate:AccessRelationship>
