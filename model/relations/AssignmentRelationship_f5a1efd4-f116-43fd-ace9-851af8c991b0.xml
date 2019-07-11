@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local Disk On Node DISCUSSION"
+    id="f5a1efd4-f116-43fd-ace9-851af8c991b0"
+    documentation="System is currently in prototype, ultimate schema destination seems to be Oracle, however it is currently a SQLITE DB.&#xA;&#xA;DILEMMA: ARE WE GETTING A SERVICE FROM NCSA WHERE WE WILL NOT CONTROL WHERE THE DB TABLES ARE, &#xA;OR ARE WE GETTING SOFTWARE FROM NCSA THAT WE ARE GOING TO CONFIGURE AND CAN SPECIFY WHERE THE DB ULTIMATELY RESIDES">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_d5aad695-3f7c-42d0-b83f-47b8f480f8c8.xml#d5aad695-3f7c-42d0-b83f-47b8f480f8c8"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_e7936ce5-3bbd-43b7-9770-629b2b5b1767.xml#e7936ce5-3bbd-43b7-9770-629b2b5b1767"/>
+</archimate:AssignmentRelationship>

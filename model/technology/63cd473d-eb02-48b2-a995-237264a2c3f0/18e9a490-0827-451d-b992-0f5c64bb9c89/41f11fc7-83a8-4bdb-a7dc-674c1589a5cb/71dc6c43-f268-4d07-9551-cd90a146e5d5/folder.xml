@@ -1,8 +1,8 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.3.5 NCSA LSST Specific Admin Methodology Development ITC"
+    name="7.2.2.12 NCSA Standalone Admin Development+Operations ITC"
     id="71dc6c43-f268-4d07-9551-cd90a146e5d5"
-    documentation="Standalone systems supporting general development for system administrators.">
+    documentation="Standalone systems supporting general development for system administrators and standalone systems supporting operational tasks.&#xA;&#xA;Know that we are recording here the systems that had not been implemented as virtual machines .">
   <properties
       key="LDM-129"/>
   <properties

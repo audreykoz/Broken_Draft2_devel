@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Write"
+    id="bb4d0897-d9fb-464e-96a9-6cdbf4545592">
+  <source
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_4b4bc0e1-a644-4388-a38f-aa04e7e0b6c9.xml#4b4bc0e1-a644-4388-a38f-aa04e7e0b6c9"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_9bcb7307-100b-4852-b2f0-a7c3362e8abc.xml#9bcb7307-100b-4852-b2f0-a7c3362e8abc"/>
+</archimate:AccessRelationship>

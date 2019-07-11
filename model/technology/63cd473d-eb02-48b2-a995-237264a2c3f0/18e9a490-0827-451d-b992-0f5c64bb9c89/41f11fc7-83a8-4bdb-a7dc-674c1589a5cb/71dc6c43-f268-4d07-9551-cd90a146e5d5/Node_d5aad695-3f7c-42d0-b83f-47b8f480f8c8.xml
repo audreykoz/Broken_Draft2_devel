@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Admin Standalone] Archive Nodes (Node)"
+    id="d5aad695-3f7c-42d0-b83f-47b8f480f8c8"
+    documentation="A node optimized for building tar files to be deployed on tape.&#xA;&#xA;These nodes have local disk to support the I/O intensive operation of building tar files, which are bundles of tar file optimized for tape I/O."/>
