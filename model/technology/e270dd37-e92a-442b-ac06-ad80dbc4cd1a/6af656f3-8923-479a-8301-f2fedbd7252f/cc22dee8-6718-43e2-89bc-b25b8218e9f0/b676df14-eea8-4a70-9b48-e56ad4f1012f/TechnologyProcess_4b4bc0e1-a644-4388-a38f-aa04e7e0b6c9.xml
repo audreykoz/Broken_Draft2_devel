@@ -1,5 +1,5 @@
 <archimate:TechnologyProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identify New FIles and Make Save Set (Technology Process)"
+    name="Identify New FIle, Make Save Set, Push to Tape (Technology Process)"
     id="4b4bc0e1-a644-4388-a38f-aa04e7e0b6c9"
     documentation="Add New Fiels to the Disaster Recovery store.&#xA;&#xA;Scan all files under the root directory, identifying files not previously backed up to the disatser recovery store. &#xA;Bundle files into size convenient for tape recovery.&#xA;Send file bundles to tape.&#xA;The files are identified by modification time later than the previous incremental. FIle deletions are identified through GPFS logs."/>
