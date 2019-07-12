@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store recovery map"
+    id="6bb28f96-9a3d-4692-b869-692f155fd499"
+    documentation="The recovery map provides information to restore a unit of data management &#xA;&#xA;FOr spectrograph, this is thought to be a night's observing.">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_e7acad65-2026-4f3a-bfcf-dea4dae3b900.xml#e7acad65-2026-4f3a-bfcf-dea4dae3b900"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_1190ae3d-eeb4-4c35-baf8-7ff592440763.xml#1190ae3d-eeb4-4c35-baf8-7ff592440763"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make tape writing requests"
+    id="fd633244-e622-4612-9aa8-a1831face6d0">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_b5e3f362-a2ea-4d9e-828e-54c78e3c8566.xml#b5e3f362-a2ea-4d9e-828e-54c78e3c8566"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_5be4b03a-9cd9-42a9-a5c7-990c09c78f5e.xml#5be4b03a-9cd9-42a9-a5c7-990c09c78f5e"/>
+</archimate:FlowRelationship>

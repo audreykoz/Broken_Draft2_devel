@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store essential metadata"
+    id="07e8487a-ac0b-4d76-ac51-42016a35b5e7">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_6a5c2265-654e-44e0-9e9d-03f01b7b4f2b.xml#6a5c2265-654e-44e0-9e9d-03f01b7b4f2b"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_1190ae3d-eeb4-4c35-baf8-7ff592440763.xml#1190ae3d-eeb4-4c35-baf8-7ff592440763"/>
+</archimate:FlowRelationship>
