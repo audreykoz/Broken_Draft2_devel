@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enclave to Physical Facility"
+    id="646385c2-466d-4415-8f49-8d71f12164ca">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="030567ea-4d7d-4609-b862-31fbbdb56c98"
+      targetConnections="23114ea7-94a1-4468-b58c-3d038155d7f4">
+    <bounds
+        x="168"
+        y="524"
+        width="224"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_90dfe88e-77f9-4780-ad2c-dfdea1824dc5.xml#90dfe88e-77f9-4780-ad2c-dfdea1824dc5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="762abf6c-a752-49f4-9a80-d43ce8645b65">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="23114ea7-94a1-4468-b58c-3d038155d7f4"
+        source="762abf6c-a752-49f4-9a80-d43ce8645b65"
+        target="030567ea-4d7d-4609-b862-31fbbdb56c98">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_39f35520-c21a-46a8-98c9-3a189a628207.xml#39f35520-c21a-46a8-98c9-3a189a628207"/>
+    </sourceConnections>
+    <bounds
+        x="432"
+        y="524"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_7313c586-5d8b-4be6-8f9a-7eee67cb222f.xml#7313c586-5d8b-4be6-8f9a-7eee67cb222f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
