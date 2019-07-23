@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[/datasets] Documentation for Each Dataset (Representation)"
     id="81c87f31-afcb-41ad-80cb-802a095da33d"
-    documentation="The current tangible representation is the top-level directories under /datasets, as well as any README files, as well as any SQLITE files.&#xA; "/>
+    documentation="The current tangible representation is the top-level directories under /datasets, as well as any README files, as well as any SQLITE files.&#xA; ">
+  <properties
+      key="AAAA"/>
+</archimate:Representation>

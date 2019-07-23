@@ -1,4 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="A Managed Data Set Root DIrectory (Artifact)"
-    id="6243207e-d813-494c-a9c4-780110b96ee7"/>
+    name="A Managed Data Set Root Directory and Files (Artifact)"
+    id="6243207e-d813-494c-a9c4-780110b96ee7">
+  <properties
+      key="AAAA"/>
+</archimate:Artifact>

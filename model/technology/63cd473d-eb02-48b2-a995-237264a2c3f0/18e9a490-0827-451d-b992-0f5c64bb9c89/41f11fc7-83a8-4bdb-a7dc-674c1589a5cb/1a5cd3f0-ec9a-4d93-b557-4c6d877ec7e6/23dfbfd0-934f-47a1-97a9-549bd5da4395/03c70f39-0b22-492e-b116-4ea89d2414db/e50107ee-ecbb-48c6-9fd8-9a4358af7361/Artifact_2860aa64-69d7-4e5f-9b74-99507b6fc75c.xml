@@ -1,4 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[HSCCam] Source Catalog With Simulated data (Artifact)"
-    id="2860aa64-69d7-4e5f-9b74-99507b6fc75c"/>
+    id="2860aa64-69d7-4e5f-9b74-99507b6fc75c">
+  <properties
+      key="AAAA"/>
+</archimate:Artifact>

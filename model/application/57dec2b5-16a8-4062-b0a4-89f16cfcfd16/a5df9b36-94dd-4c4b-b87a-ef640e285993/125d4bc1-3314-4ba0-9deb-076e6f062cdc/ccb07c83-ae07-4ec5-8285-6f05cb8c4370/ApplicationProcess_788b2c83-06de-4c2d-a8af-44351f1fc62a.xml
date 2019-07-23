@@ -1,4 +1,7 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[HSCCam] Job Management (Application Process)"
-    id="788b2c83-06de-4c2d-a8af-44351f1fc62a"/>
+    id="788b2c83-06de-4c2d-a8af-44351f1fc62a">
+  <properties
+      key="AAAA"/>
+</archimate:ApplicationProcess>

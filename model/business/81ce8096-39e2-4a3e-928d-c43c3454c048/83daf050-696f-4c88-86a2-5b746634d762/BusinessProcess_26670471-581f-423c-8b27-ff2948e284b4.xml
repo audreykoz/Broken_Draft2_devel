@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[/datasets] Toggle Lock Status Request (Business Process)"
     id="26670471-581f-423c-8b27-ff2948e284b4"
-    documentation="Per Developer's user guide, allow owner to modify the contents of a dataset, and restore read-only permissions thereafter."/>
+    documentation="Per Developer's user guide, allow owner to modify the contents of a dataset, and restore read-only permissions thereafter.">
+  <properties
+      key="AAAA"/>
+</archimate:BusinessProcess>

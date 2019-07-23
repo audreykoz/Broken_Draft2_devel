@@ -4,6 +4,8 @@
     name="Read"
     id="b710d7de-d875-424b-8522-6ad3de842c06"
     accessType="1">
+  <properties
+      key="AAAA"/>
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_410efad9-530c-425a-a083-e4b2e9000490.xml#410efad9-530c-425a-a083-e4b2e9000490"/>

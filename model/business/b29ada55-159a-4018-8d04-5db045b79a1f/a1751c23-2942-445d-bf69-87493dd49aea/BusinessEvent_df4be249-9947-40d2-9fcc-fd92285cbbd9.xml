@@ -1,4 +1,7 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Commence Monthly HSC Processing (Business Event)"
-    id="df4be249-9947-40d2-9fcc-fd92285cbbd9"/>
+    id="df4be249-9947-40d2-9fcc-fd92285cbbd9">
+  <properties
+      key="AAAA"/>
+</archimate:BusinessEvent>

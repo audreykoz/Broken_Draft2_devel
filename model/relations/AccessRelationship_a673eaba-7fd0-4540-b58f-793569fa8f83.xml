@@ -4,6 +4,8 @@
     name="Apply"
     id="a673eaba-7fd0-4540-b58f-793569fa8f83"
     accessType="1">
+  <properties
+      key="AAAA"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_2055cf82-df80-4524-9e3e-3cd9e667184f.xml#2055cf82-df80-4524-9e3e-3cd9e667184f"/>

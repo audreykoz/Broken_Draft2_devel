@@ -1,4 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[HSCCam] Supplied Photometric and Astrometric Catalogs (Artifact)"
-    id="1b5bf59b-171f-4c2d-9560-c74e79a48aae"/>
+    id="1b5bf59b-171f-4c2d-9560-c74e79a48aae">
+  <properties
+      key="AAAA"/>
+</archimate:Artifact>

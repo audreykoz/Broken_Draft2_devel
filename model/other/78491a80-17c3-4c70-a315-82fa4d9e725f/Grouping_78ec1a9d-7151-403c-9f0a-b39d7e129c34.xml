@@ -1,4 +1,7 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Enc] Development and Integration Enclave"
-    id="78ec1a9d-7151-403c-9f0a-b39d7e129c34"/>
+    id="78ec1a9d-7151-403c-9f0a-b39d7e129c34">
+  <properties
+      key="AAAA"/>
+</archimate:Grouping>

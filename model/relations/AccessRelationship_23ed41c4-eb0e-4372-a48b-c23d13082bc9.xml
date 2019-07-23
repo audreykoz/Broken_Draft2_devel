@@ -3,6 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Write"
     id="23ed41c4-eb0e-4372-a48b-c23d13082bc9">
+  <properties
+      key="AAAA"/>
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_410efad9-530c-425a-a083-e4b2e9000490.xml#410efad9-530c-425a-a083-e4b2e9000490"/>

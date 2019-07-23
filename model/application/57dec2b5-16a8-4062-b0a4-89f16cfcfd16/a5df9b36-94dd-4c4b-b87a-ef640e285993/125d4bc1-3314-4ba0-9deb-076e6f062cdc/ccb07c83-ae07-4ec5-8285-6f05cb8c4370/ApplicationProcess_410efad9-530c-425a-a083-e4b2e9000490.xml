@@ -1,4 +1,7 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[HSCCam] HSCCam Processing  (Application Process)"
-    id="410efad9-530c-425a-a083-e4b2e9000490"/>
+    id="410efad9-530c-425a-a083-e4b2e9000490">
+  <properties
+      key="AAAA"/>
+</archimate:ApplicationProcess>

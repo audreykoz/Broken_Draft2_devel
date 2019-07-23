@@ -1,4 +1,7 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[/datasets] Govern Managed Data Sets (Business Service)"
-    id="2055cf82-df80-4524-9e3e-3cd9e667184f"/>
+    id="2055cf82-df80-4524-9e3e-3cd9e667184f">
+  <properties
+      key="AAAA"/>
+</archimate:BusinessService>

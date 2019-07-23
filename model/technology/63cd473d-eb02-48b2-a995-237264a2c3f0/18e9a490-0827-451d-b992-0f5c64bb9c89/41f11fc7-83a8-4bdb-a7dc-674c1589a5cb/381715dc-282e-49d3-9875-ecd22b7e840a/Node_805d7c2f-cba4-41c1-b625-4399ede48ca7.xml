@@ -5,4 +5,6 @@
     documentation="This logical node represents disaster recovery storage. It supports keeping copies of designated file system should file systems fail.  ">
   <properties
       key="Unit:Useable TB"/>
+  <properties
+      key="AAAA"/>
 </archimate:Node>

@@ -1,4 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[HSCCam] Process Visit Image From Simulated Data (Artifact)"
-    id="b468e0dc-8888-4bb3-a98b-77286dee8a8e"/>
+    id="b468e0dc-8888-4bb3-a98b-77286dee8a8e">
+  <properties
+      key="AAAA"/>
+</archimate:Artifact>

@@ -3,6 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trigger"
     id="d1187932-6396-4e8a-883f-e0b27ca53941">
+  <properties
+      key="AAAA"/>
   <source
       xsi:type="archimate:ApplicationProcess"
       href="ApplicationProcess_788b2c83-06de-4c2d-a8af-44351f1fc62a.xml#788b2c83-06de-4c2d-a8af-44351f1fc62a"/>

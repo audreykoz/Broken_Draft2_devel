@@ -1,4 +1,7 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[DM Developer] LSST Data Protection Policy (Contract)"
-    id="6b149b79-9fa4-4269-a619-17eb265774d4"/>
+    id="6b149b79-9fa4-4269-a619-17eb265774d4">
+  <properties
+      key="AAAA"/>
+</archimate:Contract>

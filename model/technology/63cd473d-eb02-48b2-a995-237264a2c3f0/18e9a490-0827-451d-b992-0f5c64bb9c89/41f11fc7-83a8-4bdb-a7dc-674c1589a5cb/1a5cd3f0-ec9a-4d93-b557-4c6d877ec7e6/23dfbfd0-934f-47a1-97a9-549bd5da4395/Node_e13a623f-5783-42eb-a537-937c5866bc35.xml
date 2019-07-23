@@ -5,4 +5,6 @@
     documentation="Holds read-only (but possibly incrementally extended) datasets needed by developers. ">
   <properties
       key="Unit:Useable TB"/>
+  <properties
+      key="AAAA"/>
 </archimate:Node>

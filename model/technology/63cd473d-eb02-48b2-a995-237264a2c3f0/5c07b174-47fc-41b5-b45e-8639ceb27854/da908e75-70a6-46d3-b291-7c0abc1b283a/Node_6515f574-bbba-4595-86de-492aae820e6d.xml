@@ -5,4 +5,6 @@
     documentation="This node represents a head node capablity for Batch scheduling, interactive Login, Kubernetes head nodes and simlar function. Provisioning is separately considered to provide resource isolation from other enclaves at the site.">
   <properties
       key="Unit:Logical Cores"/>
+  <properties
+      key="AAAA"/>
 </archimate:Node>
