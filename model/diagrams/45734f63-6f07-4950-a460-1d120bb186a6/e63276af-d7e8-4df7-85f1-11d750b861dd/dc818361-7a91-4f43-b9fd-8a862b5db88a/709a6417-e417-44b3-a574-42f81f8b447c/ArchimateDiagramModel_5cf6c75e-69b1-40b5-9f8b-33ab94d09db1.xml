@@ -172,8 +172,8 @@
       textAlignment="1"
       content="&lt;= What enclave do these belong to?">
     <bounds
-        x="636"
-        y="552"
+        x="624"
+        y="408"
         width="157"
         height="49"/>
   </children>
