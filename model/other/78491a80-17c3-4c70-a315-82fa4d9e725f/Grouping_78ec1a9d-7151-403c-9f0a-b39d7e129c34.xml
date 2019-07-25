@@ -1,7 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Enc] Development and Integration Enclave"
-    id="78ec1a9d-7151-403c-9f0a-b39d7e129c34">
+    id="78ec1a9d-7151-403c-9f0a-b39d7e129c34"
+    documentation="In this enclave, software and methods undergo development and integration prior to being released into the production environment.&#xA;&#xA;Examples are novel technology and new versions of software which either modify existing systems or are enterely novel systems. May also include certifying or reporting on new hardware.">
   <properties
       key="AAAA"/>
 </archimate:Grouping>

@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5 Highly Sensitive Information Policy (Contract)"
+    id="20427ef6-0dd1-4c5c-8334-b29b868168e7"
+    documentation="Highly Sensitive Data is Information associated&#xA;with regulatory or contractual burdens that&#xA;require specific compliance planning or controls&#xA;not normally associated with Sensitive Data. The&#xA;risks of disclosure of Sensitive Data are highly&#xA;significant.&#xA;&#xA;EXAMPLES:&#xA;● PII&#xA;● Bank account numbers&#xA;● Personnel data e.g., Salaries "/>

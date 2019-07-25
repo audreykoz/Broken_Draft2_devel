@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3 Protected User Information Policy (Contract)"
+    id="c352bd3d-6f65-4483-bb1c-786a8d6e6ee8"
+    documentation="Scientific data and operational metadata&#xA;reserved for authorized data consumers, who&#xA;are normally outside the project.&#xA;The risks associated with accidental disclosures&#xA;of small fractions of Protected User data are&#xA;small. The risks of large or routine, or&#xA;malevolent disclosure of Protected User data&#xA;are significant.&#xA;&#xA;EXAMPLES:&#xA;● Released LSST Level 2 data&#xA;products&#xA;● User-generated Level 3 data&#xA;products&#xA;● Certain operational metadata&#xA;that discloses research topics of&#xA;end users, for example, queries "/>

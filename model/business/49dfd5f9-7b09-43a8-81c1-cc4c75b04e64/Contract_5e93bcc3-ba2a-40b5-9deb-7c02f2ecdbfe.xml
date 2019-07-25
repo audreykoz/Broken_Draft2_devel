@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4 Sensitive Information Policy (Contract)"
+    id="5e93bcc3-ba2a-40b5-9deb-7c02f2ecdbfe"
+    documentation="Generation or ingest of, or access to Sensitive&#xA;Information, needs to be limited to&#xA;management-approved individuals or roles. At&#xA;least one of the following apply:&#xA;● The risks of disclosure of Sensitive Data are&#xA;significant.&#xA;● Generation (or ingest) of Sensitive Data&#xA;needs to be confined to explicitly authorized&#xA;roles or individuals because of information&#xA;security risks.&#xA;&#xA;EXAMPLE:&#xA;● Project sensitive competitive&#xA;bids&#xA;● System and network root&#xA;access passwords&#xA;● Virtual Machine configurations&#xA;on central systems&#xA;● Proprietary Designs&#xA;● Labor rates&#xA;● Emergency Contact Information&#xA;● AURA Management Council for&#xA;LSST (AMCL) meeting&#xA;proceedings-executive sessions"/>

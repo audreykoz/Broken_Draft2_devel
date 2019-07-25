@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Enc] SIte File Systems Enclave"
+    id="d466b1ba-24d2-42b8-b7b7-8879053b20cb"
+    documentation="Core user areas specific to the NCSA LDF.&#xA;&#xA;Available across multiple availability enclaves.&#xA;(Is it master provisioning?)"/>

@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1 Shareable Information Policy (Contract)"
+    id="c10057eb-512c-4b93-8b59-745fe5d05bac"
+    documentation="Information that is not confidential and can be&#xA;made public without any adverse implications.&#xA;Note that not all data classified as shareable is&#xA;actively advertised to any community or is&#xA;necessarily available without authorization.&#xA;&#xA;EXAMPLES:&#xA;● Published research results&#xA;● Published open source&#xA;software, open software&#xA;process documentation&#xA;(except for process&#xA;documentation about&#xA;vulnerabilities)&#xA;● Data designated as public"/>

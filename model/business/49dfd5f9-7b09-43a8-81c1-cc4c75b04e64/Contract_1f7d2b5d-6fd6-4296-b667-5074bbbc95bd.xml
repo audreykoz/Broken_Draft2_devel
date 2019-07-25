@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2 Internal Information Policy (Contract)"
+    id="1f7d2b5d-6fd6-4296-b667-5074bbbc95bd"
+    documentation="Access to and use of this information is broadly&#xA;accessible to project staff and others authorized&#xA;by project management. Information in this&#xA;category is used only for project purposes, and&#xA;may not be shared outside of project staff and&#xA;others authorized by project management.&#xA;The risks associated with accidental disclosures&#xA;of small amounts of Internal data are small. The&#xA;risks of large or routine or malevolent&#xA;disclosures of Internal data are significant.&#xA;&#xA;EXAMPLES:&#xA;● Unreleased observational data&#xA;products&#xA;● Freely offered personal (as&#xA;opposed to office) contact&#xA;information intended for other&#xA;project personnel&#xA;● Information about participants&#xA;in public events&#xA;● Cyber-security policies and&#xA;procedures, security sub plans,&#xA;that could be used to increase&#xA;the impact of an attack&#xA;● Test data, information, and&#xA;tools from third parties&#xA;provided for project use only"/>
