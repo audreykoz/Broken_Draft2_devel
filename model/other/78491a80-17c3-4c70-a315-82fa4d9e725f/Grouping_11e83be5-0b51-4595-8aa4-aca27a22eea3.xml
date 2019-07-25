@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Enc] General Production Enclave"
     id="11e83be5-0b51-4595-8aa4-aca27a22eea3"
-    documentation="Services used for offline production and offline bulk data distribution."/>
+    documentation="Services used for formal offline production and offline bulk data distribution.&#xA;&#xA;This is the enclave where formal release data products are produced. Care si taken in the design of this enclave so that only the formal inputs are used in the production of formal outputs, and the formal outputs are not mixed with informal data."/>

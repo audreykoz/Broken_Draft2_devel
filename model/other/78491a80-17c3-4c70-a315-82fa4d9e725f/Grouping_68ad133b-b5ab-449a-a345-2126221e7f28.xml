@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Enc] Data Access Center"
-    id="68ad133b-b5ab-449a-a345-2126221e7f28"/>
+    id="68ad133b-b5ab-449a-a345-2126221e7f28"
+    documentation="The production data access center where the users of the facility interact, including logins."/>
