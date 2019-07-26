@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Site FS] DR Staging (Node)"
     id="6ac322a0-24e2-456c-b725-3b4ad6345725"
-    documentation="This area supports building *.tar files or equivalents prior to sending to DR and supports breaking up *.tar files or equivalents for recovery process."/>
+    documentation="This area supports building *.tar files or equivalents prior to sending to DR and supports breaking up *.tar files or equivalents for recovery process.&#xA;&#xA;Systems up to, and including those holding sensitive information would use this data bucket as the destination."/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA Site FS] Administrator Tools (Node)"
     id="e0be037b-7d31-4af8-98e7-b836e9c333be"
-    documentation="These are software tools/scripts for Administrator's use.&#xA;&#xA;Certain tools are password-protected."/>
+    documentation="These are software tools/scripts for Administrator's use.&#xA;&#xA;Certain tools may contain information related to credentials. These tools would be classified as &quot;Sensitive.&quot;"/>
