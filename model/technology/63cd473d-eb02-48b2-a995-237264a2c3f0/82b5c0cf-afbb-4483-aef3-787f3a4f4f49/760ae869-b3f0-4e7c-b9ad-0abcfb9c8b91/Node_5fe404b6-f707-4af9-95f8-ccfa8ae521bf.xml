@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[NCSA DAC] DAC User Home File System (Logical Node)"
     id="5fe404b6-f707-4af9-95f8-ccfa8ae521bf"
-    documentation="Holds use login areas for DAC users and other per-user state.">
+    documentation="Holds use login areas for DAC users and other per-user state.&#xA;&#xA;&#xA;This node is likely redundant with the user home file system as described in LSSTDev Filesystem Characteristic View.">
   <properties
       key="Unit:Useable TB"/>
 </archimate:Node>
