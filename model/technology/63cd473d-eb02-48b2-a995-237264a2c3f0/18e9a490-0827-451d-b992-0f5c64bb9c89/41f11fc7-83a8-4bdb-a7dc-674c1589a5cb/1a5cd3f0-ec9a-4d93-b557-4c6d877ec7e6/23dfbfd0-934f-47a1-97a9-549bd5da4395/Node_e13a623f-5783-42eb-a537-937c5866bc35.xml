@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Site FS] Staff Datasets Site File System (Logical Node)"
+    name="[NCSA Site FS] Staff Datasets Site File Area (Logical Node)"
     id="e13a623f-5783-42eb-a537-937c5866bc35"
     documentation="Holds read-only (but possibly incrementally extended) datasets needed by developers and general staff. &#xA;&#xA;Information classification supported:&#xA;* shareable&#xA;* internal.">
   <properties

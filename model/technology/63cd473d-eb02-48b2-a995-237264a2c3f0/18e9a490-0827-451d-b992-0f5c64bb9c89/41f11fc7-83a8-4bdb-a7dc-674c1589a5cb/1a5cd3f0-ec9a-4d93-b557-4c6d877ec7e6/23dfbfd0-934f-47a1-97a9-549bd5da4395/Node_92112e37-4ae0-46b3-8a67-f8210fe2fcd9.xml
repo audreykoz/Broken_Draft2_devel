@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Site FS] jhome Community Filesystem (Logical Node)"
+    name="[NCSA Site FS] jhome Community File Area (Logical Node)"
     id="92112e37-4ae0-46b3-8a67-f8210fe2fcd9"
     documentation="Holds per user field contents tor PDAC users and any other-containerize  high levle application software need for PDAC operations.">
   <properties
