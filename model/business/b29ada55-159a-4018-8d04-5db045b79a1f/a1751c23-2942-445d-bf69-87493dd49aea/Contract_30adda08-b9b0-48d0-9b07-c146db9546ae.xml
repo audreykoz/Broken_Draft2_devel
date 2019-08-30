@@ -1,5 +1,5 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production Processing of HSCCam Data (Contract)"
+    name="Production Processing of IMSIM Data (Contract)"
     id="30adda08-b9b0-48d0-9b07-c146db9546ae"
     documentation="The goals are:&#xA;- Provide Developers with a uniformely processed dataset as would be processed by a production system&#xA;- Develop and integrate production Methodologies in the overall context of survey operations."/>
