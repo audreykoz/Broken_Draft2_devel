@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provide batch services"
+    id="1e767fee-443a-4ab8-9018-0859c2a72c02">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_58515778-d5ad-487b-beb9-d39b7640bd4a.xml#58515778-d5ad-487b-beb9-d39b7640bd4a"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_51fbd904-6563-4596-805f-3602b22e0878.xml#51fbd904-6563-4596-805f-3602b22e0878"/>
+</archimate:ServingRelationship>

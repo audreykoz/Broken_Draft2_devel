@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCSA Batch Service for Developers (Technology Service)"
+    id="58515778-d5ad-487b-beb9-d39b7640bd4a"
+    documentation="This is access to a batch system where the configuration of the nodes is consistent with the Development and Integration enclave Information Security Plan.  This information security plan allows for access to more file areas than would be allowed for production."/>
