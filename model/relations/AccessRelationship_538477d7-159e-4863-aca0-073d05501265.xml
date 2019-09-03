@@ -1,11 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Purge"
-    id="09cf1018-b27f-4f97-a2e9-75e19f8253c5">
+    name="Read"
+    id="538477d7-159e-4863-aca0-073d05501265"
+    accessType="1">
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_8a95ee77-54cb-4ab7-97a3-dbf835b9a823.xml#8a95ee77-54cb-4ab7-97a3-dbf835b9a823"/>
+      href="BusinessFunction_f8ae97e0-b4e4-4ddf-8a11-85ab4f82bff8.xml#f8ae97e0-b4e4-4ddf-8a11-85ab4f82bff8"/>
   <target
       xsi:type="archimate:Artifact"
       href="Artifact_5de62358-d841-4a12-b4e1-e6dbce4709c5.xml#5de62358-d841-4a12-b4e1-e6dbce4709c5"/>

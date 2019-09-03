@@ -1,5 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manage Retained HSCAM Data (Application Process)"
-    id="d33acc40-8b07-487d-a481-233fe0e0add3"
-    documentation="Delete unneeded processing outputs likely from prior runs according to policy.&#xA;"/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manage Retained IMSIM Data (Application Process)"
-    id="a2915b03-5dcf-4895-867f-7f32eac38e38"
-    documentation="Delete unneeded processing outputs likely from prior runs according to policy.&#xA;"/>
