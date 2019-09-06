@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] Base Calibrations File System (Logical Node)"
+    name="[Data Backbone] Base Calibrations File Area (Logical Node)"
     id="80981d25-17f4-49e6-8a0c-eafbc4fa8db7"
     documentation="This  file system holds all calibraiton products, including all calibrations used in production processing. ">
   <properties

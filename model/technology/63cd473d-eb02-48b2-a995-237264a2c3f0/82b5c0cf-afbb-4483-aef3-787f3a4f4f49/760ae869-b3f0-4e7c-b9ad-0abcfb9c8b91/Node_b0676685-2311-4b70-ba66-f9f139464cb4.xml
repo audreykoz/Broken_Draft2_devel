@@ -1,6 +1,6 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA DAC] DAC Scratch File System (Logical Node)"
+    name="[NCSA DAC] DAC Scratch File Area (Logical Node)"
     id="b0676685-2311-4b70-ba66-f9f139464cb4"
     documentation="Holds a scratch area for DAC users &#xA;&#xA;This node is likely redundant with the community home file system as described in LSSTDev Filesystem Characteristic View.">
   <properties
