@@ -4,6 +4,26 @@
     name="Archi/CMDB Sync Stakeholder Input Sketch"
     id="712bd4d8-bb80-4c5c-b58a-af602b63a6a8">
   <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="7504d9e0-e788-4ae7-b90d-2532c35712f7"
+      name="CMDB Work">
+    <bounds
+        x="804"
+        y="147"
+        width="493"
+        height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="e90eef02-4375-4372-a570-322d49a907fd"
+      name="Modeling Work">
+    <bounds
+        x="168"
+        y="147"
+        width="625"
+        height="140"/>
+  </children>
+  <children
       xsi:type="archimate:SketchModelSticky"
       id="cb75bd9d-4868-4b07-a470-325b3124902f"
       name="Sticky"
@@ -51,7 +71,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Link the (physical) Configuration Items to logical configuration items&#xA;(infeasIble items)">
+      content="Link the (physical) Configuration Items (assets) to logical configuration items&#xA;(infeasIble items)">
     <sourceConnections
         id="7c4ca086-6183-48d7-b85a-8cb944424414"
         source="cdcc07a3-26e9-436e-aba5-1311b1f699d3"
@@ -61,7 +81,7 @@
         x="984"
         y="168"
         width="133"
-        height="121"/>
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:SketchModelSticky"
@@ -197,7 +217,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
-      content="Review the result of the linking ">
+      content="Review the result of the linking (FS pending review)">
     <sourceConnections
         id="4b36311a-505a-4186-b4d9-4fea5b1f842d"
         source="6ab15f0b-7448-4280-ae5b-1692425b20fc"
@@ -342,7 +362,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#60ff60"
-      content="OUT:&#xA;Well-formed tocket identifying the process to be subject to the CMDB logical/physical merger assigned to the architecture team">
+      content="OUT:&#xA;Well-formed change request identifying the process to be subject to the CMDB logical/physical merger assigned to the architecture team">
     <bounds
         x="120"
         y="324"
