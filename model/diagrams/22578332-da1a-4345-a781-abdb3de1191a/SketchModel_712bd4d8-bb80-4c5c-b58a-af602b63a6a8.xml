@@ -86,7 +86,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="cb75bd9d-4868-4b07-a470-325b3124902f"
       name="Sticky"
-      targetConnections="2bc94cbb-7c15-46da-903e-dde735187cb4 54ffe8fb-41ff-472e-83ef-9ba7661f16b8"
+      targetConnections="54ffe8fb-41ff-472e-83ef-9ba7661f16b8"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -126,7 +126,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="cdcc07a3-26e9-436e-aba5-1311b1f699d3"
       name="Sticky"
-      targetConnections="88c07ab5-75fe-41fb-b97c-2a5135cfa70b"
+      targetConnections="88c07ab5-75fe-41fb-b97c-2a5135cfa70b 2bc94cbb-7c15-46da-903e-dde735187cb4"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -146,7 +146,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="47a6a5a4-b5e1-462f-905f-0a11e8f01607"
       name="Sticky"
-      targetConnections="d848b88b-95fb-4a6f-badd-aca2ab6a7860 74eb9497-6858-4f6b-b39b-170cd50771c2"
+      targetConnections="d848b88b-95fb-4a6f-badd-aca2ab6a7860"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -183,10 +183,10 @@
         target="bfb65a39-5428-4ef1-9bd6-903eaccff9d6"
         type="1">
       <bendpoints
-          startX="-164"
-          startY="222"
-          endX="162"
-          endY="222"/>
+          startX="-152"
+          startY="390"
+          endX="174"
+          endY="390"/>
     </sourceConnections>
     <bounds
         x="650"
@@ -217,7 +217,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="bfb65a39-5428-4ef1-9bd6-903eaccff9d6"
       name="Sticky"
-      targetConnections="044997bb-c4da-4be1-8f8e-d463979aea8f 2677124b-613a-4857-b953-f68a3c9a5d5d"
+      targetConnections="044997bb-c4da-4be1-8f8e-d463979aea8f 2677124b-613a-4857-b953-f68a3c9a5d5d 74eb9497-6858-4f6b-b39b-170cd50771c2"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -237,7 +237,7 @@
       xsi:type="archimate:SketchModelSticky"
       id="4c127015-9a16-492e-b112-f6b842efc17c"
       name="Sticky"
-      targetConnections="4b36311a-505a-4186-b4d9-4fea5b1f842d"
+      targetConnections="4b36311a-505a-4186-b4d9-4fea5b1f842d a7bfbf97-5b92-4528-9735-19be106b14d0"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffb5"
@@ -246,22 +246,11 @@
         id="2bc94cbb-7c15-46da-903e-dde735187cb4"
         name="Failure restarts the process"
         source="4c127015-9a16-492e-b112-f6b842efc17c"
-        target="cb75bd9d-4868-4b07-a470-325b3124902f"
-        type="1">
-      <bendpoints
-          startX="-594"
-          startY="486"
-          endX="678"
-          endY="486"/>
-    </sourceConnections>
-    <sourceConnections
-        id="e817a78c-6cd9-4419-9902-c65eabc11633"
-        source="4c127015-9a16-492e-b112-f6b842efc17c"
-        target="3dc75ae5-5ba8-442c-ab3b-57d35192ec30"
+        target="cdcc07a3-26e9-436e-aba5-1311b1f699d3"
         type="1"/>
     <bounds
-        x="1467"
-        y="163"
+        x="1164"
+        y="-48"
         width="133"
         height="109"/>
   </children>
@@ -296,9 +285,26 @@
         type="1"/>
     <sourceConnections
         id="24ba940a-add3-4003-80a4-82ba0da29d4e"
-        name="CMDB Not reflecting reality restarts the process"
+        name="CMDB Not severely reflecting reality restarts the process"
         source="6ab15f0b-7448-4280-ae5b-1692425b20fc"
         target="1e35d43f-393c-46d6-bc86-b9a04df3a02e"
+        type="1"/>
+    <sourceConnections
+        id="a7bfbf97-5b92-4528-9735-19be106b14d0"
+        name="A minor issue"
+        source="6ab15f0b-7448-4280-ae5b-1692425b20fc"
+        target="4c127015-9a16-492e-b112-f6b842efc17c"
+        type="1">
+      <bendpoints
+          startX="99"
+          startY="-217"
+          endX="174"
+          endY="-6"/>
+    </sourceConnections>
+    <sourceConnections
+        id="e817a78c-6cd9-4419-9902-c65eabc11633"
+        source="6ab15f0b-7448-4280-ae5b-1692425b20fc"
+        target="3dc75ae5-5ba8-442c-ab3b-57d35192ec30"
         type="1"/>
     <bounds
         x="1311"
@@ -534,7 +540,7 @@
     <sourceConnections
         id="74eb9497-6858-4f6b-b39b-170cd50771c2"
         source="1e35d43f-393c-46d6-bc86-b9a04df3a02e"
-        target="47a6a5a4-b5e1-462f-905f-0a11e8f01607"
+        target="bfb65a39-5428-4ef1-9bd6-903eaccff9d6"
         type="1"/>
     <bounds
         x="1104"
