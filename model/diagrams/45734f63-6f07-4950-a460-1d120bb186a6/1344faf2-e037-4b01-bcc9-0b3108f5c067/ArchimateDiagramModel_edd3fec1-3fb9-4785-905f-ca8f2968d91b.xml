@@ -9,8 +9,8 @@
       name="Manual Catch-up Entry Scenario"
       textAlignment="1">
     <bounds
-        x="2076"
-        y="900"
+        x="1500"
+        y="888"
         width="577"
         height="608"/>
     <children
@@ -1300,7 +1300,7 @@
           href="ServingRelationship_6d85551a-f4d2-470b-a407-08b8e5563a12.xml#6d85551a-f4d2-470b-a407-08b8e5563a12"/>
     </sourceConnections>
     <bounds
-        x="789"
+        x="969"
         y="1614"
         width="338"
         height="61"/>
@@ -1313,7 +1313,7 @@
       id="da3c3809-7d5d-4ecd-9eff-d028b2a50036"
       targetConnections="fb9af1cd-6cd0-49ee-ab1b-c3c5a1125cf4 c735ec49-dd77-40c5-b3da-33b12406eddc">
     <bounds
-        x="792"
+        x="972"
         y="1812"
         width="150"
         height="79"/>
@@ -1326,7 +1326,7 @@
       id="459b62ad-bffd-4612-8d51-b7f678656c58"
       targetConnections="bfa0f930-d1f2-4c97-99c7-055353b52438 58434204-6375-454f-9408-4a4e93769324">
     <bounds
-        x="970"
+        x="1150"
         y="1812"
         width="150"
         height="79"/>
@@ -1356,7 +1356,7 @@
           href="AssignmentRelationship_360e76a2-6f5b-4153-995a-fb45b8f0468e.xml#360e76a2-6f5b-4153-995a-fb45b8f0468e"/>
     </sourceConnections>
     <bounds
-        x="791"
+        x="971"
         y="1942"
         width="328"
         height="55"/>
@@ -1395,7 +1395,7 @@
           href="AccessRelationship_f6f83b89-e11c-48b1-8327-0c1a1ff10a65.xml#f6f83b89-e11c-48b1-8327-0c1a1ff10a65"/>
     </sourceConnections>
     <bounds
-        x="791"
+        x="971"
         y="1716"
         width="336"
         height="55"/>

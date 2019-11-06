@@ -404,8 +404,8 @@
           href="AssignmentRelationship_039f975c-a48c-481d-9f5d-a4e5ef12f193.xml#039f975c-a48c-481d-9f5d-a4e5ef12f193"/>
     </sourceConnections>
     <bounds
-        x="1089"
-        y="888"
+        x="936"
+        y="780"
         width="266"
         height="97"/>
     <archimateElement
@@ -533,12 +533,12 @@
           endY="321"/>
       <bendpoints
           startX="-96"
-          startY="-288"
+          startY="-306"
           endX="-240"
           endY="57"/>
       <bendpoints
           startX="120"
-          startY="-288"
+          startY="-306"
           endX="-24"
           endY="57"/>
       <archimateRelationship
